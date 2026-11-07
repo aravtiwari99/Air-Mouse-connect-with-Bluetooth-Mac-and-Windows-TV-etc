@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_position_options">
+        <item>Izquierda</item>
+        <item>Derecha</item>
+    </string-array>
+    <string-array name="input_bar_options">
+        <item>Cuando el teclado está activo</item>
+        <item>Siempre</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="mouse_buttons_options">
+        <item>Izquierda</item>
+        <item>Centrar</item>
+        <item>Derecha</item>
+    </string-array>
+    <string-array name="mouse_jiggle_mode_options">
+        <item>Desactivado</item>
+        <item>Solo cuando la pantalla está encendida</item>
+        <item>Siempre, incluso en segundo plano (comprueba la optimización de la batería si no funciona)</item>
+    </string-array>
+    <string-array name="theme_option_names">
+        <item>Claro</item>
+        <item>Oscuro</item>
+        <item>Negro</item>
+        <item>Por defecto del sistema</item>
+    </string-array>
+    <string-array name="vertical_position_options">
+        <item>Arriba</item>
+        <item>Abajo</item>
+    </string-array>
+    <string-array name="volume_button_keys">
+        <item>Ninguna (volumen del sistema)</item>
+        <item>Volumen arriba</item>
+        <item>Volumen abajo</item>
+        <item>Botón izquierdo del ratón</item>
+        <item>Botón derecho del ratón</item>
+        <item>Página arriba</item>
+        <item>Página abajo</item>
+    </string-array>
+</resources>

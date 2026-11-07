@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_position_options">
+        <item>Ayrıldı</item>
+        <item>Sağ</item>
+    </string-array>
+    <string-array name="input_bar_options">
+        <item>Klavye aktif olduğunda</item>
+        <item>Her zaman</item>
+        <item>Olmaz</item>
+    </string-array>
+    <string-array name="mouse_buttons_options">
+        <item>Ayrıldı</item>
+        <item>Merkez</item>
+        <item>Sağ</item>
+    </string-array>
+    <string-array name="mouse_jiggle_mode_options">
+        <item>Kapalı</item>
+        <item>Yalnızca ekran açıkken</item>
+        <item>Her zaman, arka planda bile (çalışmıyorsa pil optimizasyonunu kontrol edin)</item>
+    </string-array>
+    <string-array name="theme_option_names">
+        <item>Açık</item>
+        <item>Koyu</item>
+        <item>Siyah</item>
+        <item>Sistem varsayılanı</item>
+    </string-array>
+    <string-array name="vertical_position_options">
+        <item>Yukarıda</item>
+        <item>Altında</item>
+    </string-array>
+    <string-array name="volume_button_keys">
+        <item>Yok (sistem sesi)</item>
+        <item>Sesi aç</item>
+        <item>Sesi kıs</item>
+        <item>Sol fare düğmesi</item>
+        <item>Sağ fare düğmesi</item>
+        <item>Sayfa yukarı</item>
+        <item>Sayfa aşağı</item>
+    </string-array>
+</resources>

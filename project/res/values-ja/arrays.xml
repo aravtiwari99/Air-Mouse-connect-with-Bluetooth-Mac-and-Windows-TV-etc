@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_position_options">
+        <item>左</item>
+        <item>右</item>
+    </string-array>
+    <string-array name="input_bar_options">
+        <item>キーボードがアクティブなとき</item>
+        <item>常に</item>
+        <item>決して</item>
+    </string-array>
+    <string-array name="mouse_buttons_options">
+        <item>左</item>
+        <item>中央</item>
+        <item>右</item>
+    </string-array>
+    <string-array name="mouse_jiggle_mode_options">
+        <item>オフ</item>
+        <item>画面がオンの場合のみ</item>
+        <item>常に、バックグラウンドでも（動作しない場合はバッテリーの最適化を確認してください）</item>
+    </string-array>
+    <string-array name="theme_option_names">
+        <item>ライト</item>
+        <item>ダーク</item>
+        <item>ブラック</item>
+        <item>システムデフォルト</item>
+    </string-array>
+    <string-array name="vertical_position_options">
+        <item>上</item>
+        <item>下</item>
+    </string-array>
+    <string-array name="volume_button_keys">
+        <item>なし (システムの音量)</item>
+        <item>音量アップ</item>
+        <item>音量ダウン</item>
+        <item>左マウスボタン</item>
+        <item>右マウスボタン</item>
+        <item>ページアップ</item>
+        <item>ページダウン</item>
+    </string-array>
+</resources>

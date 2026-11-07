@@ -1,0 +1,5 @@
+.class public interface abstract Lvd1;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Lh73;

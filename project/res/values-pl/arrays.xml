@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_position_options">
+        <item>Z lewej</item>
+        <item>Z prawej</item>
+    </string-array>
+    <string-array name="input_bar_options">
+        <item>Kiedy klawiatura jest aktywna</item>
+        <item>Zawsze</item>
+        <item>Nigdy</item>
+    </string-array>
+    <string-array name="mouse_buttons_options">
+        <item>Z lewej</item>
+        <item>Środek</item>
+        <item>Z prawej</item>
+    </string-array>
+    <string-array name="mouse_jiggle_mode_options">
+        <item>Wyłączony</item>
+        <item>Tylko gdy ekran jest włączony</item>
+        <item>Zawsze, nawet w tle (sprawdź optymalizację baterii, jeśli nie działa)</item>
+    </string-array>
+    <string-array name="theme_option_names">
+        <item>Jasny</item>
+        <item>Ciemny</item>
+        <item>Czarny</item>
+        <item>Standard systemu</item>
+    </string-array>
+    <string-array name="vertical_position_options">
+        <item>U góry</item>
+        <item>U dołu</item>
+    </string-array>
+    <string-array name="volume_button_keys">
+        <item>Brak (głośność systemu)</item>
+        <item>Głośność w górę</item>
+        <item>Głośność w dół</item>
+        <item>Lewy przycisk myszy</item>
+        <item>Prawy przycisk myszy</item>
+        <item>Strona w górę</item>
+        <item>Strona w dół</item>
+    </string-array>
+</resources>

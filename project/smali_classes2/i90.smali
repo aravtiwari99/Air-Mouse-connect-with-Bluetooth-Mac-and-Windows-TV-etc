@@ -1,0 +1,219 @@
+.class public final synthetic Li90;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Lbz1;
+
+
+# instance fields
+.field public final synthetic a:Lj73;
+
+.field public final synthetic b:Ljava/lang/Object;
+
+.field public final synthetic c:Ljava/lang/Object;
+
+.field public final synthetic i:Ljava/lang/Object;
+
+.field public final synthetic j:B
+
+.field public final synthetic m:Z
+
+.field public final synthetic q:Lzn3;
+
+.field public final synthetic s:Ljava/lang/Object;
+
+.field public final synthetic t:Lmy1;
+
+.field public final synthetic w:I
+
+
+# direct methods
+.method public synthetic constructor <init>(Lbz1;Lmy1;Lj73;Lbz1;Lbz1;ZLl43;Lzn3;I)V
+    .locals 1
+
+    const/4 v0, 0x1
+
+    iput-byte v0, p0, Li90;->j:B
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Li90;->c:Ljava/lang/Object;
+
+    iput-object p2, p0, Li90;->t:Lmy1;
+
+    iput-object p3, p0, Li90;->a:Lj73;
+
+    iput-object p4, p0, Li90;->i:Ljava/lang/Object;
+
+    iput-object p5, p0, Li90;->b:Ljava/lang/Object;
+
+    iput-boolean p6, p0, Li90;->m:Z
+
+    iput-object p7, p0, Li90;->s:Ljava/lang/Object;
+
+    iput-object p8, p0, Li90;->q:Lzn3;
+
+    iput p9, p0, Li90;->w:I
+
+    return-void
+.end method
+
+.method public synthetic constructor <init>(Lmy1;Lj73;ZLcn4;La80;Le90;Lzn3;Lnm0;I)V
+    .locals 1
+
+    const/4 v0, 0x1
+
+    const/4 v0, 0x0
+
+    iput-byte v0, p0, Li90;->j:B
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Li90;->t:Lmy1;
+
+    iput-object p2, p0, Li90;->a:Lj73;
+
+    iput-boolean p3, p0, Li90;->m:Z
+
+    iput-object p4, p0, Li90;->c:Ljava/lang/Object;
+
+    iput-object p5, p0, Li90;->i:Ljava/lang/Object;
+
+    iput-object p6, p0, Li90;->b:Ljava/lang/Object;
+
+    iput-object p7, p0, Li90;->q:Lzn3;
+
+    iput-object p8, p0, Li90;->s:Ljava/lang/Object;
+
+    iput p9, p0, Li90;->w:I
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final l(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 28
+
+    move-object/from16 v0, p0
+
+    iget-byte v1, v0, Li90;->j:B
+
+    sget-object v2, Log5;->g:Log5;
+
+    iget v3, v0, Li90;->w:I
+
+    iget-object v4, v0, Li90;->s:Ljava/lang/Object;
+
+    iget-object v5, v0, Li90;->b:Ljava/lang/Object;
+
+    iget-object v6, v0, Li90;->i:Ljava/lang/Object;
+
+    iget-object v7, v0, Li90;->c:Ljava/lang/Object;
+
+    packed-switch v1, :pswitch_data_0
+
+    move-object v8, v7
+
+    check-cast v8, Lbz1;
+
+    move-object v11, v6
+
+    check-cast v11, Lbz1;
+
+    move-object v12, v5
+
+    check-cast v12, Lbz1;
+
+    move-object v14, v4
+
+    check-cast v14, Ll43;
+
+    move-object/from16 v16, p1
+
+    check-cast v16, Lh02;
+
+    move-object/from16 v1, p2
+
+    check-cast v1, Ljava/lang/Integer;
+
+    invoke-virtual {v1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    or-int/lit8 v1, v3, 0x1
+
+    invoke-static {v1}, Laq2;->J(I)I
+
+    move-result v17
+
+    iget-object v9, v0, Li90;->t:Lmy1;
+
+    iget-object v10, v0, Li90;->a:Lj73;
+
+    iget-boolean v13, v0, Li90;->m:Z
+
+    iget-object v15, v0, Li90;->q:Lzn3;
+
+    invoke-static/range {v8 .. v17}, Lv13;->y(Lbz1;Lmy1;Lj73;Lbz1;Lbz1;ZLl43;Lzn3;Lh02;I)V
+
+    return-object v2
+
+    :pswitch_0
+    move-object/from16 v21, v7
+
+    check-cast v21, Lcn4;
+
+    move-object/from16 v22, v6
+
+    check-cast v22, La80;
+
+    move-object/from16 v23, v5
+
+    check-cast v23, Le90;
+
+    move-object/from16 v25, v4
+
+    check-cast v25, Lnm0;
+
+    move-object/from16 v26, p1
+
+    check-cast v26, Lh02;
+
+    move-object/from16 v1, p2
+
+    check-cast v1, Ljava/lang/Integer;
+
+    invoke-virtual {v1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    or-int/lit8 v1, v3, 0x1
+
+    invoke-static {v1}, Laq2;->J(I)I
+
+    move-result v27
+
+    iget-object v1, v0, Li90;->t:Lmy1;
+
+    iget-object v3, v0, Li90;->a:Lj73;
+
+    iget-boolean v4, v0, Li90;->m:Z
+
+    iget-object v0, v0, Li90;->q:Lzn3;
+
+    move-object/from16 v24, v0
+
+    move-object/from16 v18, v1
+
+    move-object/from16 v19, v3
+
+    move/from16 v20, v4
+
+    invoke-static/range {v18 .. v27}, Lc93;->t(Lmy1;Lj73;ZLcn4;La80;Le90;Lzn3;Lnm0;Lh02;I)V
+
+    return-object v2
+
+    nop
+
+    :pswitch_data_0
+    .packed-switch 0x0
+        :pswitch_0
+    .end packed-switch
+.end method

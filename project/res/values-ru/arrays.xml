@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_position_options">
+        <item>Оставил</item>
+        <item>Верно</item>
+    </string-array>
+    <string-array name="input_bar_options">
+        <item>Когда клавиатура активна</item>
+        <item>всегда</item>
+        <item>Ни за что</item>
+    </string-array>
+    <string-array name="mouse_buttons_options">
+        <item>Оставил</item>
+        <item>центр</item>
+        <item>Верно</item>
+    </string-array>
+    <string-array name="mouse_jiggle_mode_options">
+        <item>Wyłączony</item>
+        <item>Tylko gdy ekran jest włączony</item>
+        <item>Zawsze, nawet w tle (sprawdź optymalizację baterii, jeśli nie działa)</item>
+    </string-array>
+    <string-array name="theme_option_names">
+        <item>Светлая</item>
+        <item>Темная</item>
+        <item>Черная</item>
+        <item>По умолчанию системы</item>
+    </string-array>
+    <string-array name="vertical_position_options">
+        <item>Выше</item>
+        <item>Ниже</item>
+    </string-array>
+    <string-array name="volume_button_keys">
+        <item>Нет (громкость системы)</item>
+        <item>Увеличить громкость</item>
+        <item>Уменьшить громкость</item>
+        <item>Левая кнопка мыши</item>
+        <item>Правая кнопка мыши</item>
+        <item>Страница вверх</item>
+        <item>Страница вниз</item>
+    </string-array>
+</resources>

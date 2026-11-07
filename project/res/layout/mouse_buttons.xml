@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.button.MaterialButton android:id="@id/button_mouse_left" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginRight="4.0dip" android:layout_weight="1.0" android:textColor="?colorOnPrimary" app:backgroundTint="?colorPrimary" style="?buttonStyleDefaultButton" />
+    <com.google.android.material.button.MaterialButton android:id="@id/button_mouse_middle" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" android:layout_weight="1.0" style="?buttonStyleDefaultButton" />
+    <com.google.android.material.button.MaterialButton android:id="@id/button_mouse_right" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="4.0dip" android:layout_weight="1.0" android:textColor="?colorOnPrimary" app:backgroundTint="?colorPrimary" style="?buttonStyleDefaultButton" />
+</LinearLayout>

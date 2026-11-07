@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">Autres options</string>
+    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+    <string name="abc_capital_off">NON</string>
+    <string name="abc_capital_on">OUI</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">supprimer</string>
+    <string name="abc_menu_enter_shortcut_label">entrée</string>
+    <string name="abc_menu_function_shortcut_label">Fonction+</string>
+    <string name="abc_menu_meta_shortcut_label">Méta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">espace</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="action_disconnect">Déconnecter</string>
+    <string name="action_edit_mode">Mode édition</string>
+    <string name="action_keyboard">Clavier</string>
+    <string name="action_macro_recorder">Macro</string>
+    <string name="action_settings">Réglages</string>
+    <string name="actionbar_bluetooth_required">Bluetooth désactivé</string>
+    <string name="actionbar_connected">%1$s connecté</string>
+    <string name="actionbar_connecting">Connexion à %1$s</string>
+    <string name="actionbar_disconnected">%1$s débranché</string>
+    <string name="actionbar_disconnecting">%1$s déconnexion</string>
+    <string name="actionbar_not_connected">Pas connecté</string>
+    <string name="actionbar_not_paired">%1$s pas apparié</string>
+    <string name="actionbar_pairing">%1$s appariement</string>
+    <string name="add_component">Ajouter un composant</string>
+    <string name="add_shortcut">Ajouter un raccourci</string>
+    <string name="androidx_compose_foundation_autofill">Saisie automatique</string>
+    <string name="androidx_compose_ui_autofill">Saisie automatique</string>
+    <string name="app_name">Mouse</string>
+    <string name="bottomsheet_action_collapse">Réduire la bottom sheet</string>
+    <string name="bottomsheet_action_expand">Développer la bottom sheet</string>
+    <string name="bottomsheet_action_expand_halfway">Développer en entier</string>
+    <string name="bottomsheet_drag_handle_content_description">Poignée de déplacement</string>
+    <string name="button_allow_access">"Permettre l'accès"</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="button_edit_add_step_after">Ajouter une étape après</string>
+    <string name="button_edit_add_step_before">Ajouter une étape avant</string>
+    <string name="button_edit_delete_step">"Supprimer l'étape"</string>
+    <string name="button_enable_bluetooth">Activer Bluetooth</string>
+    <string name="button_large">Grande</string>
+    <string name="button_medium">Moyen</string>
+    <string name="button_ok">"D'accord"</string>
+    <string name="button_open_settings">Ouvrir les paramètres</string>
+    <string name="button_purchase_pending_restart">"Recommencer l'achat"</string>
+    <string name="button_report">Signaler</string>
+    <string name="button_restart_bluetooth">Redémarre le Bluetooth</string>
+    <string name="button_retry">Réessayez</string>
+    <string name="button_small">Petit</string>
+    <string name="button_stop_mouse_jiggle">Arrêter le Mouse Jiggle</string>
+    <string name="button_upgrade">Améliorer</string>
+    <string name="call_notification_answer_action">Répondre</string>
+    <string name="call_notification_answer_video_action">Vidéo</string>
+    <string name="call_notification_decline_action">Refuser</string>
+    <string name="call_notification_hang_up_action">Raccrocher</string>
+    <string name="call_notification_incoming_text">Appel entrant</string>
+    <string name="call_notification_ongoing_text">Appel en cours</string>
+    <string name="call_notification_screening_text">"Filtrage d'un appel entrant"</string>
+    <string name="category_configuration">Configuration</string>
+    <string name="category_controls">Contrôles</string>
+    <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
+    <string name="character_counter_overflowed_content_description">Nombre maximal de caractères dépassé : %1$d sur %2$d</string>
+    <string name="checking_device_capabilities">"Vérification des capacités de l'appareil"</string>
+    <string name="clear_text_end_icon_content_description">Effacer le texte</string>
+    <string name="close_drawer">Fermer le menu de navigation</string>
+    <string name="close_sheet">Fermer la feuille</string>
+    <string name="common_google_play_services_enable_button">Activer</string>
+    <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil.</string>
+    <string name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilité des services Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
+    <string name="common_google_play_services_unknown_issue">"L'application %1$s rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil.</string>
+    <string name="common_google_play_services_update_button">Mettre à jour</string>
+    <string name="common_google_play_services_update_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas mis à jour les services Google Play."</string>
+    <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour.</string>
+    <string name="common_google_play_services_wear_update_text">La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement.</string>
+    <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
+    <string name="common_signin_button_text">Se connecter</string>
+    <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="community_layouts_created_by">Crée par %1$s</string>
+    <string name="community_layouts_error">Les mises en page communautaires ne sont pas disponibles actuellement, veuillez réessayer plus tard.</string>
+    <string name="compatibility_learn_more">Apprendre encore plus</string>
+    <string name="compatibility_mode_connection_fix">"Activez les améliorations de connexion. Désactivez cette option si la connexion de l'appareil ne fonctionne pas."</string>
+    <string name="compatibility_mode_text">"Votre appareil ne prend pas en charge le mode de connexion standard, il utilisera donc le mode de compatibilité à la place. 
+ 
+ La création de la connexion Bluetooth requise peut prendre plusieurs tentatives ou peut ne pas fonctionner du tout. 
+ 
+ Veuillez essayer le app sur un autre appareil si la connexion ne fonctionne pas. 
+ Le mode standard est pris en charge par de nombreux appareils équipés d'Android 9 et supérieur et la connexion fonctionne beaucoup mieux dans ce mode."</string>
+    <string name="compatibility_mode_text_developer_option">"Activez et accédez aux \"Options de développeur\" sur votre appareil et décochez l'option \"Désactiver le profil de périphérique Bluetooth HID\" si disponible pour activer le mode de connexion normal."</string>
+    <string name="compatibility_mode_text_short">"L'établissement d'une connexion Bluetooth peut ne pas fonctionner avec cet appareil!"</string>
+    <string name="compatibility_mode_text_software_update">Mettez à jour votre appareil vers Android 11 pour activer le mode de connexion normal.</string>
+    <string name="compatibility_mode_title">Le mode de compatibilité est utilisé</string>
+    <string name="component_button">Bouton</string>
+    <string name="component_fullscreen_toggle">Basculer en plein écran</string>
+    <string name="component_keyboard_toggle">Basculer le clavier</string>
+    <string name="component_speech_input">Saisie vocale</string>
+    <string name="component_touch_pad">Pavé tactile</string>
+    <string name="connect_from_button">Activer la découvrabilité</string>
+    <string name="connect_from_progress">"En attente d'une connexion depuis un appareil distant"</string>
+    <string name="connect_from_subtitle">"Activez la visibilité sur cet appareil pour démarrer une connexion à partir de l'appareil distant."</string>
+    <string name="connect_hidden_edit_text">Adresse MAC Bluetooth</string>
+    <string name="connect_hidden_helper_text">Le format est xx:xx:xx:xx:xx:xx</string>
+    <string name="connect_hidden_subtitle">Certains appareils (par exemple le Chromecast avec Google TV) ne sont pas détectables, mais vous pouvez toujours vous connecter via leur adresse MAC Bluetooth.</string>
+    <string name="connect_hidden_title">Connectez-vous à un appareil caché</string>
+    <string name="connect_info">Prenez un autre téléphone, une tablette ou un PC, accédez aux paramètres Bluetooth et associez cet appareil pour commencer à utiliser la souris et le clavier.</string>
+    <string name="connect_info_title">Connecter un nouvel appareil</string>
+    <string name="connect_to_button">Rechercher un appareil</string>
+    <string name="connect_to_subtitle">"Activez Bluetooth sur l'appareil distant et assurez-vous qu'il est détectable avant de lancer la recherche."</string>
+    <string name="connect_to_title">Connectez-vous à un autre appareil</string>
+    <string name="connected">Connecté</string>
+    <string name="connecting">Connexion en cours</string>
+    <string name="connection_bluetooth_disabled">&lt;b>Bluetooth désactivé&lt;/b>&lt;br/>Active le Bluetooth pour te connecter à un appareil.</string>
+    <string name="connection_button_connect">Connecter</string>
+    <string name="connection_connected_device">%1$s connecté</string>
+    <string name="connection_connecting_message">"S'il vous plaît, attendez. S'il ne se connecte pas, vérifiez si le Bluetooth est activé sur \"%1$s\"."</string>
+    <string name="connection_connecting_title">Connexion à %1$s</string>
+    <string name="connection_device_paired">"L'appareil a été couplé avec succès"</string>
+    <string name="connection_device_removed">Association avec %1$s supprimée</string>
+    <string name="connection_device_setup">Configurer un appareil Bluetooth</string>
+    <string name="connection_device_setup_connect_button">Nouvel appareil</string>
+    <string name="connection_device_setup_info_message">Pour contrôler un appareil, choisis un appareil Bluetooth existant ou ajoute-en un nouveau.</string>
+    <string name="connection_device_setup_text">"Cette application utilise Bluetooth pour se connecter à d'autres appareils. Sélectionnez l'appareil que vous souhaitez contrôler ou connectez un nouvel appareil."</string>
+    <string name="connection_disconnected_device">%1$s déconnecté</string>
+    <string name="connection_help_bluetooth_restart">Bluetooth redémarre pour résoudre le problème de connexion</string>
+    <string name="connection_help_connected">"Déplacez votre doigt dans la zone tactile ci-dessous pour contrôler le curseur de la souris sur l'appareil distant."</string>
+    <string name="connection_help_discord_button">Communauté Discord</string>
+    <string name="connection_help_discord_text">Vous avez encore des problèmes ? Obtiens de l’aide pour les problèmes de votre appareil dans notre communauté Discord.</string>
+    <string name="connection_help_fix_connection">Réparer la connexion</string>
+    <string name="connection_help_not_moving">Désactivez et activez Bluetooth sur le périphérique distant pour résoudre le problème de connexion.</string>
+    <string name="connection_help_not_moving_close">Fermer</string>
+    <string name="connection_help_not_moving_report">Signaler un problème</string>
+    <string name="connection_help_troubleshooting">Dépannage</string>
+    <string name="connection_help_use_touchpad">Le curseur se déplace-t-il sur le périphérique distant?</string>
+    <string name="connection_help_use_touchpad_moving">Ça bouge</string>
+    <string name="connection_help_use_touchpad_not_moving">Immobile</string>
+    <string name="connection_info_disconnected">Appareil déconnecté. Cela peut être dû à des interférences avec d’autres appareils ou au fait que le Bluetooth de l’appareil est désactivé ou qu’il est hors de portée.</string>
+    <string name="connection_info_never_connected">&lt;b>Échec de la connexion Bluetooth&lt;/b>&lt;br/> Assure-toi que le Bluetooth est activé sur l’appareil distant.</string>
+    <string name="connection_info_profile_not_connected">&lt;b>La connexion Bluetooth doit être mise à jour&lt;/b>&lt;br/> %1$s est couplé à votre appareil, mais vous devrez activer le paramètre « Appareil d’entrée » pour le contrôler.&lt;br/>&lt;br/> 1. Dans les paramètres Bluetooth de &lt;b>%1$s&lt;/b>, recherchez votre appareil &lt;b>%2$s&lt;/b>.&lt;br/> 2. Activez &lt;b>Appareil d’entrée&lt;/b> (ou &lt;b>HID&lt;/b>). S’il n’est pas présent, couplez à nouveau les appareils. Un nouveau couplage peut parfois activer ce paramètre.</string>
+    <string name="connection_new_device_message">"        1. Prenez l'appareil que vous souhaitez contrôler et accédez aux paramètres Bluetooth. 
+ 
+         2. Recherchez et cliquez sur l'option pour ajouter un nouveau périphérique. 
+ 
+         3. Vous devriez voir le nom \"%1$s\". S'il n'y a pas d'appareil portant ce nom, vérifiez dans les paramètres Bluetooth si l'appareil est déjà appairé. Si tel est le cas, vous devez d'abord supprimer l'association avant de commencer une nouvelle connexion. 
+ 
+         4. Démarrez le processus d'appairage en cliquant sur l'entrée \"%1$s\" 
+ 
+         Le processus se poursuit après le début de l'appairage…     "</string>
+    <string name="connection_new_device_title">Se connecter depuis un autre appareil</string>
+    <string name="connection_not_paired">"Pas jumelé! Associez à nouveau dans les paramètres Bluetooth de l'appareil distant pour utiliser la souris et le clavier"</string>
+    <string name="connection_not_possible">Probablement pas pris en charge</string>
+    <string name="connection_ongoing_message">"Confirmez ou entrez le code PIN affiché sur le %1$s .
+ 
+ Si aucune boîte de dialogue d'appairage Bluetooth ne s'affiche, vérifiez les notifications pour un message de demande d'appairage Bluetooth."</string>
+    <string name="connection_ongoing_title">Pairage %1$s</string>
+    <string name="connection_option_a">OPTION DE CONNEXION A</string>
+    <string name="connection_option_b">OPTION DE CONNEXION B</string>
+    <string name="connection_option_c">OPTION DE CONNEXION C</string>
+    <string name="connection_permission_required">"Pour contrôler un appareil à distance, vous devez d'abord accorder la permission „%1$s“ pour „%2$s“"</string>
+    <string name="connection_possible">La connexion devrait être possible</string>
+    <string name="connection_remove_pairing">"Supprimer l'association à %1$s"</string>
+    <string name="connection_select_device">Appareil sélectionné %1$s</string>
+    <string name="connection_show_notifications">Afficher les notifications</string>
+    <string name="connection_upgrade_required">Mise à niveau de connexion requise</string>
+    <string name="connection_upgrade_required_text">Pour contrôler cet appareil, la connexion Bluetooth doit être renouvelée. Retirez le couplage pour continuer.</string>
+    <string name="control_code_scanner">Lecteur de codes</string>
+    <string name="control_custom">Mise en page personnalisée</string>
+    <string name="control_layout_custom_name">"Nom d'usage"</string>
+    <string name="control_layout_empty_text">Sélectionnez une action</string>
+    <string name="control_layout_key_edit">Modifier la clé</string>
+    <string name="control_layout_no_delay">Sans délais</string>
+    <string name="control_layout_rename_key">Bouton Renommer</string>
+    <string name="control_layout_send_text">Texte à envoyer</string>
+    <string name="control_layout_tab_functions">Fonction</string>
+    <string name="control_layout_tab_keyboard">Raccourci clavier</string>
+    <string name="control_layout_tab_text">Texte</string>
+    <string name="control_layout_test_on_device">Envoyer la combinaison à „%1$s“</string>
+    <string name="control_layout_tooltip_expand_width">Utiliser toute la largeur</string>
+    <string name="control_layout_tooltip_newline">Afficher sur une nouvelle ligne</string>
+    <string name="control_mouse_keyboard">Souris / clavier</string>
+    <string name="control_multimedia">Multimédia</string>
+    <string name="control_numpad">Pavé numérique</string>
+    <string name="control_overview_backup">Sauvegarde</string>
+    <string name="control_overview_delete_title">Supprimer %1$s?</string>
+    <string name="control_overview_duplicate">Créer une copie</string>
+    <string name="control_overview_new_control">Nouvelle mise en page</string>
+    <string name="control_overview_rename">Renommer</string>
+    <string name="control_pc_keyboard">"Clavier d'ordinateur"</string>
+    <string name="control_presenter">Présentation</string>
+    <string name="control_shortcuts">Disposition des raccourcis</string>
+    <string name="default_error_message">Données incorrectes</string>
+    <string name="default_popup_window_title">Fenêtre pop-up</string>
+    <string name="delete">Supprimer</string>
+    <string name="device_button_connect">Relier</string>
+    <string name="device_button_use">Utilise cet appareil</string>
+    <string name="device_help_check">"Vérifiez si l'appareil est allumé et que Bluetooth est activé."</string>
+    <string name="device_list_enable_notifications">"Afficher la connexion actuelle de l'appareil dans les notifications"</string>
+    <string name="device_list_section_active_device">Appareil actif</string>
+    <string name="device_list_section_configured_devices">Appareils configurés</string>
+    <string name="device_setup_connect_another_device">Connecter un autre appareil</string>
+    <string name="device_setup_try_again">Réessayer</string>
+    <string name="devices_button_add_device">"Configurer l'appareil distant"</string>
+    <string name="devices_button_help">Aidez-moi</string>
+    <string name="dialog_ble_not_supported">"Cet appareil signale qu'il ne prend pas en charge le clavier Bluetooth avec cette version Android. 
+ 
+ Il y a toutefois une petite chance que cela fonctionne, mais si ce n'est pas le cas, veuillez essayer un autre appareil ou une version Android plus récente."</string>
+    <string name="dialog_ble_not_supported_title">Attention</string>
+    <string name="dialog_ble_required">Votre appareil ne semble pas prendre en charge le mode de connexion standard. Vous devrez peut-être passer en mode de connexion Bluetooth Low Energy pour contrôler un appareil.</string>
+    <string name="dialog_ble_required_title">Problème de mode de connexion standard</string>
+    <string name="dialog_premium_upgrade_message">"Avec la version Pro, vous aurez accès à de nombreuses fonctionnalités supplémentaires :
+
+[icon:ic_tv_remote] **Disposition multimédia** pour contrôler la TV, les vidéos, les applications de musique et les appareils
+[icon:ic_outline_keyboard_alt_24] **Clavier PC complet** avec toutes les touches
+[icon:ic_outline_dashboard_customize_24] **Macros** et fonctions supplémentaires pour des dispositions personnalisées
+[icon:ic_baseline_color_lens_24] Change de thèmes, utilise le **mode sombre** ou le **plein écran**
+[icon:ic_outline_mouse_24] **Souris aérienne** pour contrôler le curseur avec le mouvement de l'appareil
+[icon:ic_outline_apps_24] **Prise en charge des touches de volume**, **lecteur de codes-barres**, **pavé numérique**, **mode stylet**, et plus
+
+L'achat de la version Pro aide également à développer de nouvelles fonctionnalités. Merci !"</string>
+    <string name="dialog_premium_upgrade_title">Débloque tout le potentiel de votre appareil</string>
+    <string name="dialog_quit_button">Déconnecter et quitter</string>
+    <string name="dialog_quit_message">"Appuyez sur le bouton d'accueil pour continuer à minimiser l'application et garder les appareils connectés."</string>
+    <string name="dialog_quit_title">Voulez-vous vous déconnecter et quitter?</string>
+    <string name="dialog_rating_cancel">Non merci</string>
+    <string name="dialog_rating_later">Peut-être plus tard</string>
+    <string name="dialog_rating_title">Évaluez cette application</string>
+    <string name="dialog_select_keyboard_layout">Sélectionner la disposition de la langue du clavier</string>
+    <string name="dialog_survey_start">"Commencer l'enquête"</string>
+    <string name="dialog_survey_text">"Participez à notre rapide sondage sur votre expérience avec le Clavier et souris sans serveur.
+
+Vos commentaires aideront à améliorer notre application. Cela ne prend que quelques minutes et vous recevrez un code pour télécharger gratuitement l'application Serverless Bluetooth Gamepad."</string>
+    <string name="dialog_survey_title">"Enquête sur l'expérience utilisateur"</string>
+    <string name="disable_direct_mouse_input">Désactiver la saisie directe de la souris</string>
+    <string name="disable_new_device_connections">"Désactiver les nouvelles connexions d'appareils"</string>
+    <string name="disconnected">Déconnecté</string>
+    <string name="disconnecting">Déconnexion</string>
+    <string name="dropdown_menu">Menu déroulant</string>
+    <string name="empty" />
+    <string name="empty_message">"Cliquez sur le bouton ci-dessous pour configurer l'appareil que vous souhaitez contrôler"</string>
+    <string name="empty_title">"Configurer l'appareil distant"</string>
+    <string name="enable_connection_mode_to_add_new_devices">Activer le mode de connexion pour ajouter de nouveaux appareils</string>
+    <string name="enable_new_device_connections">"Activer les nouvelles connexions d'appareils"</string>
+    <string name="error_a11y_label">Erreur : Non valide</string>
+    <string name="error_bluetooth_not_enabled">"Bluetooth n'est pas actif"</string>
+    <string name="error_bluetooth_server">"Le serveur Bluetooth n'a pas pu être initialisé"</string>
+    <string name="error_button_switch">Changer</string>
+    <string name="error_icon_content_description">Erreur</string>
+    <string name="error_text_input">"Le caractère n'est pas pris en charge par la langue actuelle du clavier."</string>
+    <string name="exit_dialog_continue">"Continuer l'édition"</string>
+    <string name="exit_dialog_discard">Jeter</string>
+    <string name="exit_dialog_title">Annuler les modifications?</string>
+    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
+    <string name="help_change_language">&lt;h3> Configuration requise! &lt;/h3>&lt;p> Pour pouvoir utiliser le clavier dans une langue spécifique avec tous ses caractères spéciaux, vous devez d&amp;#39;abord définir cette langue sur l&amp;#39; &lt;b>appareil récepteur&lt;/b> . &lt;/p>&lt;h5> Android &lt;/h5>&lt;p> Vous pouvez le faire en cliquant sur &lt;b>Système&lt;/b> dans les paramètres de l&amp;#39;appareil récepteur, puis sur &lt;b>Langues et saisie&lt;/b> . Sous &lt;b>Clavier virtuel,&lt;/b> vous pouvez ensuite sélectionner la langue dans laquelle vous souhaitez écrire sur l&amp;#39;appareil récepteur à l&amp;#39;aide du clavier Bluetooth. &lt;/p></string>
+    <string name="help_text">&lt;h3 id=how-it-works>Comment ça fonctionne&lt;/h3>&lt;p> L&amp;#39;application utilise Bluetooth pour contrôler un appareil compatible Bluetooth.&lt;/p>&lt;h3 id=how-to-connect> Comment se connecter&lt;/h3>&lt;p> Sur l&amp;#39;appareil que vous souhaitez contrôler, accédez aux paramètres Bluetooth et essayez de vous connecter à l&amp;#39;appareil Android. Vous devriez voir une boîte de dialogue ou une notification sur l&amp;#39;appareil Android où vous devez saisir ou confirmer un code PIN qui s&amp;#39;affiche sur l&amp;#39;appareil distant.&lt;/p>&lt;h3 id=what-is-the-difference-between-the-normal-and-the-compatibility-connection-mode-> Quelle est la différence entre le mode de connexion normal et le mode de connexion de compatibilité ?&lt;/h3>&lt;p> Le &lt;strong>mode de connexion normal&lt;/strong> est pris en charge par la plupart des appareils avec Android 9 et supérieur. Ce mode fonctionne avec la plupart des appareils Bluetooth qui prennent en charge un clavier ou une souris Bluetooth normal.&lt;/p>&lt;p> Le &lt;strong>mode de connexion de compatibilité&lt;/strong> est utilisé par les versions d&amp;#39;Android qui ne prennent pas en charge le mode de connexion normal. Ce mode utilise Bluetooth 4.0 (Low Energy) qui n&amp;#39;est pris en charge que sur les appareils plus récents. Dans ce mode, la connexion peut ne pas fonctionner une fois que les appareils ont été déconnectés et les appareils doivent être appairés à nouveau.&lt;/p>&lt;h3 id=the-letters-sent-to-my-devices-are-not-correct> Les caractères que je reçois sur mon appareil sont erronés&lt;/h3>&lt;p> Si les mauvaises lettres apparaissent, cela signifie que la langue du clavier n&amp;#39;est pas correctement définie sur l&amp;#39;appareil connecté. Pour résoudre ce problème, modifiez les paramètres du clavier sur l&amp;#39;appareil connecté selon la même disposition que celle configurée dans l&amp;#39;application. Pour les appareils Android connectés, vous devez également modifier la langue du clavier matériel dans les paramètres.&lt;/p>&lt;h3 id=how-do-i-connect-to-my-windows-pc-> Comment me connecter à mon PC Windows ?&lt;/h3>&lt;p> Si l&amp;#39;appareil Windows ne trouve pas l&amp;#39;appareil Android, il est peut-être déjà connecté. Pour résoudre ce problème, vous devez supprimer la connexion sur votre appareil Windows. Si vous utilisez l&amp;#39;application Windows Phone Link &amp;quot;Votre téléphone&amp;quot;, vous devez désactiver l&amp;#39;application Windows Phone Link sur votre téléphone et votre PC. Ensuite, vous devez supprimer le couplage Bluetooth avec votre téléphone et vous reconnecter via l&amp;#39;écran de connexion de l&amp;#39;application. &lt;/p>&lt;h3 id=why-does-the-android-app-on-the-connected-device-restart-after-connecting-or-disconnecting-> Pourquoi l&amp;#39;application Android sur l&amp;#39;appareil connecté redémarre-t-elle après la connexion ou la déconnexion ?&lt;/h3>&lt;p> Certaines applications Android ont un problème lorsqu&amp;#39;un clavier Bluetooth ou une télécommande multimédia est connecté ou déconnecté.&lt;/p>&lt;p> La solution consiste à se connecter avant d&amp;#39;utiliser l&amp;#39;application et à fermer l&amp;#39;application avec le bouton d&amp;#39;accueil au lieu du bouton de retour pour que l&amp;#39;application reste connectée à l&amp;#39;appareil.&lt;/p>&lt;p> Si vous m&amp;#39;envoyez le nom des applications, je peux essayer de contacter les développeurs pour résoudre ce problème avec l&amp;#39;application.&lt;/p>&lt;h3 id=can-i-use-the-premium-version-on-another-device-> Puis-je utiliser la version premium sur un autre appareil ?&lt;/h3>&lt;p> Oui, c&amp;#39;est possible. L&amp;#39;achat est lié au compte Google. Veuillez vous assurer que vous utilisez le même compte que celui que vous avez utilisé pour l&amp;#39;achat. Le redémarrage de l&amp;#39;appareil peut également résoudre les problèmes de paiement.&lt;/p>&lt;h3 id=how-can-i-get-a-refund-> Comment puis-je obtenir un remboursement ?&lt;/h3>&lt;p> Vous pouvez demander un remboursement directement à Google : &lt;a href=https://support.google.com/googleplay/answer/2479637?hl=en>https://support.google.com/googleplay/answer/2479637?hl=fr&lt;/a> ou m&amp;#39;envoyer un e-mail.&lt;/p></string>
+    <string name="icon_content_description">Icône de la boîte de dialogue</string>
+    <string name="in_progress">En cours</string>
+    <string name="indeterminate">Partiellement coché</string>
+    <string name="info_device_not_connecting">"Impossible de se connecter à l'appareil, veuillez réessayer."</string>
+    <string name="info_message_full_screen_exit_button">Fais glisser vers le haut et appuie sur retour pour quitter le mode plein écran</string>
+    <string name="info_message_full_screen_exit_gesture">Appuie deux fois sur retour pour quitter le mode plein écran</string>
+    <string name="info_searching_action">Recherche Avancée</string>
+    <string name="info_searching_devices">"Recherche d'appareils Bluetooth connectables"</string>
+    <string name="info_searching_not_found">Aucun périphérique Bluetooth connectable trouvé</string>
+    <string name="info_searching_not_found_message">&lt;p>Assurez-vous que Bluetooth est activé sur l&amp;#39;appareil distant et que l&amp;#39;appareil est détectable.&lt;/p>&lt;p> Vous pouvez rendre l&amp;#39;appareil détectable en accédant aux paramètres Bluetooth de l&amp;#39;appareil auquel vous souhaitez vous connecter.&lt;/p>&lt;p> &lt;strong>Recherche Avancée&lt;/strong>&lt;/p>&lt;p> Certains appareils, par exemple Chromecast avec Google TV, n&amp;#39;annoncent pas leur nom et une recherche avancée sera nécessaire pour les trouver.&lt;/p></string>
+    <string name="info_shortcut_edit">Appuyez longtemps pour modifier</string>
+    <string name="info_turn_device_off">Déconnecte ton casque ou ton enceinte Bluetooth pour améliorer la connexion.</string>
+    <string name="info_turn_device_off_lag">Si le curseur de la souris a du retard, déconnecte ton casque ou ton enceinte Bluetooth.</string>
+    <string name="info_turn_hotspot_off">"Désactive le point d'accès et le WiFi pour améliorer la connexion Bluetooth."</string>
+    <string name="info_turn_hotspot_off_lag">"Si le curseur de la souris a du retard, essaie d'éteindre le point d'accès et le WiFi."</string>
+    <string name="info_turn_wifi_off">Désactive le WiFi pour améliorer la connexion Bluetooth.</string>
+    <string name="info_turn_wifi_off_lag">Si le curseur de la souris a du retard, essaie de désactiver le WiFi.</string>
+    <string name="item_view_role_description">Onglet</string>
+    <string name="keyboard_banner_not_working">Non, il y a des problèmes</string>
+    <string name="keyboard_banner_text">Le clavier fonctionne-t-il ? Vérifie si les caractères comme @ sont corrects.</string>
+    <string name="keyboard_banner_working">Oui, il fonctionne</string>
+    <string name="keyboard_layout_all_language_layouts">Toutes les dispositions de langue</string>
+    <string name="keyboard_layout_info">"Sélectionne la disposition du clavier correspondant à celle configurée sur ton appareil connecté.
+Si des caractères incorrects apparaissent, veuillez choisir une autre disposition."</string>
+    <string name="keyboard_layout_previous_layouts">Dispositions de clavier utilisées</string>
+    <string name="keyboard_layout_system_language_layouts">Dispositions des langues du système</string>
+    <string name="keyboard_section_alphanumeric_modifier_keys">Touches alphanumériques et de modification</string>
+    <string name="keyboard_section_browser_keys">Touches de navigateur</string>
+    <string name="keyboard_section_function_keys">Touches de fonction</string>
+    <string name="keyboard_section_navigation_system_keys">Touches de navigation et système</string>
+    <string name="keyboard_section_numpad">Pavé numérique</string>
+    <string name="layout_share">Partager</string>
+    <string name="layout_share_description">Le partage de la mise en page permettra aux autres utilisateurs de la voir et de la télécharger.</string>
+    <string name="layout_share_title">Partager la mise en page</string>
+    <string name="m3_loading_indicator_content_description">Chargement…</string>
+    <string name="m3c_bottom_sheet_collapse_description">Réduire la bottom sheet</string>
+    <string name="m3c_bottom_sheet_dismiss_description">Fermer la bottom sheet</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">Poignée de déplacement</string>
+    <string name="m3c_bottom_sheet_expand_description">Développer la bottom sheet</string>
+    <string name="m3c_bottom_sheet_pane_title">Bottom sheet</string>
+    <string name="m3c_date_input_headline">Date saisie</string>
+    <string name="m3c_date_input_headline_description">Date saisie : %1$s</string>
+    <string name="m3c_date_input_invalid_for_pattern">La date ne correspond pas au format attendu : %1$s</string>
+    <string name="m3c_date_input_invalid_not_allowed">Date non autorisée : %1$s</string>
+    <string name="m3c_date_input_invalid_year_range">"Date hors de la plage d'années attendue : %1$s - %2$s"</string>
+    <string name="m3c_date_input_label">Date</string>
+    <string name="m3c_date_input_no_input_description">Aucun</string>
+    <string name="m3c_date_input_title">Sélectionner une date</string>
+    <string name="m3c_date_picker_headline">Date sélectionnée</string>
+    <string name="m3c_date_picker_headline_description">Sélection actuelle : %1$s</string>
+    <string name="m3c_date_picker_navigate_to_year_description">"Accéder à l'année %1$s"</string>
+    <string name="m3c_date_picker_no_selection_description">Aucun</string>
+    <string name="m3c_date_picker_scroll_to_earlier_years">Faites défiler pour afficher les années précédentes</string>
+    <string name="m3c_date_picker_scroll_to_later_years">Faites défiler pour afficher les années suivantes</string>
+    <string name="m3c_date_picker_switch_to_calendar_mode">Passer au mode de saisie Agenda</string>
+    <string name="m3c_date_picker_switch_to_day_selection">"Balayez l'écran pour sélectionner une année ou appuyez pour revenir à la sélection d'un jour"</string>
+    <string name="m3c_date_picker_switch_to_input_mode">Passer au mode de saisie Texte</string>
+    <string name="m3c_date_picker_switch_to_next_month">Passer au mois suivant</string>
+    <string name="m3c_date_picker_switch_to_previous_month">Passer au mois précédent</string>
+    <string name="m3c_date_picker_switch_to_year_selection">"Passer à la sélection d'une année"</string>
+    <string name="m3c_date_picker_title">Sélectionner une date</string>
+    <string name="m3c_date_picker_today_description">"Aujourd'hui"</string>
+    <string name="m3c_date_picker_year_picker_pane_title">"Sélecteur d'année visible"</string>
+    <string name="m3c_date_range_input_invalid_range_input">Plage de dates non valide</string>
+    <string name="m3c_date_range_input_title">Saisir des dates</string>
+    <string name="m3c_date_range_picker_day_in_range">Dans la plage</string>
+    <string name="m3c_date_range_picker_end_headline">Date de fin</string>
+    <string name="m3c_date_range_picker_scroll_to_next_month">Faites défiler pour afficher le mois suivant</string>
+    <string name="m3c_date_range_picker_scroll_to_previous_month">Faites défiler pour afficher le mois précédent</string>
+    <string name="m3c_date_range_picker_start_headline">Date de début</string>
+    <string name="m3c_date_range_picker_title">Sélectionner des dates</string>
+    <string name="m3c_dialog">Boîte de dialogue</string>
+    <string name="m3c_dropdown_menu_collapsed">Réduit</string>
+    <string name="m3c_dropdown_menu_expanded">Développé</string>
+    <string name="m3c_dropdown_menu_toggle">Activer/désactiver le menu déroulant</string>
+    <string name="m3c_floating_toolbar_collapse">"Réduire la barre d'outils"</string>
+    <string name="m3c_floating_toolbar_expand">"Développer la barre d'outils"</string>
+    <string name="m3c_search_bar_search">Rechercher</string>
+    <string name="m3c_snackbar_dismiss">Fermer</string>
+    <string name="m3c_snackbar_pane_title">Alerte</string>
+    <string name="m3c_suggestions_available">Suggestions ci-dessous</string>
+    <string name="m3c_time_input_dialog_title">"Saisir l'heure"</string>
+    <string name="m3c_time_picker_am">AM</string>
+    <string name="m3c_time_picker_dialog_title">"Sélectionner l'heure"</string>
+    <string name="m3c_time_picker_hour">Heure</string>
+    <string name="m3c_time_picker_hour_24h_suffix">%1$d heures</string>
+    <string name="m3c_time_picker_hour_selection">Sélectionner une heure</string>
+    <string name="m3c_time_picker_hour_suffix">%1$d heures</string>
+    <string name="m3c_time_picker_hour_text_field">en heures</string>
+    <string name="m3c_time_picker_minute">Minute</string>
+    <string name="m3c_time_picker_minute_selection">Sélectionner des minutes</string>
+    <string name="m3c_time_picker_minute_suffix">%1$d minutes</string>
+    <string name="m3c_time_picker_minute_text_field">en minutes</string>
+    <string name="m3c_time_picker_period_toggle_description">Sélectionner le format AM ou PM</string>
+    <string name="m3c_time_picker_pm">PM</string>
+    <string name="m3c_time_picker_toggle_keyboard">"Passer en mode de saisie de texte pour indiquer l'heure"</string>
+    <string name="m3c_time_picker_toggle_touch">"Passer en mode horloge pour la saisie de l'heure"</string>
+    <string name="m3c_tooltip_long_press_label">"Afficher l'info-bulle"</string>
+    <string name="m3c_tooltip_pane_description">Info-bulle</string>
+    <string name="m3c_wide_navigation_rail_close_rail">Fermer le rail</string>
+    <string name="m3c_wide_navigation_rail_pane_title">Rail de navigation</string>
+    <string name="material_clock_toggle_content_description">Sélectionner le format AM ou PM</string>
+    <string name="material_hour_24h_suffix">%1$s heures</string>
+    <string name="material_hour_selection">Sélectionnez une heure</string>
+    <string name="material_hour_suffix">%1$s h</string>
+    <string name="material_minute_selection">Sélectionner des minutes</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_slider_range_end">Fin de plage</string>
+    <string name="material_slider_range_start">Début de plage</string>
+    <string name="material_slider_value">Valeur</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">"Passer en mode horloge pour la saisie de l'heure."</string>
+    <string name="material_timepicker_hour">Heure</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">"Sélectionner l'heure"</string>
+    <string name="material_timepicker_text_input_mode_description">"Passer en mode saisie de texte pour la saisie de l'heure."</string>
+    <string name="md_message_connection_failed">"**Échec de la connexion**
+
+La connexion Bluetooth n'a pas pu être établie.
+
+{{ConnectionCard}}
+
+**Que faire :**
+1. **Vérifier le Bluetooth :** Assurez-vous qu'il est activé sur les deux appareils.
+2. **Se rapprocher :** Assurez-vous que les appareils sont assez proches pour se connecter.
+3. **Redémarrer :** Éteignez et rallumez les deux appareils.
+4. **Mettre à jour :** Assurez-vous que vos appareils sont à jour.
+
+Besoin de plus d'aide ? Rejoignez notre chaîne de support Discord."</string>
+    <string name="md_message_pairing_failed">"**Échec du jumelage**
+
+La connexion Bluetooth n'a pas pu être établie.
+
+{{ConnectionCard}}
+
+**Que faire :**
+1. **Confirmer le jumelage :** Acceptez toutes les invites de jumelage sur chaque appareil.
+2. **Essayer à nouveau :** Reconnectez-vous si vous n'avez pas vu d'invite.
+3. **Redémarrer :** Éteignez et rallumez les deux appareils.
+4. **Mettre à jour :** Assurez-vous que tous les appareils sont à jour.
+
+Besoin de plus d'aide ? Rejoignez notre chaîne de support Discord."</string>
+    <string name="menu_air_mouse_sensitivity">Sensibilité de la souris à air</string>
+    <string name="menu_analog_stick">Stick analogique</string>
+    <string name="menu_ble_mode">Le mode de compatibilité</string>
+    <string name="menu_bluetooth_devices">Appareils Bluetooth</string>
+    <string name="menu_category_air_mouse">Air Mouse</string>
+    <string name="menu_category_touchpad">Pavé tactile</string>
+    <string name="menu_community_layouts">Dispositions communautaires</string>
+    <string name="menu_custom_controls">Dispositions personnalisées</string>
+    <string name="menu_design_option">Conception</string>
+    <string name="menu_done">Terminé</string>
+    <string name="menu_edit">Éditer</string>
+    <string name="menu_feedback">Develop and design by \"@Tiw@ri\"</string>
+    <string name="menu_full_screen">Démarrer le mode pavé tactile plein écran</string>
+    <string name="menu_help">Aidez-moi</string>
+    <string name="menu_keyboard_language">Langue du clavier</string>
+    <string name="menu_manage_layouts">Gérer les mises en page</string>
+    <string name="menu_mouse_jiggle_mode">Déplacer la souris périodiquement (Mouse Jiggler)</string>
+    <string name="menu_mouse_settings">Paramètres de la souris</string>
+    <string name="menu_paste">Coller le texte du presse-papiers</string>
+    <string name="menu_restore">Restaurer</string>
+    <string name="menu_save_changes">Enregistrer</string>
+    <string name="menu_screen_settings">"Paramètres d'écran"</string>
+    <string name="menu_settings">Réglages</string>
+    <string name="menu_show_android_navigation_buttons">Afficher les boutons de navigation Android</string>
+    <string name="menu_show_media_control_buttons">Afficher les boutons de contrôle des médias</string>
+    <string name="menu_show_shortcuts_buttons">Afficher les raccourcis</string>
+    <string name="menu_theme_color">Couleur du thème</string>
+    <string name="menu_upgrade_to_premium">Passez à la version Pro</string>
+    <string name="menu_use_air_mouse">Utilisez Air Mouse</string>
+    <string name="menu_use_dark_theme">Mode sombre</string>
+    <string name="menu_use_outline_theme">Style Tron</string>
+    <string name="mesage_layout_restore_failed">Impossible de restaurer la mise en page</string>
+    <string name="message_char_not_found">"'%1$s' non disponible dans la langue du clavier sélectionnée"</string>
+    <string name="message_connection_timeout">"Échec de l'envoi du texte"</string>
+    <string name="message_error">"Une erreur s'est produite, veuillez réessayer"</string>
+    <string name="message_error_no_file_manager_found">Aucun gestionnaire de fichiers trouvé</string>
+    <string name="message_error_speech_audio">"Erreur audio. Autorise l'accès au micro dans ton application vocale."</string>
+    <string name="message_error_speech_client">"Erreur de l'application vocale. Vérifiez ses autorisations et paramètres."</string>
+    <string name="message_error_speech_device_lock">"Déverrouille l'appareil pour utiliser la saisie vocale."</string>
+    <string name="message_error_speech_network">"Erreur réseau dans l'application vocale. Vérifie la connexion ou change d'application."</string>
+    <string name="message_error_speech_not_matched">"Aucune parole reconnue. Réessayez ou changez d'application vocale."</string>
+    <string name="message_error_speech_server">Service vocal indisponible. Réessaie plus tard ou utilise une autre application.</string>
+    <string name="message_layout_restored">Mise en page restaurée</string>
+    <string name="message_pen_detected">Stylo détecté. Accédez aux paramètres de la souris pour modifier le comportement.</string>
+    <string name="message_premium_required">Cette fonctionnalité est disponible dans la version Pro</string>
+    <string name="message_purchase_completed">"Merci d'avoir acheté la version Pro ! Vous pouvez maintenant utiliser toutes les fonctionnalités."</string>
+    <string name="message_purchase_pending">Finalisez votre achat pour débloquer les fonctionnalités Pro</string>
+    <string name="message_purchase_pending_action">Finaliser &amp; débloquer Pro</string>
+    <string name="message_restore_failed">"La mise en page n'a pas pu être restaurée"</string>
+    <string name="message_return_back">Appuyez en arrière pour vous déconnecter</string>
+    <string name="message_rotate_device">Tournez votre appareil</string>
+    <string name="message_waiting_for_device">"En attente de la connexion de l'appareil pour envoyer du texte"</string>
+    <string name="mouse_settings_close">Fermer</string>
+    <string name="mouse_settings_invert_scroll_direction">Inverser le sens de défilement</string>
+    <string name="mouse_settings_mouse_buttons">Boutons de souris</string>
+    <string name="mouse_settings_mouse_buttons_display">Afficher les boutons de la souris</string>
+    <string name="mouse_settings_pen_mode_description">"Passez le curseur sur l'écran avec le stylet pour déplacer le curseur"</string>
+    <string name="mouse_settings_pen_mode_title">Mode dessin au stylet</string>
+    <string name="mouse_settings_pointer_speed">Vitesse du pointeur</string>
+    <string name="mouse_settings_scroll_bar">Barre de défilement</string>
+    <string name="mouse_settings_scroll_speed">Vitesse de défilement</string>
+    <string name="mouse_settings_show_buttons_above">Afficher les boutons au-dessus du pavé tactile</string>
+    <string name="mouse_settings_title">Paramètres de la souris</string>
+    <string name="mouse_settings_touch_pad_clicks">Clics tactiles de la souris</string>
+    <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
+    <string name="mtrl_checkbox_state_description_checked">Cochée</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partiellement cochée</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Non cochée</string>
+    <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
+    <string name="mtrl_picker_a11y_next_month">Passer au mois suivant</string>
+    <string name="mtrl_picker_a11y_prev_month">Passer au mois précédent</string>
+    <string name="mtrl_picker_announce_current_range_selection">Date de début sélectionnée : %1$s – Date de fin sélectionnée : %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">aucune</string>
+    <string name="mtrl_picker_cancel">Annuler</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
+    <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Date de fin : %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format incorrect.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple : %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utiliser %1$s</string>
+    <string name="mtrl_picker_invalid_range">Plage non valide.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">"Accéder à l'année en cours : %1$d"</string>
+    <string name="mtrl_picker_navigate_to_year_description">"Accéder à l'année %1$d"</string>
+    <string name="mtrl_picker_out_of_range">Hors limite : %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Sélectionnez une période</string>
+    <string name="mtrl_picker_range_header_unselected">Date de début – Date de fin</string>
+    <string name="mtrl_picker_save">Enregistrer</string>
+    <string name="mtrl_picker_start_date_description">Date de début : %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">j</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_today_description">"Aujourd'hui : %1$s"</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer au mode de saisie Agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">"Passer à la vue d'agenda"</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passer au mode de saisie Texte</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Passer à la vue des années</string>
+    <string name="mtrl_timepicker_cancel">Annuler</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="nav_app_bar_navigate_up_description">Remonter</string>
+    <string name="nav_app_bar_open_drawer_description">Ouvrir le panneau de navigation</string>
+    <string name="navigation_menu">Menu de navigation</string>
+    <string name="new_connections_disabled">Nouvelles connexions désactivées</string>
+    <string name="not_paired">Non apparié</string>
+    <string name="not_selected">Non sélectionné</string>
+    <string name="not_supported">"Si la connexion ne fonctionne pas, les appareils doivent être couplés à nouveau! 
+ 
+ 1. Gardez cet écran ouvert 
+ 2. Sur l'autre appareil, accédez aux paramètres Bluetooth 
+ 3. Supprimez la connexion Bluetooth actuelle et reconnectez-vous."</string>
+    <string name="notification_text">"Cliquez ici pour contrôler l'appareil."</string>
+    <string name="notification_title">%1$s connecté</string>
+    <string name="onboarding_get_started">Commencer</string>
+    <string name="onboarding_message_1">"Vous disposez désormais d'un clavier, d'une souris et d'une télécommande multimédia Bluetooth sans avoir besoin de logiciel ou de matériel supplémentaire."</string>
+    <string name="onboarding_message_2">"Tout appareil prenant en charge une souris ou un clavier Bluetooth devrait fonctionner avec l'application. 
+ 
+ Cependant, il est possible que certaines combinaisons d'appareils ne fonctionnent pas en raison de problèmes matériels."</string>
+    <string name="onboarding_message_3">"Les commandes de la souris et du clavier sont disponibles gratuitement et sans aucune publicité.
+
+Passez à la version Pro pour accéder à des fonctionnalités supplémentaires telles que des commandes multimédias, une souris à air et de nombreuses options de personnalisation."</string>
+    <string name="onboarding_next">Suivant</string>
+    <string name="onboarding_title_1">Bienvenue!</string>
+    <string name="option_android">Android</string>
+    <string name="option_computer">Ordinateur</string>
+    <string name="option_connects_but_doesnt_work">Il se connecte mais ne fonctionne pas</string>
+    <string name="option_error">Je reçois une erreur</string>
+    <string name="option_ios">iOS</string>
+    <string name="option_macos">macOS</string>
+    <string name="option_no">Non</string>
+    <string name="option_nothing">Rien ne se passe</string>
+    <string name="option_other">Autre</string>
+    <string name="option_phone">Téléphone</string>
+    <string name="option_something_else">Autre chose se produit</string>
+    <string name="option_tablet">Tablette</string>
+    <string name="option_tv">Téléviseur</string>
+    <string name="option_unsure">Pas sûr</string>
+    <string name="option_windows">Windows</string>
+    <string name="option_yes">Oui</string>
+    <string name="outcome_connection_error">Il semble y avoir une erreur. Veuillez vérifier les paramètres Bluetooth de votre appareil et réessayer.</string>
+    <string name="outcome_device_not_visible">Si vous ne voyez pas l’appareil dans l’application, assurez-vous qu’il est en mode de couplage et à portée. Essayez de redémarrer les deux appareils.</string>
+    <string name="outcome_enable_bluetooth">Veuillez activer le Bluetooth sur l’appareil que vous essayez de contrôler et réessayez.</string>
+    <string name="outcome_ensure_screen_unlocked">Assurez-vous que l’écran est déverrouillé sur l’appareil que vous essayez de contrôler et réessayez.</string>
+    <string name="outcome_find_bluetooth_setting">Vérifiez les paramètres de votre appareil ou le panneau d’accès rapide pour trouver et activer le Bluetooth. Si vous avez besoin d’aide, consultez le manuel ou le site Web d’assistance de votre appareil.</string>
+    <string name="outcome_restart_devices">Veuillez essayer d’éteindre et de rallumer les deux appareils, puis redémarrez le processus de dépannage.</string>
+    <string name="outcome_restart_devices_if_unlocked">Si l’écran est déverrouillé et que vous rencontrez toujours des problèmes, essayez de redémarrer les deux appareils.</string>
+    <string name="outcome_unexpected_issue">Vous rencontrez un problème inattendu. Veuillez contacter notre équipe d’assistance pour obtenir de l’aide.</string>
+    <string name="outcome_unlock_screen">Veuillez déverrouiller l’écran de l’appareil que vous essayez de contrôler et réessayez.</string>
+    <string name="pairing_successful">Jumelage réussi</string>
+    <string name="pairing_unknown">"L'appariement pourrait ne pas être utilisable actuellement"</string>
+    <string name="password_toggle_content_description">Afficher le mot de passe</string>
+    <string name="permgrouplab_nearby_devices">Appareils à proximité</string>
+    <string name="pin_required">En attente de saisie du code PIN</string>
+    <string name="premium_feature_fullscreen_mode">Le mode plein écran est disponible dans la version Pro</string>
+    <string name="premium_feature_password_mode">Le mode mot de passe est disponible dans la version Pro</string>
+    <string name="premium_feature_text_field">La pré-écriture et le collage de texte sont disponibles dans la version Pro</string>
+    <string name="premium_feature_volume_buttons">"La modification du volume sur l'appareil distant est prise en charge dans la version Pro"</string>
+    <string name="premium_message_external_mouse_support">La saisie directe de la souris est prise en charge dans la version Pro</string>
+    <string name="proposed_solution">Solution proposée</string>
+    <string name="question_bluetooth_enabled">Le Bluetooth est-il activé sur l’appareil que vous souhaitez contrôler ?</string>
+    <string name="question_connection_issue">Que se passe-t-il lorsque vous essayez de vous connecter ?</string>
+    <string name="question_device_type">Quel appareil essayez-vous de contrôler ?</string>
+    <string name="question_device_visible">Voyez-vous l’appareil que vous souhaitez contrôler dans l’application ?</string>
+    <string name="question_devices_restarted">Avez-vous essayé d’éteindre et de rallumer les deux appareils ?</string>
+    <string name="question_operating_system">Quel système d’exploitation utilise l’appareil ?</string>
+    <string name="question_screen_locked">L’écran de l’appareil que vous essayez de contrôler est-il verrouillé ?</string>
+    <string name="question_used_before">Avez-vous déjà utilisé cette application avec cet appareil ?</string>
+    <string name="range_end">Fin de plage</string>
+    <string name="range_start">Début de plage</string>
+    <string name="scanner_continuous_scanning">Numérisation continue</string>
+    <string name="scanner_reject_duplicate">Ignorer les doublons</string>
+    <string name="scanner_scan_code">Scanner un QR / code-barres</string>
+    <string name="scanner_send_enter">Envoyer ENTER après le scan</string>
+    <string name="screen_settings_brightness">Luminosité</string>
+    <string name="screen_settings_haptic_feedback">Vibrations tactiles</string>
+    <string name="screen_settings_keep_screen_on">"Gardez l'écran allumé"</string>
+    <string name="screen_settings_show_keyboard_on_start">Afficher le clavier au démarrage</string>
+    <string name="screen_settings_show_over_lock_screen">"Afficher l'appli par-dessus l'écran de verrouillage"</string>
+    <string name="screen_settings_show_text_input_bar">Afficher la barre de saisie de texte</string>
+    <string name="screen_settings_start_in_full_screen_mode">Démarrer en mode plein écran</string>
+    <string name="screen_settings_title">"Paramètres d'écran"</string>
+    <string name="screen_settings_vol_down_button">Bouton de réduction du volume</string>
+    <string name="screen_settings_vol_up_button">"Bouton d'augmentation du volume"</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="searchview_clear_text_content_description">Effacer le texte</string>
+    <string name="searchview_navigation_content_description">Retour</string>
+    <string name="selected">Sélectionné</string>
+    <string name="settings_controls">Contrôles</string>
+    <string name="settings_display">Affichage</string>
+    <string name="settings_gamepad">Manette de jeu</string>
+    <string name="settings_keyboard">Clavier</string>
+    <string name="settings_mouse">Souris</string>
+    <string name="share_dialog_author">"Nom de l'auteur"</string>
+    <string name="share_dialog_device_target">Cible du périphérique</string>
+    <string name="share_dialog_language">Langue utilisée dans la mise en page</string>
+    <string name="share_dialog_layout_name">Nom de la mise en page</string>
+    <string name="share_dialog_only_symbols">Seulement des symboles</string>
+    <string name="share_dialog_public_sharing">Partager avec la communauté</string>
+    <string name="shortcut_name">Nom du raccourci</string>
+    <string name="shortcuts_edit_help">Appuyez sur le bouton pour le modifier. Appuyez longuement sur un bouton pour le faire glisser et le déplacer.</string>
+    <string name="side_sheet_accessibility_pane_title">Feuille latérale</string>
+    <string name="snackbar_pane_title">Alerte</string>
+    <string name="speech_input_not_supported">"La saisie vocale n'est pas prise en charge sur cet appareil"</string>
+    <string name="state_empty">Vide</string>
+    <string name="state_off">Désactivé</string>
+    <string name="state_on">Activé</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_mode_button">Changer de mode</string>
+    <string name="switch_mode_message">"Vous devez coupler à nouveau vos appareils après avoir changé de mode de connexion pour que la connexion fonctionne. 
+ 
+ Voulez-vous changer de mode de connexion maintenant?"</string>
+    <string name="switch_mode_title">Changer de mode de connexion</string>
+    <string name="switch_role">Changer</string>
+    <string name="tab">Onglet</string>
+    <string name="template_percent">%1$d pour cent.</string>
+    <string name="text_input_help_focused">Entrez le texte et appuyez sur envoyer</string>
+    <string name="text_input_help_unfocused">Saisie de texte</string>
+    <string name="text_visibility_hidden">Passé en mode mot de passe</string>
+    <string name="text_visibility_visible">Passé en mode de saisie semi-automatique</string>
+    <string name="title_activity_key_config">Nouveau raccourci</string>
+    <string name="title_bluetooth_devices">Appareils Bluetooth</string>
+    <string name="title_button_color">Couleur du bouton</string>
+    <string name="title_connection">Nouvelle connexion</string>
+    <string name="title_edit_layout">Modifier la mise en page</string>
+    <string name="title_name">Nom</string>
+    <string name="title_required_for_android_tv">Requis pour Android TV</string>
+    <string name="title_shortcut_edit">Modifier le raccourci</string>
+    <string name="title_shortcut_list">Gérer les raccourcis</string>
+    <string name="tooltip_description">Info-bulle</string>
+    <string name="tooltip_label">"Afficher l'info-bulle"</string>
+    <string name="upgrade_buy_one_time">Débloquer Pro pour toujours - %s</string>
+    <string name="upgrade_free_trial">"Démarrer l'essai gratuit de %s jours"</string>
+    <string name="upgrade_start_subscription">Puis %1$s/an</string>
+</resources>

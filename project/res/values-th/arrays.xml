@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_position_options">
+        <item>ซ้าย</item>
+        <item>ขวา</item>
+    </string-array>
+    <string-array name="input_bar_options">
+        <item>เมื่อแป้นพิมพ์ทำงานอยู่</item>
+        <item>เสมอ</item>
+        <item>ไม่มีทาง</item>
+    </string-array>
+    <string-array name="mouse_buttons_options">
+        <item>ซ้าย</item>
+        <item>ศูนย์</item>
+        <item>ขวา</item>
+    </string-array>
+    <string-array name="mouse_jiggle_mode_options">
+        <item>ปิด</item>
+        <item>เฉพาะเมื่อหน้าจอเปิดอยู่</item>
+        <item>เสมอ แม้ในเบื้องหลัง (ตรวจสอบการเพิ่มประสิทธิภาพแบตเตอรี่หากไม่ทำงาน)</item>
+    </string-array>
+    <string-array name="theme_option_names">
+        <item>สว่าง</item>
+        <item>มืด</item>
+        <item>ดำ</item>
+        <item>ค่าเริ่มต้นของระบบ</item>
+    </string-array>
+    <string-array name="vertical_position_options">
+        <item>ข้างบน</item>
+        <item>ด้านล่าง</item>
+    </string-array>
+    <string-array name="volume_button_keys">
+        <item>ไม่มี (ระดับเสียงระบบ)</item>
+        <item>เพิ่มระดับเสียง</item>
+        <item>ลดระดับเสียง</item>
+        <item>ปุ่มซ้ายของเมาส์</item>
+        <item>ปุ่มเมาส์ขวา</item>
+        <item>เลื่อนหน้าขึ้น</item>
+        <item>เลื่อนหน้าลง</item>
+    </string-array>
+</resources>

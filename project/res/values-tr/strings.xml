@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="action_disconnect">Bağlantıyı kes</string>
+    <string name="action_edit_mode">Düzenleme modu</string>
+    <string name="action_keyboard">Klavye</string>
+    <string name="action_macro_recorder">Makro</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="actionbar_bluetooth_required">Bluetooth devre dışı</string>
+    <string name="actionbar_connected">%1$s bağlandı</string>
+    <string name="actionbar_connecting">%1$s bağlanıyor</string>
+    <string name="actionbar_disconnected">%1$s bağlantısı kesildi</string>
+    <string name="actionbar_disconnecting">%1$s bağlantı kesiliyor</string>
+    <string name="actionbar_not_connected">Bağlı değil</string>
+    <string name="actionbar_not_paired">%1$s eşleşmemiş</string>
+    <string name="actionbar_pairing">%1$s eşleştiriliyor</string>
+    <string name="add_component">Bileşen ekle</string>
+    <string name="add_shortcut">Kısayol ekle</string>
+    <string name="androidx_compose_foundation_autofill">Otomatik doldurma</string>
+    <string name="androidx_compose_ui_autofill">Otomatik doldurma</string>
+    <string name="app_name">Mouse</string>
+    <string name="bottomsheet_action_collapse">Alt sayfayı daralt</string>
+    <string name="bottomsheet_action_expand">Alt sayfayı genişlet</string>
+    <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükleme tutamacı</string>
+    <string name="button_allow_access">Erişime izin vermek</string>
+    <string name="button_cancel">İptal et</string>
+    <string name="button_edit_add_step_after">Sonra adım ekle</string>
+    <string name="button_edit_add_step_before">Önce adım ekle</string>
+    <string name="button_edit_delete_step">Adımı sil</string>
+    <string name="button_enable_bluetooth">"Bluetooth'u Etkinleştir"</string>
+    <string name="button_large">Büyük</string>
+    <string name="button_medium">Orta</string>
+    <string name="button_ok">TAMAM</string>
+    <string name="button_open_settings">Ayarları aç</string>
+    <string name="button_purchase_pending_restart">Satın almayı yeniden başlat</string>
+    <string name="button_report">Bildir</string>
+    <string name="button_restart_bluetooth">"Bluetooth'u yeniden başlat"</string>
+    <string name="button_retry">Yeniden dene</string>
+    <string name="button_small">Küçük</string>
+    <string name="button_stop_mouse_jiggle">"Mouse Jiggle'ı Durdur"</string>
+    <string name="button_upgrade">Yükselt</string>
+    <string name="call_notification_answer_action">Yanıtla</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Reddet</string>
+    <string name="call_notification_hang_up_action">Kapat</string>
+    <string name="call_notification_incoming_text">Gelen arama</string>
+    <string name="call_notification_ongoing_text">Devam eden arama</string>
+    <string name="call_notification_screening_text">Gelen arama süzülüyor</string>
+    <string name="category_configuration">Yapılandırma</string>
+    <string name="category_controls">Mod</string>
+    <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
+    <string name="character_counter_overflowed_content_description">Karakter sınırı aşıldı %1$d / %2$d</string>
+    <string name="checking_device_capabilities">Cihaz yeteneklerini kontrol etme</string>
+    <string name="clear_text_end_icon_content_description">Metni temizle</string>
+    <string name="close_drawer">Gezinme menüsünü kapat</string>
+    <string name="close_sheet">Sayfayı kapat</string>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
+    <string name="community_layouts_created_by">%1$s tarafından oluşturulmuştur</string>
+    <string name="community_layouts_error">Topluluk düzenleri şu anda kullanılamıyor, lütfen daha sonra tekrar deneyin.</string>
+    <string name="compatibility_learn_more">Daha fazla bilgi edin</string>
+    <string name="compatibility_mode_connection_fix">Bağlantı iyileştirmelerini etkinleştirin. Cihaz bağlantısı çalışmıyorsa bu seçeneği devre dışı bırakın.</string>
+    <string name="compatibility_mode_text">"Cihazınız standart bağlantı modunu desteklemiyor, bu nedenle bunun yerine uyumluluk modunu kullanacak.
+
+Gerekli Bluetooth bağlantısının oluşturulması birkaç deneme gerektirebilir veya hiç çalışmayabilir.
+
+Lütfen şunu deneyin: bağlantı çalışmıyorsa başka bir cihazda uygulama.
+Standart mod, Android 9 ve sonraki sürümlere sahip birçok cihaz tarafından desteklenir ve bağlantı bu modda çok daha iyi çalışır."</string>
+    <string name="compatibility_mode_text_developer_option">Etkinleştirin ve cihazınızda \"Geliştirici seçenekleri\"ne gidin ve normal bağlantı modunu etkinleştirmek için varsa \"Bluetooth HID Cihaz Profilini Devre Dışı Bırak\" seçeneğinin işaretini kaldırın.</string>
+    <string name="compatibility_mode_text_short">Bluetooth bağlantısı kurmak bu cihazla çalışmayabilir!</string>
+    <string name="compatibility_mode_text_software_update">"Normal bağlantı modunu etkinleştirmek için cihazınızı Android 11'e güncelleyin."</string>
+    <string name="compatibility_mode_title">Uyumluluk modu kullanılıyor</string>
+    <string name="component_button">Buton</string>
+    <string name="component_fullscreen_toggle">Tam ekranı aç/kapat</string>
+    <string name="component_keyboard_toggle">Klavyeyi aç/kapat</string>
+    <string name="component_speech_input">Ses girişi</string>
+    <string name="component_touch_pad">Dokunmatik yüzey</string>
+    <string name="connect_from_button">Keşfedilebilirliği aç</string>
+    <string name="connect_from_progress">Uzak bir cihazdan bağlantı bekleniyor</string>
+    <string name="connect_from_subtitle">Uzak cihazdan bağlantı başlatmak için bu cihazda keşfedilebilirliği açın.</string>
+    <string name="connect_hidden_edit_text">Bluetooth MAC adresi</string>
+    <string name="connect_hidden_helper_text">Biçim xx:xx:xx:xx:xx:xx</string>
+    <string name="connect_hidden_subtitle">"Bazı cihazlar (ör. Google TV'li Chromecast) keşfedilemez, ancak yine de Bluetooth MAC adresleri aracılığıyla bağlanabilirsiniz."</string>
+    <string name="connect_hidden_title">Gizli bir cihaza bağlanın</string>
+    <string name="connect_info">Başka bir Telefon, Tablet veya PC alın, Bluetooth ayarlarına gidin ve fare ve klavyeyi kullanmaya başlamak için bu cihazı eşleştirin.</string>
+    <string name="connect_info_title">Yeni bir cihaz bağlayın</string>
+    <string name="connect_to_button">Cihaz ara</string>
+    <string name="connect_to_subtitle">"Uzak cihazda Bluetooth'u açın ve aramaya başlamadan önce bulunabilir olduğundan emin olun."</string>
+    <string name="connect_to_title">Başka bir cihaza bağlan</string>
+    <string name="connected">Bağlandı</string>
+    <string name="connecting">Bağlanıyor</string>
+    <string name="connection_bluetooth_disabled">"&lt;b>Bluetooth devre dışı&lt;/b>&lt;br/>Bir cihaza bağlanmak için Bluetooth'u etkinleştirin."</string>
+    <string name="connection_button_connect">Bağlan</string>
+    <string name="connection_connected_device">%1$s bağlandı</string>
+    <string name="connection_connecting_message">"Lütfen bekleyin. Bağlanmıyorsa \"%1$s\" Bluetooth'un açık olup olmadığını kontrol edin."</string>
+    <string name="connection_connecting_title">"%1$s'ye bağlanılıyor"</string>
+    <string name="connection_device_paired">Cihaz başarıyla eşleştirildi</string>
+    <string name="connection_device_removed">%1$s ile eşleştirme kaldırıldı</string>
+    <string name="connection_device_setup">Bir Bluetooth cihazı kurun</string>
+    <string name="connection_device_setup_connect_button">Yeni cihaz</string>
+    <string name="connection_device_setup_info_message">Bir cihazı kontrol etmek için, halihazırda bağlı bir Bluetooth cihazı seç veya yeni bir tane ekle.</string>
+    <string name="connection_device_setup_text">Bu uygulama, diğer cihazlara bağlanmak için Bluetooth kullanır. Kontrol etmek istediğiniz cihazı seçin veya yeni bir cihaz bağlayın.</string>
+    <string name="connection_disconnected_device">%1$s bağlantısı kesildi</string>
+    <string name="connection_help_bluetooth_restart">Bağlantı sorununu çözmek için Bluetooth yeniden başlatılıyor</string>
+    <string name="connection_help_connected">Uzak cihazdaki fare imlecini kontrol etmek için parmağınızı aşağıdaki dokunmatik alanda hareket ettirin.</string>
+    <string name="connection_help_discord_button">Discord topluluğu</string>
+    <string name="connection_help_discord_text">Hâlâ sorun mu yaşıyorsun? Discord topluluğumuzda cihaz sorunlarınla ilgili yardım al.</string>
+    <string name="connection_help_fix_connection">Bağlantıyı düzelt</string>
+    <string name="connection_help_not_moving">"Bağlantı sorununu gidermek için uzak cihazda Bluetooth'u devre dışı bırakın ve etkinleştirin."</string>
+    <string name="connection_help_not_moving_close">Kapat</string>
+    <string name="connection_help_not_moving_report">Sorun bildir</string>
+    <string name="connection_help_troubleshooting">Sorun Giderme</string>
+    <string name="connection_help_use_touchpad">İmleç uzak cihazda hareket ediyor mu?</string>
+    <string name="connection_help_use_touchpad_moving">Hareket ediyor</string>
+    <string name="connection_help_use_touchpad_not_moving">Hareket etmiyor</string>
+    <string name="connection_info_disconnected">"Cihazın bağlantısı kesildi. Bunun nedeni diğer cihazlarla olan etkileşimler veya cihazda Bluetooth'un devre dışı bırakılması veya kapsama alanı dışında olması olabilir."</string>
+    <string name="connection_info_never_connected">"&lt;b>Bluetooth bağlantısı başarısız oldu&lt;/b>&lt;br/> Uzak cihazda Bluetooth'un etkinleştirildiğinden emin olun."</string>
+    <string name="connection_info_profile_not_connected">"&lt;b>Bluetooth bağlantısının güncellenmesi gerekiyor&lt;/b>&lt;br/> %1$s cihazınızla eşleştirildi, ancak onu kontrol etmek için \"Giriş Cihazı\" ayarını açmanız gerekecek.&lt;br/>&lt;br/> 1. &lt;b>%1$s&lt;/b> Bluetooth ayarlarında &lt;b>%2$s&lt;/b> cihazınızı bulun.&lt;br/> 2. &lt;b>Giriş Cihazı&lt;/b>'nı (veya &lt;b>HID&lt;/b>) açın. Orada değilse, cihazları yeniden eşleştirin. Yeniden eşleştirme bazen bu ayarı etkinleştirebilir."</string>
+    <string name="connection_new_device_message">"1. Kontrol etmek istediğiniz cihazı alın ve Bluetooth ayarlarına gidin.
+
+2. Yeni bir cihaz ekleme seçeneğini bulun ve tıklayın.
+
+3. \"%1$s\" adını görmelisiniz. Bu ada sahip bir cihaz yoksa, cihazın zaten eşleştirilmiş olup olmadığını Bluetooth ayarlarında kontrol edin. Bu durumda, yeni bir bağlantı başlatmadan önce eşleştirmeyi kaldırmanız gerekir.
+
+4. \"%1$s\"
+
+girişine tıklayarak eşleştirme işlemini başlatın. Eşleştirme başladıktan sonra süreç devam ediyor…"</string>
+    <string name="connection_new_device_title">Başka bir cihazdan bağlanın</string>
+    <string name="connection_not_paired">Eşleşme yok! Fareyi ve klavyeyi kullanmak için uzak cihazın Bluetooth ayarlarında tekrar eşleştirin</string>
+    <string name="connection_not_possible">Muhtemelen desteklenmiyor</string>
+    <string name="connection_ongoing_message">"%1$s'da görüntülenen PIN'i onaylayın veya girin.
+
+Bluetooth eşleştirme iletişim kutusu görüntülenmezse, Bluetooth eşleştirme isteği mesajı için bildirimleri kontrol edin."</string>
+    <string name="connection_ongoing_title">Eşleştirme %1$s</string>
+    <string name="connection_option_a">BAĞLANTI SEÇENEĞİ A</string>
+    <string name="connection_option_b">BAĞLANTI SEÇENEĞİ B</string>
+    <string name="connection_option_c">BAĞLANTI SEÇENEĞİ C</string>
+    <string name="connection_permission_required">Bir cihazı uzaktan kontrol etmek için önce „%1$s“ için „%2$s“ iznini vermen gerekiyor</string>
+    <string name="connection_possible">Bağlantı mümkün olmalıdır</string>
+    <string name="connection_remove_pairing">%1$s ile eşleştirmeyi kaldır</string>
+    <string name="connection_select_device">Seçilen cihaz %1$s</string>
+    <string name="connection_show_notifications">Bildirimleri göster</string>
+    <string name="connection_upgrade_required">Bağlantı iyileştirmesi gerekli</string>
+    <string name="connection_upgrade_required_text">Bu cihazı kontrol etmek için Bluetooth bağlantısının yenilenmesi gerekiyor. Devam etmek için eşleştirmeyi kaldırın.</string>
+    <string name="control_code_scanner">Kod tarayıcı</string>
+    <string name="control_custom">Özel düzen</string>
+    <string name="control_layout_custom_name">Özel ad</string>
+    <string name="control_layout_empty_text">Bir eylem seçin</string>
+    <string name="control_layout_key_edit">Anahtarı düzenle</string>
+    <string name="control_layout_no_delay">Gecikme yok</string>
+    <string name="control_layout_rename_key">Yeniden adlandır düğmesi</string>
+    <string name="control_layout_send_text">Gönderilecek metin</string>
+    <string name="control_layout_tab_functions">İşlev</string>
+    <string name="control_layout_tab_keyboard">Klavye kısayolu</string>
+    <string name="control_layout_tab_text">Metin</string>
+    <string name="control_layout_test_on_device">Kombinasyonu „%1$s“ e gönder</string>
+    <string name="control_layout_tooltip_expand_width">Tam genişlik kullan</string>
+    <string name="control_layout_tooltip_newline">Yeni satırda göster</string>
+    <string name="control_mouse_keyboard">Fare / Klavye</string>
+    <string name="control_multimedia">Multimedya</string>
+    <string name="control_numpad">Numpad</string>
+    <string name="control_overview_backup">Destek olmak</string>
+    <string name="control_overview_delete_title">%1$s silinsin mi?</string>
+    <string name="control_overview_duplicate">Kopya oluştur</string>
+    <string name="control_overview_new_control">Yeni düzen</string>
+    <string name="control_overview_rename">Yeniden isimlendirmek</string>
+    <string name="control_pc_keyboard">Bilgisayar klavyesi</string>
+    <string name="control_presenter">Sunucu</string>
+    <string name="control_shortcuts">Kısayol düzeni</string>
+    <string name="default_error_message">Geçersiz giriş</string>
+    <string name="default_popup_window_title">Pop-up Pencere</string>
+    <string name="delete">Silmek</string>
+    <string name="device_button_connect">Bağlan</string>
+    <string name="device_button_use">Bu aygıtı kullan</string>
+    <string name="device_help_check">"Cihazın açık ve Bluetooth'un etkin olup olmadığını kontrol edin."</string>
+    <string name="device_list_enable_notifications">Geçerli cihaz bağlantısını bildirimlerde göster</string>
+    <string name="device_list_section_active_device">aktif cihaz</string>
+    <string name="device_list_section_configured_devices">Yapılandırılmış cihazlar</string>
+    <string name="device_setup_connect_another_device">Başka bir cihaz bağla</string>
+    <string name="device_setup_try_again">Tekrar dene</string>
+    <string name="devices_button_add_device">Uzak cihazı kur</string>
+    <string name="devices_button_help">Yardım</string>
+    <string name="dialog_ble_not_supported">"Bu cihaz, bu Android sürümüyle Bluetooth Klavyeyi desteklemediğini bildiriyor.
+
+Çalışma olasılığı düşük, ancak çalışmazsa lütfen başka bir cihaz veya daha yeni bir Android sürümü deneyin."</string>
+    <string name="dialog_ble_not_supported_title">Uyarı</string>
+    <string name="dialog_ble_required">Cihazınız standart bağlantı modunu desteklemiyor gibi görünüyor. Bir cihazı kontrol etmek için Bluetooth Düşük Enerji bağlantı moduna geçmeniz gerekebilir.</string>
+    <string name="dialog_ble_required_title">Standart bağlantı modu sorunu</string>
+    <string name="dialog_premium_upgrade_message">"Pro sürümü ile birçok ek özelliğe erişim sağlayacaksın:
+
+[icon:ic_tv_remote] TV, video, müzik uygulamalarını ve cihazları kontrol etmek için **Multimedya düzeni**
+[icon:ic_outline_keyboard_alt_24] Tüm tuşları içeren **Tam PC klavyesi**
+[icon:ic_outline_dashboard_customize_24] Özel düzenler için **Makrolar** ve ek fonksiyonlar
+[icon:ic_baseline_color_lens_24] Temaları değiştir, **karanlık mod** veya **tam ekran** kullan
+[icon:ic_outline_mouse_24] Cihaz hareketiyle imleci kontrol etmek için **Hava faresi**
+[icon:ic_outline_apps_24] **Ses tuşu desteği**, **barkod tarayıcı**, **sayısal tuş takımı**, **kalem modu** ve daha fazlası
+
+Pro sürümünü satın almak aynı zamanda yeni özelliklerin geliştirilmesine de yardımcı olur. Teşekkürler!"</string>
+    <string name="dialog_premium_upgrade_title">Cihazının Tüm Potansiyelini Ortaya Çıkar</string>
+    <string name="dialog_quit_button">Bağlantıyı kes &amp; Çık</string>
+    <string name="dialog_quit_message">Uygulamayı simge durumuna küçültmek ve cihazları bağlı tutmak için ana sayfa düğmesine basın.</string>
+    <string name="dialog_quit_title">Bağlantıyı kesmek ve çıkmak istiyor musunuz?</string>
+    <string name="dialog_rating_cancel">Hayır teşekkürler</string>
+    <string name="dialog_rating_later">Belki sonra</string>
+    <string name="dialog_rating_title">Bu uygulamayı değerlendirin</string>
+    <string name="dialog_select_keyboard_layout">Klavye dil düzenini seçin</string>
+    <string name="dialog_survey_start">Anketi Başlat</string>
+    <string name="dialog_survey_text">"Bluetooth Klavye ve Mouse deneyiminiz hakkında kısa anketimize katılın.
+
+Geri bildiriminiz uygulamamızı geliştirecek. Tamamlaması sadece birkaç dakika sürer ve Serverless Bluetooth Gamepad Uygulamasını ücretsiz indirmek için bir kod alacaksınız."</string>
+    <string name="dialog_survey_title">Kullanıcı Deneyimi Anketi</string>
+    <string name="disable_direct_mouse_input">Doğrudan fare girişini devre dışı bırak</string>
+    <string name="disable_new_device_connections">Yeni cihaz bağlantılarını devre dışı bırak</string>
+    <string name="disconnected">Bağlantı kesildi</string>
+    <string name="disconnecting">Bağlantı kesiliyor</string>
+    <string name="dropdown_menu">Açılır menü</string>
+    <string name="empty" />
+    <string name="empty_message">Kontrol etmek istediğiniz cihazı yapılandırmak için aşağıdaki düğmeye tıklayın</string>
+    <string name="empty_title">Uzak cihazı yapılandırın</string>
+    <string name="enable_connection_mode_to_add_new_devices">Yeni cihazlar eklemek için bağlantı modunu etkinleştirin</string>
+    <string name="enable_new_device_connections">Yeni cihaz bağlantılarını etkinleştir</string>
+    <string name="error_a11y_label">Hata: geçersiz</string>
+    <string name="error_bluetooth_not_enabled">Bluetooth etkin değil</string>
+    <string name="error_bluetooth_server">Bluetooth sunucusu başlatılamadı</string>
+    <string name="error_button_switch">Değiştirmek</string>
+    <string name="error_icon_content_description">Hata</string>
+    <string name="error_text_input">Karakter, geçerli klavye dili tarafından desteklenmiyor.</string>
+    <string name="exit_dialog_continue">Düzenlemeye devam et</string>
+    <string name="exit_dialog_discard">Boşver</string>
+    <string name="exit_dialog_title">Değişiklikleri gözardı et?</string>
+    <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+    <string name="help_change_language">&lt;h3>Yapılandırma gerekli!&lt;/h3>&lt;p> Klavyeyi tüm özel karakterleri ile belirli bir dilde kullanabilmek için önce bu dili &lt;b>alıcı cihazda&lt;/b> ayarlamanız gerekir.&lt;/p>&lt;h5> Android&lt;/h5>&lt;p> Bunu, alıcı cihazdaki ayarlarda &lt;b>Sistem&amp;#39;e&lt;/b> &lt;b>ve ardından Diller ve giriş&amp;#39;e&lt;/b> tıklayarak yapabilirsiniz. &lt;b>Sanal klavye&lt;/b> altında, Bluetooth Klavyeyi kullanarak alıcı cihazda yazmak istediğiniz dili seçebilirsiniz.&lt;/p></string>
+    <string name="help_text">&lt;h3 id=how-it-works>Nasıl çalışır&lt;/h3>&lt;p> Uygulama, Bluetooth uyumlu bir cihazı kontrol etmek için Bluetooth kullanır.&lt;/p>&lt;h3 id=how-to-connect> nasıl bağlanır&lt;/h3>&lt;p> Kontrol etmek istediğiniz cihazda Bluetooth ayarlarına gidin ve Android cihaza bağlanmayı deneyin. Uzak cihazda gösterilen bir PIN&amp;#39;i girmeniz veya onaylamanız gereken Android cihazında bir iletişim kutusu veya bildirim görmelisiniz.&lt;/p>&lt;h3 id=what-is-the-difference-between-the-normal-and-the-compatibility-connection-mode-> Normal ve uyumluluk bağlantı modu arasındaki fark nedir?&lt;/h3>&lt;p> &lt;strong>Normal bağlantı modu&lt;/strong> , Android 9 ve sonraki sürümlere sahip çoğu cihaz tarafından desteklenir. Bu mod, normal bir Bluetooth Klavye veya Fareyi destekleyen çoğu Bluetooth cihazıyla çalışır.&lt;/p>&lt;p> &lt;strong>Uyumluluk bağlantı modu&lt;/strong> , normal bağlantı modunu desteklemeyen Android sürümleri tarafından kullanılır. Bu mod, yalnızca daha yeni cihazlarda desteklenen Bluetooth 4.0&amp;#39;ı (Düşük Enerji) kullanır. Bu modda, cihazların bağlantısı kesildikten sonra bağlantı çalışmayabilir ve cihazların tekrar eşleştirilmesi gerekir.&lt;/p>&lt;h3 id=the-letters-sent-to-my-devices-are-not-correct> Cihazımda aldığım karakterler yanlış&lt;/h3>&lt;p> Yanlış harfler görünüyorsa, bağlı cihazda klavye dilinin doğru ayarlanmadığı anlamına gelir. Bunu düzeltmek için bağlı cihazdaki klavye ayarlarını uygulamada yapılandırılanla aynı düzende değiştirin. Bağlı Android cihazlar için, ayarlarda donanım klavye dilini de değiştirmeniz gerekir.&lt;/p>&lt;h3 id=how-do-i-connect-to-my-windows-pc-> Windows bilgisayarıma nasıl bağlanırım?&lt;/h3>&lt;p> Windows cihazı Android cihazını bulamıyorsa, zaten bağlı olabilir. Bunu düzeltmek için Windows cihazınızdaki bağlantıyı kaldırmanız gerekir. Windows &amp;quot;Telefonunuz&amp;quot; Phone Link uygulamasını kullanıyorsanız, telefonunuzda ve PC&amp;#39;nizde Windows Phone Link uygulamasını devre dışı bırakmanız gerekir. Ardından, telefonunuzla Bluetooth eşleştirmesini kaldırmanız ve uygulama bağlantı ekranından tekrar bağlanmanız gerekir. &lt;/p>&lt;h3 id=why-does-the-android-app-on-the-connected-device-restart-after-connecting-or-disconnecting-> Bağlandıktan veya bağlantıyı kestikten sonra bağlı cihazdaki Android uygulaması neden yeniden başlatılıyor?&lt;/h3>&lt;p> Bluetooth klavye veya medya uzaktan kumandası bağlandığında veya bağlantısı kesildiğinde bazı Android uygulamalarında sorun olur.&lt;/p>&lt;p> Bunun çözümü, uygulamayı kullanmadan önce bağlanıp uygulamayı cihaza bağlı tutmak için geri düğmesi yerine ana sayfa düğmesiyle kapatmaktır.&lt;/p>&lt;p> Bana uygulamaların adını gönderirseniz, uygulamadaki bu sorunu çözmek için geliştiricilerle iletişime geçmeyi deneyebilirim.&lt;/p>&lt;h3 id=can-i-use-the-premium-version-on-another-device-> Premium sürümü başka bir cihazda kullanabilir miyim?&lt;/h3>&lt;p> Evet, bu mümkün. Satın alma işlemi Google hesabına bağlıdır. Lütfen satın alma işlemi için kullandığınız hesabı kullandığınızdan emin olun. Ayrıca cihazı yeniden başlatmak ödemelerle ilgili sorunları çözebilir.&lt;/p>&lt;h3 id=how-can-i-get-a-refund-> Nasıl geri ödeme alabilirim?&lt;/h3>&lt;p> Doğrudan Google&amp;#39;dan geri ödeme talebinde bulunabilirsiniz: &lt;a href=https://support.google.com/googleplay/answer/2479637?hl=en>https://support.google.com/googleplay/answer/2479637?hl=tr&lt;/a> veya bana bir e-posta gönderebilirsiniz.&lt;/p></string>
+    <string name="icon_content_description">İletişim kutusu simgesi</string>
+    <string name="in_progress">Devam ediyor</string>
+    <string name="indeterminate">Kısmi olarak kontrol edildi</string>
+    <string name="info_device_not_connecting">Cihaza bağlanılamadı, lütfen tekrar deneyin.</string>
+    <string name="info_message_full_screen_exit_button">Tam ekran modundan çıkmak için yukarı kaydır ve geri tuşuna bas</string>
+    <string name="info_message_full_screen_exit_gesture">Tam ekran modundan çıkmak için iki kez geri tuşuna bas</string>
+    <string name="info_searching_action">Gelişmiş Arama</string>
+    <string name="info_searching_devices">Bağlanabilir Bluetooth cihazları aranıyor</string>
+    <string name="info_searching_not_found">Bağlanabilir Bluetooth cihazı bulunamadı</string>
+    <string name="info_searching_not_found_message">&lt;p>Uzak cihazda Bluetooth&amp;#39;un etkinleştirildiğinden ve cihazın algılanabilir olduğundan emin olun.&lt;/p>&lt;p> Bağlanmak istediğiniz cihazın Bluetooth ayarlarına giderek cihazı algılanabilir hale getirebilirsiniz.&lt;/p>&lt;p> &lt;strong>gelişmiş Arama&lt;/strong>&lt;/p>&lt;p> Bazı cihazlar, örneğin Google TV&amp;#39;li Chromecast, adlarının reklamını yapmaz ve bunları bulmak için gelişmiş bir arama yapılması gerekir.&lt;/p></string>
+    <string name="info_shortcut_edit">Düzenlemek için uzun basın</string>
+    <string name="info_turn_device_off">Bağlantıyı iyileştirmek için Bluetooth kulaklığını veya hoparlörünü bağlantısını kes.</string>
+    <string name="info_turn_device_off_lag">Fare imleci gecikmeli ise Bluetooth kulaklığının veya hoparlörünün bağlantısını kes.</string>
+    <string name="info_turn_hotspot_off">"Bluetooth bağlantısını iyileştirmek için hotspot'u ve WiFi'yi devre dışı bırak."</string>
+    <string name="info_turn_hotspot_off_lag">"Fare imleci gecikmeli ise hotspot'u ve WiFi'yi kapatmayı dene."</string>
+    <string name="info_turn_wifi_off">"Bluetooth bağlantısını iyileştirmek için WiFi'yi devre dışı bırak."</string>
+    <string name="info_turn_wifi_off_lag">"Fare imleci gecikmeli ise WiFi'yi devre dışı bırakmayı dene."</string>
+    <string name="item_view_role_description">Sekme</string>
+    <string name="keyboard_banner_not_working">Hayır, sorunlar var</string>
+    <string name="keyboard_banner_text">Klavye çalışıyor mu? @ gibi karakterlerin doğru olduğundan emin ol.</string>
+    <string name="keyboard_banner_working">Evet, çalışıyor</string>
+    <string name="keyboard_layout_all_language_layouts">Tüm dil düzenleri</string>
+    <string name="keyboard_layout_info">"Bağlı cihazınızda ayarlanan klavye düzenini seçin.
+Eğer yanlış karakterler belirirse, lütfen farklı bir düzen seçin."</string>
+    <string name="keyboard_layout_previous_layouts">Kullanılan klavye düzenleri</string>
+    <string name="keyboard_layout_system_language_layouts">Sistem dil düzenleri</string>
+    <string name="keyboard_section_alphanumeric_modifier_keys">Alfasayısal ve Değiştirici Tuşlar</string>
+    <string name="keyboard_section_browser_keys">Tarayıcı Tuşları</string>
+    <string name="keyboard_section_function_keys">İşlev Tuşları</string>
+    <string name="keyboard_section_navigation_system_keys">Gezinme ve Sistem Tuşları</string>
+    <string name="keyboard_section_numpad">Sayısal Tuş Takımı</string>
+    <string name="layout_share">Paylaşmak</string>
+    <string name="layout_share_description">Düzeni paylaşmak, diğer kullanıcıların onu görmesini ve indirmesini sağlar.</string>
+    <string name="layout_share_title">Paylaşım düzeni</string>
+    <string name="m3_loading_indicator_content_description">Yükleniyor</string>
+    <string name="m3c_bottom_sheet_collapse_description">Alt sayfayı daralt</string>
+    <string name="m3c_bottom_sheet_dismiss_description">Alt sayfayı kapat</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">Sürükleme tutamacı</string>
+    <string name="m3c_bottom_sheet_expand_description">Alt sayfayı genişlet</string>
+    <string name="m3c_bottom_sheet_pane_title">Alt Sayfa</string>
+    <string name="m3c_date_input_headline">Girilen tarih</string>
+    <string name="m3c_date_input_headline_description">Girilen tarih: %1$s</string>
+    <string name="m3c_date_input_invalid_for_pattern">Tarih, istenen biçimle eşleşmiyor: %1$s</string>
+    <string name="m3c_date_input_invalid_not_allowed">Tarihe izin verilmiyor: %1$s</string>
+    <string name="m3c_date_input_invalid_year_range">Tarih, istenen %1$s-%2$s yıl aralığının dışında</string>
+    <string name="m3c_date_input_label">Tarih</string>
+    <string name="m3c_date_input_no_input_description">Yok</string>
+    <string name="m3c_date_input_title">Tarih seç</string>
+    <string name="m3c_date_picker_headline">Seçilen tarih</string>
+    <string name="m3c_date_picker_headline_description">Geçerli seçim: %1$s</string>
+    <string name="m3c_date_picker_navigate_to_year_description">%1$s yılına gidin</string>
+    <string name="m3c_date_picker_no_selection_description">Yok</string>
+    <string name="m3c_date_picker_scroll_to_earlier_years">Önceki yılları göstermek için kaydırın</string>
+    <string name="m3c_date_picker_scroll_to_later_years">Sonraki yılları göstermek için kaydırın</string>
+    <string name="m3c_date_picker_switch_to_calendar_mode">Takvim giriş moduna geç</string>
+    <string name="m3c_date_picker_switch_to_day_selection">Kaydırarak bir yıl seçin veya gün seçme bölümüne geri dönmek için dokunun</string>
+    <string name="m3c_date_picker_switch_to_input_mode">Metin giriş moduna geç</string>
+    <string name="m3c_date_picker_switch_to_next_month">Sonraki aya değiştir</string>
+    <string name="m3c_date_picker_switch_to_previous_month">Önceki aya değiştir</string>
+    <string name="m3c_date_picker_switch_to_year_selection">Yıl seçimine geç</string>
+    <string name="m3c_date_picker_title">Tarih seç</string>
+    <string name="m3c_date_picker_today_description">Bugün</string>
+    <string name="m3c_date_picker_year_picker_pane_title">Yıl seçici görünür durumda</string>
+    <string name="m3c_date_range_input_invalid_range_input">Geçersiz tarih aralığı girişi</string>
+    <string name="m3c_date_range_input_title">Tarihleri girin</string>
+    <string name="m3c_date_range_picker_day_in_range">Aralıkta</string>
+    <string name="m3c_date_range_picker_end_headline">Bitiş tarihi</string>
+    <string name="m3c_date_range_picker_scroll_to_next_month">Sonraki ayı göstermek için kaydırın</string>
+    <string name="m3c_date_range_picker_scroll_to_previous_month">Önceki ayı göstermek için kaydırın</string>
+    <string name="m3c_date_range_picker_start_headline">Başlangıç tarihi</string>
+    <string name="m3c_date_range_picker_title">Tarihleri seçin</string>
+    <string name="m3c_dialog">Dialog</string>
+    <string name="m3c_dropdown_menu_collapsed">Daraltıldı</string>
+    <string name="m3c_dropdown_menu_expanded">Genişletildi</string>
+    <string name="m3c_dropdown_menu_toggle">Açılır menüyü açın/kapatın</string>
+    <string name="m3c_floating_toolbar_collapse">Araç çubuğunu daralt</string>
+    <string name="m3c_floating_toolbar_expand">Araç çubuğunu genişlet</string>
+    <string name="m3c_search_bar_search">Arama</string>
+    <string name="m3c_snackbar_dismiss">Kapat</string>
+    <string name="m3c_snackbar_pane_title">Uyarı</string>
+    <string name="m3c_suggestions_available">Önerileri aşağıda bulabilirsiniz</string>
+    <string name="m3c_time_input_dialog_title">Saat Girin</string>
+    <string name="m3c_time_picker_am">ÖÖ</string>
+    <string name="m3c_time_picker_dialog_title">Saat Seçin</string>
+    <string name="m3c_time_picker_hour">Saat</string>
+    <string name="m3c_time_picker_hour_24h_suffix">%1$d saat</string>
+    <string name="m3c_time_picker_hour_selection">Saat seçin</string>
+    <string name="m3c_time_picker_hour_suffix">Saat %1$d</string>
+    <string name="m3c_time_picker_hour_text_field">saat</string>
+    <string name="m3c_time_picker_minute">Dakika</string>
+    <string name="m3c_time_picker_minute_selection">Dakikayı seçin</string>
+    <string name="m3c_time_picker_minute_suffix">%1$d dakika</string>
+    <string name="m3c_time_picker_minute_text_field">dakika</string>
+    <string name="m3c_time_picker_period_toggle_description">"ÖÖ veya ÖS'yi seçin"</string>
+    <string name="m3c_time_picker_pm">ÖS</string>
+    <string name="m3c_time_picker_toggle_keyboard">Saat girmek için metin giriş moduna geç</string>
+    <string name="m3c_time_picker_toggle_touch">Saati girmek için saat moduna geç</string>
+    <string name="m3c_tooltip_long_press_label">Araç ipucunu göster</string>
+    <string name="m3c_tooltip_pane_description">İpucu</string>
+    <string name="m3c_wide_navigation_rail_close_rail">Sütunu kapat</string>
+    <string name="m3c_wide_navigation_rail_pane_title">Gezinme sütunu</string>
+    <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'yi seçin"</string>
+    <string name="material_hour_24h_suffix">%1$s saat</string>
+    <string name="material_hour_selection">Saat seçin</string>
+    <string name="material_hour_suffix">Saat %1$s</string>
+    <string name="material_minute_selection">Dakikayı seçin</string>
+    <string name="material_minute_suffix">%1$s dakika</string>
+    <string name="material_slider_range_end">Aralık sonu</string>
+    <string name="material_slider_range_start">Aralık başlangıcı</string>
+    <string name="material_slider_value">Değer</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin.</string>
+    <string name="material_timepicker_hour">Saat</string>
+    <string name="material_timepicker_minute">Dakika</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Zamanı seçin</string>
+    <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin.</string>
+    <string name="md_message_connection_failed">"**Bağlantı başarısız**
+
+Bluetooth bağlantısı kurulamadı.
+
+{{ConnectionCard}}
+
+**Ne yapmalı:**
+1. **Bluetooth'u kontrol et:** Her iki cihazda da açık olduğundan emin ol.
+2. **Yaklaş:** Cihazların bağlanmak için yeterince yakın olduğundan emin ol.
+3. **Yeniden başlat:** Her iki cihazı da kapatıp aç.
+4. **Güncelle:** Cihazlarının güncel olduğundan emin ol.
+
+Daha fazla yardıma mı ihtiyacın var? Discord destek kanalımıza katıl."</string>
+    <string name="md_message_pairing_failed">"**Eşleşme başarısız**
+
+Bluetooth bağlantısı kurulamadı.
+
+{{ConnectionCard}}
+
+**Ne yapmalı:**
+1. **Eşleşmeyi onayla:** Her cihazda çıkan eşleşme isteklerini kabul et.
+2. **Tekrar dene:** Bir istem görmediysen bağlantıyı yeniden kur.
+3. **Yeniden başlat:** Her iki cihazı da kapatıp aç.
+4. **Güncelle:** Tüm cihazların güncel olduğundan emin ol.
+
+Daha fazla yardıma mı ihtiyacın var? Discord destek kanalımıza katıl."</string>
+    <string name="menu_air_mouse_sensitivity">Hava fare hassasiyeti</string>
+    <string name="menu_analog_stick">Analog çubuk</string>
+    <string name="menu_ble_mode">Uyumluluk modu</string>
+    <string name="menu_bluetooth_devices">Bluetooth cihazları</string>
+    <string name="menu_category_air_mouse">Hava faresi</string>
+    <string name="menu_category_touchpad">Dokunmatik yüzey</string>
+    <string name="menu_community_layouts">Topluluk düzenleri</string>
+    <string name="menu_custom_controls">Özel düzenler</string>
+    <string name="menu_design_option">Tasarım</string>
+    <string name="menu_done">Bitti</string>
+    <string name="menu_edit">Düzenle</string>
+    <string name="menu_feedback">Develop and design by \"@Tiw@ri\"</string>
+    <string name="menu_full_screen">Tam ekran dokunmatik yüzey modunu başlat</string>
+    <string name="menu_help">Yardım</string>
+    <string name="menu_keyboard_language">Klavye dili</string>
+    <string name="menu_manage_layouts">Düzenleri yönet</string>
+    <string name="menu_mouse_jiggle_mode">Fareyi periyodik olarak hareket ettir (Mouse Jiggler)</string>
+    <string name="menu_mouse_settings">Fare ayarları</string>
+    <string name="menu_paste">Pano metnini yapıştır</string>
+    <string name="menu_restore">Geri yükle</string>
+    <string name="menu_save_changes">Kaydet</string>
+    <string name="menu_screen_settings">Ekran ayarları</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="menu_show_android_navigation_buttons">Android gezinme düğmelerini göster</string>
+    <string name="menu_show_media_control_buttons">Medya kontrol düğmelerini göster</string>
+    <string name="menu_show_shortcuts_buttons">Kısayolları göster</string>
+    <string name="menu_theme_color">Tema rengi</string>
+    <string name="menu_upgrade_to_premium">Pro sürümüne yükseltin</string>
+    <string name="menu_use_air_mouse">Hava Faresini Kullan</string>
+    <string name="menu_use_dark_theme">Karanlık mod</string>
+    <string name="menu_use_outline_theme">Tron stili</string>
+    <string name="mesage_layout_restore_failed">Düzen geri yüklenemedi</string>
+    <string name="message_char_not_found">"'%1$s', seçili klavye dilinde kullanılamıyor"</string>
+    <string name="message_connection_timeout">Metin gönderilemedi</string>
+    <string name="message_error">Bir hata oluştu. Lütfen tekrar deneyin</string>
+    <string name="message_error_no_file_manager_found">Dosya yöneticisi bulunamadı</string>
+    <string name="message_error_speech_audio">Ses hatası. Konuşma uygulamanızda mikrofon erişimine izin verin.</string>
+    <string name="message_error_speech_client">Konuşma uygulaması hatası. İzinlerini ve ayarlarını kontrol et.</string>
+    <string name="message_error_speech_device_lock">Sesli girişi kullanmak için cihazın kilidini aç.</string>
+    <string name="message_error_speech_network">Konuşma uygulamasında ağ hatası. Bağlantıyı kontrol et veya uygulamayı değiştir.</string>
+    <string name="message_error_speech_not_matched">Konuşma tanınmadı. Tekrar dene veya konuşma uygulamanı değiştir.</string>
+    <string name="message_error_speech_server">Konuşma hizmeti çalışmıyor. Daha sonra tekrar dene veya farklı bir uygulama kullan.</string>
+    <string name="message_layout_restored">Düzen geri yüklendi</string>
+    <string name="message_pen_detected">Kalem algılandı. Davranışı değiştirmek için fare ayarlarına gidin.</string>
+    <string name="message_premium_required">Bu özellik Pro sürümünde mevcuttur</string>
+    <string name="message_purchase_completed">Pro sürümünü satın aldığınız için teşekkür ederiz! Artık tüm özellikleri kullanabilirsiniz.</string>
+    <string name="message_purchase_pending">Pro özelliklerini kullanmak için satın alma işlemini tamamla</string>
+    <string name="message_purchase_pending_action">"Tamamla &amp; Pro'yu aç"</string>
+    <string name="message_restore_failed">Düzen geri yüklenemedi</string>
+    <string name="message_return_back">Bağlantıyı kesmek için geriye basın</string>
+    <string name="message_rotate_device">Cihazı çevir</string>
+    <string name="message_waiting_for_device">Cihaz bağlantısının metin göndermesi bekleniyor</string>
+    <string name="mouse_settings_close">Kapat</string>
+    <string name="mouse_settings_invert_scroll_direction">Kaydırma yönünü ters çevir</string>
+    <string name="mouse_settings_mouse_buttons">Fare düğmeleri</string>
+    <string name="mouse_settings_mouse_buttons_display">Fare düğmelerini göster</string>
+    <string name="mouse_settings_pen_mode_description">İmleci hareket ettirmek için kalemle ekranın üzerine gelin</string>
+    <string name="mouse_settings_pen_mode_title">Kalem çizim modu</string>
+    <string name="mouse_settings_pointer_speed">İşaretçi hızı</string>
+    <string name="mouse_settings_scroll_bar">Kaydırma çubuğu</string>
+    <string name="mouse_settings_scroll_speed">Kaydırma hızı</string>
+    <string name="mouse_settings_show_buttons_above">Dokunmatik yüzeyin üzerindeki düğmeleri göster</string>
+    <string name="mouse_settings_title">Fare ayarları</string>
+    <string name="mouse_settings_touch_pad_clicks">Dokunmatik yüzeyde fare tıklamaları</string>
+    <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
+    <string name="mtrl_checkbox_state_description_checked">İşaretlendi</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Kısmi olarak işaretlendi</string>
+    <string name="mtrl_checkbox_state_description_unchecked">İşaretlenmedi</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s içeriğini kaldır</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d adetten fazla yeni bildirim</string>
+    <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
+    <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
+    <string name="mtrl_picker_announce_current_range_selection">Başlangıç tarihi seçimi: %1$s – Bitiş tarihi seçimi: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">yok</string>
+    <string name="mtrl_picker_cancel">İptal</string>
+    <string name="mtrl_picker_confirm">Tamam</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
+    <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Bitiş tarihi: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Geçersiz biçim.</string>
+    <string name="mtrl_picker_invalid_format_example">Örnek: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Tarih biçimi: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Geçersiz aralık.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Geçerli yıla (%1$d) git</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d yılına git</string>
+    <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
+    <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
+    <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
+    <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
+    <string name="mtrl_picker_save">Kaydet</string>
+    <string name="mtrl_picker_start_date_description">Başlangıç tarihi: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarih</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
+    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">Bugün, %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Takvim görünümüne geç</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Yıl görünümüne geç</string>
+    <string name="mtrl_timepicker_cancel">İptal</string>
+    <string name="mtrl_timepicker_confirm">Tamam</string>
+    <string name="nav_app_bar_navigate_up_description">Yukarı git</string>
+    <string name="nav_app_bar_open_drawer_description">Gezinme çekmecesini aç</string>
+    <string name="navigation_menu">Gezinme menüsü</string>
+    <string name="new_connections_disabled">Yeni bağlantılar devre dışı bırakıldı</string>
+    <string name="not_paired">Eşleşme yok</string>
+    <string name="not_selected">Seçili değil</string>
+    <string name="not_supported">"Bağlantı çalışmıyorsa, cihazların yeniden eşleştirilmesi gerekir!
+
+1. Bu ekranı açık tutun
+2. Diğer cihazda Bluetooth ayarlarına gidin
+3. Mevcut Bluetooth bağlantısını kaldırın ve tekrar bağlanın."</string>
+    <string name="notification_text">Cihazı kontrol etmek için buraya tıklayın.</string>
+    <string name="notification_title">%1$s bağlandı</string>
+    <string name="onboarding_get_started">Başlat</string>
+    <string name="onboarding_message_1">Artık ek bir yazılım veya donanım gerektirmeyen bir bluetooth klavye, fare ve multimedya uzaktan kumandanız var.</string>
+    <string name="onboarding_message_2">"Bluetooth fare veya klavyeyi destekleyen herhangi bir cihaz uygulama ile çalışmalıdır.
+
+Ancak, donanım sorunları nedeniyle belirli cihaz kombinasyonlarının çalışmaması mümkündür."</string>
+    <string name="onboarding_message_3">"Fare ve klavye kontrolleri ücretsiz ve reklamsız olarak mevcuttur.
+
+Multimedya kontrolleri, hava faresi ve birçok özelleştirme seçeneği gibi ek özelliklere erişmek için Pro sürümüne yükseltin."</string>
+    <string name="onboarding_next">İleri</string>
+    <string name="onboarding_title_1">Hoş geldin!</string>
+    <string name="option_android">Android</string>
+    <string name="option_computer">Bilgisayar</string>
+    <string name="option_connects_but_doesnt_work">Bağlanıyor ama çalışmıyor</string>
+    <string name="option_error">Bir hata alıyorum</string>
+    <string name="option_ios">iOS</string>
+    <string name="option_macos">macOS</string>
+    <string name="option_no">Hayır</string>
+    <string name="option_nothing">Hiçbir şey olmuyor</string>
+    <string name="option_other">Diğer</string>
+    <string name="option_phone">Telefon</string>
+    <string name="option_something_else">Başka bir şey oluyor</string>
+    <string name="option_tablet">Tablet</string>
+    <string name="option_tv">TV</string>
+    <string name="option_unsure">Emin değilim</string>
+    <string name="option_windows">Windows</string>
+    <string name="option_yes">Evet</string>
+    <string name="outcome_connection_error">Bir hata var gibi görünüyor. Lütfen cihazınızın Bluetooth ayarlarını kontrol edin ve tekrar deneyin.</string>
+    <string name="outcome_device_not_visible">Cihazı uygulamada göremiyorsanız, eşleştirme modunda olduğundan ve menzil içinde olduğundan emin olun. Her iki cihazı da yeniden başlatmayı deneyin.</string>
+    <string name="outcome_enable_bluetooth">"Lütfen kontrol etmeye çalıştığınız cihazda Bluetooth'u etkinleştirin ve tekrar deneyin."</string>
+    <string name="outcome_ensure_screen_unlocked">Kontrol etmeye çalıştığınız cihazın ekran kilidini açtığınızdan emin olun ve tekrar deneyin.</string>
+    <string name="outcome_find_bluetooth_setting">"Bluetooth'u bulup etkinleştirmek için cihazınızın ayarlarını veya hızlı erişim panelini kontrol edin. Yardıma ihtiyacınız olursa cihazınızın kullanım kılavuzuna veya destek web sitesine bakın."</string>
+    <string name="outcome_restart_devices">Lütfen her iki cihazı da kapatıp tekrar açmayı deneyin, ardından sorun giderme işlemini yeniden başlatın.</string>
+    <string name="outcome_restart_devices_if_unlocked">Ekran kilidi açıksa ve hala sorun yaşıyorsanız, her iki cihazı da yeniden başlatmayı deneyin.</string>
+    <string name="outcome_unexpected_issue">Beklenmeyen bir sorunla karşılaşıyorsunuz. Lütfen yardım için destek ekibimizle iletişime geçin.</string>
+    <string name="outcome_unlock_screen">Lütfen kontrol etmeye çalıştığınız cihazın ekranının kilidini açın ve tekrar deneyin.</string>
+    <string name="pairing_successful">Eşleştirme başarılı</string>
+    <string name="pairing_unknown">Mevcut eşleştirme kullanılamayabilir</string>
+    <string name="password_toggle_content_description">Şifreyi göster</string>
+    <string name="permgrouplab_nearby_devices">Yakındaki cihazlar</string>
+    <string name="pin_required">PIN girişi bekleniyor</string>
+    <string name="premium_feature_fullscreen_mode">Tam ekran modu Pro sürümünde mevcuttur</string>
+    <string name="premium_feature_password_mode">Şifre modu Pro sürümünde mevcuttur</string>
+    <string name="premium_feature_text_field">Pro sürümünde metni önceden yazma ve yapıştırma olanağı mevcuttur</string>
+    <string name="premium_feature_volume_buttons">Uzak cihazdaki ses düzeyinin değiştirilmesi Pro sürümünde desteklenir</string>
+    <string name="premium_message_external_mouse_support">Pro sürümünde doğrudan fare girişi desteklenir</string>
+    <string name="proposed_solution">Önerilen çözüm</string>
+    <string name="question_bluetooth_enabled">Kontrol etmek istediğiniz cihazda Bluetooth etkin mi?</string>
+    <string name="question_connection_issue">Bağlanmaya çalıştığınızda ne oluyor?</string>
+    <string name="question_device_type">Neyi kontrol etmeye çalışıyorsunuz?</string>
+    <string name="question_device_visible">Kontrol etmek istediğiniz cihazı uygulamada görebiliyor musunuz?</string>
+    <string name="question_devices_restarted">Her iki cihazı da kapatıp tekrar açmayı denediniz mi?</string>
+    <string name="question_operating_system">Cihaz hangi işletim sistemini çalıştırıyor?</string>
+    <string name="question_screen_locked">Kontrol etmeye çalıştığınız cihazın ekranı kilitli mi?</string>
+    <string name="question_used_before">Bu uygulamayı daha önce bu cihazla kullandınız mı?</string>
+    <string name="range_end">Aralık sonu</string>
+    <string name="range_start">Aralık başlangıcı</string>
+    <string name="scanner_continuous_scanning">Sürekli tarama</string>
+    <string name="scanner_reject_duplicate">Yinelenenleri atla</string>
+    <string name="scanner_scan_code">QR / Barkod Tara</string>
+    <string name="scanner_send_enter">Taramadan sonra ENTER gönder</string>
+    <string name="screen_settings_brightness">Parlaklık</string>
+    <string name="screen_settings_haptic_feedback">Dokunma titreşimleri</string>
+    <string name="screen_settings_keep_screen_on">Ekranı açık tut</string>
+    <string name="screen_settings_show_keyboard_on_start">Başlangıçta klavyeyi göster</string>
+    <string name="screen_settings_show_over_lock_screen">Uygulamayı kilit ekranının üzerinde göster</string>
+    <string name="screen_settings_show_text_input_bar">Metin giriş çubuğunu göster</string>
+    <string name="screen_settings_start_in_full_screen_mode">Tam ekran modunda başlat</string>
+    <string name="screen_settings_title">Ekran ayarları</string>
+    <string name="screen_settings_vol_down_button">Ses kısma düğmesi</string>
+    <string name="screen_settings_vol_up_button">Ses açma düğmesi</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="searchview_clear_text_content_description">Metni temizle</string>
+    <string name="searchview_navigation_content_description">Geri</string>
+    <string name="selected">Seçili</string>
+    <string name="settings_controls">Kontroller</string>
+    <string name="settings_display">Ekran</string>
+    <string name="settings_gamepad">oyun kumandası</string>
+    <string name="settings_keyboard">Klavye</string>
+    <string name="settings_mouse">Fare</string>
+    <string name="share_dialog_author">Yazar adı</string>
+    <string name="share_dialog_device_target">Aygıt hedefi</string>
+    <string name="share_dialog_language">Düzen içinde kullanılan dil</string>
+    <string name="share_dialog_layout_name">Düzenin adı</string>
+    <string name="share_dialog_only_symbols">Sadece semboller</string>
+    <string name="share_dialog_public_sharing">Toplulukla paylaş</string>
+    <string name="shortcut_name">Kısayol adı</string>
+    <string name="shortcuts_edit_help">Düzenlemek için düğmeye basın. Sürükleyip taşımak için bir düğmeye uzun basın.</string>
+    <string name="side_sheet_accessibility_pane_title">Yan Sayfa</string>
+    <string name="snackbar_pane_title">Uyarı</string>
+    <string name="speech_input_not_supported">Bu cihazda konuşma girişi desteklenmiyor</string>
+    <string name="state_empty">Boş</string>
+    <string name="state_off">Kapalı</string>
+    <string name="state_on">Açık</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_mode_button">Modu değiştir</string>
+    <string name="switch_mode_message">"Bağlantının çalışması için bağlantı modunu değiştirdikten sonra cihazlarınızı tekrar eşleştirmeniz gerekiyor.
+
+Bağlantı modunu şimdi değiştirmek istiyor musunuz?"</string>
+    <string name="switch_mode_title">Bağlantı modunu değiştir</string>
+    <string name="switch_role">Anahtar</string>
+    <string name="tab">Sekme</string>
+    <string name="template_percent">Yüzde %1$d.</string>
+    <string name="text_input_help_focused">Metni girin ve göndere basın</string>
+    <string name="text_input_help_unfocused">Metin girişi</string>
+    <string name="text_visibility_hidden">Şifre moduna geçildi</string>
+    <string name="text_visibility_visible">Otomatik tamamlama moduna geçildi</string>
+    <string name="title_activity_key_config">Yeni kısayol</string>
+    <string name="title_bluetooth_devices">Bluetooth cihazları</string>
+    <string name="title_button_color">Düğme rengi</string>
+    <string name="title_connection">Yeni bağlantı</string>
+    <string name="title_edit_layout">Düzeni düzenle</string>
+    <string name="title_name">İsim</string>
+    <string name="title_required_for_android_tv">Android TV için gerekli</string>
+    <string name="title_shortcut_edit">Kısayolu düzenle</string>
+    <string name="title_shortcut_list">Kısayolları yönet</string>
+    <string name="tooltip_description">ipucu</string>
+    <string name="tooltip_label">ipucunu göster</string>
+    <string name="upgrade_buy_one_time">"Pro'yu Sonsuza Kadar Aç - %s"</string>
+    <string name="upgrade_free_trial">%s Günlük Ücretsiz Denemeyi Başlat</string>
+    <string name="upgrade_start_subscription">Sonra %1$s/yıl</string>
+</resources>

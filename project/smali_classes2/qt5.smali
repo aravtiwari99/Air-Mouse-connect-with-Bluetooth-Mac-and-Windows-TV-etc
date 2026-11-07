@@ -1,0 +1,18 @@
+.class public abstract Lqt5;
+.super Ljava/lang/Object;
+
+
+# static fields
+.field public static final synthetic g:I
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    const-class v0, Lqt5;
+
+    invoke-virtual {v0}, Ljava/lang/Class;->getClassLoader()Ljava/lang/ClassLoader;
+
+    return-void
+.end method

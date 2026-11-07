@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_position_options">
+        <item>Kiri</item>
+        <item>Kanan</item>
+    </string-array>
+    <string-array name="input_bar_options">
+        <item>Ketika keyboard aktif</item>
+        <item>Selalu</item>
+        <item>Tidak pernah</item>
+    </string-array>
+    <string-array name="mouse_buttons_options">
+        <item>Kiri</item>
+        <item>Tengah</item>
+        <item>Kanan</item>
+    </string-array>
+    <string-array name="mouse_jiggle_mode_options">
+        <item>Mati</item>
+        <item>Hanya saat layar menyala</item>
+        <item>Selalu, bahkan di latar belakang (periksa optimisasi baterai jika tidak berfungsi)</item>
+    </string-array>
+    <string-array name="theme_option_names">
+        <item>Terang</item>
+        <item>Gelap</item>
+        <item>Hitam</item>
+        <item>Standar sistem</item>
+    </string-array>
+    <string-array name="vertical_position_options">
+        <item>Atas</item>
+        <item>Bawah</item>
+    </string-array>
+    <string-array name="volume_button_keys">
+        <item>Tidak ada (volume sistem)</item>
+        <item>Volume naik</item>
+        <item>Volume turun</item>
+        <item>Tombol mouse kiri</item>
+        <item>Tombol mouse kanan</item>
+        <item>Halaman atas</item>
+        <item>Halaman bawah</item>
+    </string-array>
+</resources>

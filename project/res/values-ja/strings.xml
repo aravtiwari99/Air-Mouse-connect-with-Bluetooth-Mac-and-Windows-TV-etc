@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ホームに戻る</string>
+    <string name="abc_action_bar_up_description">前に戻る</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="action_disconnect">切断</string>
+    <string name="action_edit_mode">編集モード</string>
+    <string name="action_keyboard">キーボード</string>
+    <string name="action_macro_recorder">マクロ</string>
+    <string name="action_settings">設定</string>
+    <string name="actionbar_bluetooth_required">Bluetoothが無効です</string>
+    <string name="actionbar_connected">%1$s が接続されました</string>
+    <string name="actionbar_connecting">%1$s が接続中</string>
+    <string name="actionbar_disconnected">%1$s が切断されました</string>
+    <string name="actionbar_disconnecting">%1$s の切断中</string>
+    <string name="actionbar_not_connected">接続されていません</string>
+    <string name="actionbar_not_paired">%1$s がペアリングされていません</string>
+    <string name="actionbar_pairing">%1$s のペアリング中</string>
+    <string name="add_component">コンポーネントを追加</string>
+    <string name="add_shortcut">ショートカットを追加</string>
+    <string name="androidx_compose_foundation_autofill">自動入力</string>
+    <string name="androidx_compose_ui_autofill">自動入力</string>
+    <string name="app_name">Mouse</string>
+    <string name="bottomsheet_action_collapse">ボトムシートを閉じる</string>
+    <string name="bottomsheet_action_expand">ボトムシートを開く</string>
+    <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
+    <string name="bottomsheet_drag_handle_content_description">ドラッグ ハンドル</string>
+    <string name="button_allow_access">アクセスを許可</string>
+    <string name="button_cancel">キャンセル</string>
+    <string name="button_edit_add_step_after">後にステップを追加</string>
+    <string name="button_edit_add_step_before">前にステップを追加</string>
+    <string name="button_edit_delete_step">ステップを削除</string>
+    <string name="button_enable_bluetooth">Bluetoothを有効にする</string>
+    <string name="button_large">大</string>
+    <string name="button_medium">中</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_settings">設定を開く</string>
+    <string name="button_purchase_pending_restart">購入を再開</string>
+    <string name="button_report">報告する</string>
+    <string name="button_restart_bluetooth">Bluetoothを再起動</string>
+    <string name="button_retry">再試行</string>
+    <string name="button_small">小</string>
+    <string name="button_stop_mouse_jiggle">マウスジグルを停止</string>
+    <string name="button_upgrade">アップグレード</string>
+    <string name="call_notification_answer_action">応答</string>
+    <string name="call_notification_answer_video_action">ビデオ</string>
+    <string name="call_notification_decline_action">拒否</string>
+    <string name="call_notification_hang_up_action">通話終了</string>
+    <string name="call_notification_incoming_text">着信</string>
+    <string name="call_notification_ongoing_text">通話中</string>
+    <string name="call_notification_screening_text">着信をスクリーニング中</string>
+    <string name="category_configuration">設定</string>
+    <string name="category_controls">コントロール</string>
+    <string name="character_counter_content_description">入力済み文字数: %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">文字数制限を超えています（%1$d/%2$d 文字）</string>
+    <string name="checking_device_capabilities">デバイスの機能を確認中</string>
+    <string name="clear_text_end_icon_content_description">テキストを消去</string>
+    <string name="close_drawer">ナビゲーションメニューを閉じる</string>
+    <string name="close_sheet">シートを閉じる</string>
+    <string name="common_google_play_services_enable_button">有効にする</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_install_button">インストール</string>
+    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスにはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 開発者サービスの利用</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスではサポートされていません。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleにログイン</string>
+    <string name="community_layouts_created_by">%1$sによって作成されました</string>
+    <string name="community_layouts_error">コミュニティレイアウトは現在利用できません。後ほど再度お試しください。</string>
+    <string name="compatibility_learn_more">もっと詳しく知る</string>
+    <string name="compatibility_mode_connection_fix">接続の改善を有効にします。デバイスの接続が機能しない場合は、このオプションを無効にしてください。</string>
+    <string name="compatibility_mode_text">"お使いのデバイスは標準の接続モードをサポートしていないため、代わりに互換モードを使用します。
+
+必要なBluetooth接続の作成には複数の試みが必要になるか、または全く機能しない場合があります。
+
+接続が機能しない場合は、別のデバイスでアプリを試してください。
+標準モードは多くのAndroid 9以上のデバイスでサポートされており、このモードでは接続がずっと良好に機能します。"</string>
+    <string name="compatibility_mode_text_developer_option">通常の接続モードを有効にするために、お使いのデバイスの「開発者オプション」を有効にして、「Disable Bluetooth HID Device Profile」のオプションがあればチェックを外してください。</string>
+    <string name="compatibility_mode_text_short">このデバイスではBluetooth接続の確立ができない可能性があります！</string>
+    <string name="compatibility_mode_text_software_update">通常の接続モードを有効にするために、お使いのデバイスをAndroid 11にアップデートしてください。</string>
+    <string name="compatibility_mode_title">互換モードが使用されています</string>
+    <string name="component_button">ボタン</string>
+    <string name="component_fullscreen_toggle">全画面表示の切り替え</string>
+    <string name="component_keyboard_toggle">キーボードの切り替え</string>
+    <string name="component_speech_input">音声入力</string>
+    <string name="component_touch_pad">タッチパッド</string>
+    <string name="connect_from_button">検出可能にする</string>
+    <string name="connect_from_progress">リモートデバイスからの接続を待っています</string>
+    <string name="connect_from_subtitle">リモートデバイスからの接続を開始するために、このデバイスで検出可能にします。</string>
+    <string name="connect_hidden_edit_text">Bluetooth MACアドレス</string>
+    <string name="connect_hidden_helper_text">形式はxx:xx:xx:xx:xx:xxです</string>
+    <string name="connect_hidden_subtitle">一部のデバイス（例：Chromecast with Google TV）は検出可能ではありませんが、Bluetooth MACアドレスを介して接続することができます。</string>
+    <string name="connect_hidden_title">非表示のデバイスに接続</string>
+    <string name="connect_info">他の電話、タブレット、またはPCを取り、Bluetooth設定に進んでこのデバイスをペアリングしてマウスおよびキーボードの使用を開始してください。</string>
+    <string name="connect_info_title">新しいデバイスを接続</string>
+    <string name="connect_to_button">デバイスを検索</string>
+    <string name="connect_to_subtitle">リモートデバイスでBluetoothをオンにし、検索を開始する前に検出可能にしてください。</string>
+    <string name="connect_to_title">別のデバイスに接続</string>
+    <string name="connected">接続されました</string>
+    <string name="connecting">接続中</string>
+    <string name="connection_bluetooth_disabled">&lt;b>Bluetoothが無効&lt;/b>&lt;br/>デバイスに接続するには、Bluetoothを有効にします。</string>
+    <string name="connection_button_connect">接続</string>
+    <string name="connection_connected_device">%1$s が接続されました</string>
+    <string name="connection_connecting_message">お待ちください。接続されない場合は、\"%1$s\"がBluetoothをオンにしているか確認してください。</string>
+    <string name="connection_connecting_title">%1$sに接続中</string>
+    <string name="connection_device_paired">デバイスが正常にペアリングされました</string>
+    <string name="connection_device_removed">%1$s とのペアリングを削除しました</string>
+    <string name="connection_device_setup">Bluetoothデバイスを設定</string>
+    <string name="connection_device_setup_connect_button">新しいデバイス</string>
+    <string name="connection_device_setup_info_message">デバイスを制御するには、既存のBluetoothデバイスを選択するか、新しいものを追加してください。</string>
+    <string name="connection_device_setup_text">このアプリはBluetoothを使用して他のデバイスに接続します。制御したいデバイスを選択するか、新しいデバイスを接続してください。</string>
+    <string name="connection_disconnected_device">%1$s が切断されました</string>
+    <string name="connection_help_bluetooth_restart">接続問題を修正するためにBluetoothを再起動しています</string>
+    <string name="connection_help_connected">下のタッチエリアで指を動かして、リモートデバイス上のマウスカーソルを制御します。</string>
+    <string name="connection_help_discord_button">Discordコミュニティ</string>
+    <string name="connection_help_discord_text">まだ問題がありますか？Discordコミュニティで、デバイスの問題についてサポートを受けてください。</string>
+    <string name="connection_help_fix_connection">接続を修正</string>
+    <string name="connection_help_not_moving">接続問題を修正するためにリモートデバイスでBluetoothを無効にしてから有効にしてください。</string>
+    <string name="connection_help_not_moving_close">閉じる</string>
+    <string name="connection_help_not_moving_report">問題を報告する</string>
+    <string name="connection_help_troubleshooting">トラブルシューティング</string>
+    <string name="connection_help_use_touchpad">リモートデバイス上でカーソルは動きますか？</string>
+    <string name="connection_help_use_touchpad_moving">動いています</string>
+    <string name="connection_help_use_touchpad_not_moving">動いていません</string>
+    <string name="connection_info_disconnected">デバイスが切断されました。これは、他のデバイスとの干渉、デバイスのBluetoothが無効になっている、または範囲外にあることが原因である可能性があります。</string>
+    <string name="connection_info_never_connected">&lt;b>Bluetooth接続に失敗しました&lt;/b>&lt;br/> リモートデバイスでBluetoothが有効になっていることを確認してください。</string>
+    <string name="connection_info_profile_not_connected">&lt;b>Bluetooth接続の更新が必要です&lt;/b>&lt;br/> %1$s はデバイスとペアリングされていますが、制御するには「入力デバイス」設定をオンにする必要があります。&lt;br/>&lt;br/> 1. &lt;b>%1$s&lt;/b> のBluetooth設定で、デバイス &lt;b>%2$s&lt;/b> を見つけます。&lt;br/> 2. &lt;b>入力デバイス&lt;/b>（または &lt;b>HID&lt;/b>）をオンにします。見つからない場合は、デバイスを再度ペアリングしてください。再ペアリングすることで、この設定が有効になる場合があります。</string>
+    <string name="connection_new_device_message">"1. 制御したいデバイスを取り、Bluetooth設定に進んでください。
+
+ 2. 新しいデバイスを追加するオプションを見つけてクリックしてください。
+
+ 3. \"%1$s\"の名前が表示されるはずです。この名前のデバイスがない場合は、デバイスがすでにペアリングされているかBluetooth設定を確認してください。その場合は、新しい接続を開始する前に最初にペアリングを削除する必要があります。
+
+ 4. \"%1$s\"のエントリをクリックしてペアリングプロセスを開始してください
+
+ ペアリングが開始された後、プロセスは続きます…"</string>
+    <string name="connection_new_device_title">別のデバイスから接続</string>
+    <string name="connection_not_paired">ペアリングされていません！リモートデバイスのBluetooth設定で再度ペアリングして、マウスとキーボードを使用してください</string>
+    <string name="connection_not_possible">おそらくサポートされていません</string>
+    <string name="connection_ongoing_message">"%1$sに表示されるPINを確認するか入力してください。
+
+Bluetoothペアリングダイアログが表示されない場合は、Bluetoothペアリングリクエストメッセージの通知を確認してください。"</string>
+    <string name="connection_ongoing_title">ペアリング中 %1$s</string>
+    <string name="connection_option_a">接続オプションA</string>
+    <string name="connection_option_b">接続オプションB</string>
+    <string name="connection_option_c">接続オプションC</string>
+    <string name="connection_permission_required">デバイスをリモートで制御するには、まず「%1$s」の「%2$s」に対する許可を与える必要があります</string>
+    <string name="connection_possible">接続可能であるべきです</string>
+    <string name="connection_remove_pairing">%1$s とのペアリングを削除</string>
+    <string name="connection_select_device">選択されたデバイス %1$s</string>
+    <string name="connection_show_notifications">通知を表示</string>
+    <string name="connection_upgrade_required">接続のアップグレードが必要です</string>
+    <string name="connection_upgrade_required_text">このデバイスを制御するにはBluetooth接続を更新する必要があります。ペアリングを削除して続行してください。</string>
+    <string name="control_code_scanner">コードスキャナー</string>
+    <string name="control_custom">カスタムレイアウト</string>
+    <string name="control_layout_custom_name">カスタム名</string>
+    <string name="control_layout_empty_text">アクションを選択</string>
+    <string name="control_layout_key_edit">キーを編集</string>
+    <string name="control_layout_no_delay">遅延なし</string>
+    <string name="control_layout_rename_key">ボタンの名前を変更</string>
+    <string name="control_layout_send_text">送信するテキスト</string>
+    <string name="control_layout_tab_functions">機能</string>
+    <string name="control_layout_tab_keyboard">キーボードショートカット</string>
+    <string name="control_layout_tab_text">テキスト</string>
+    <string name="control_layout_test_on_device">「%1$s」に組み合わせを送信</string>
+    <string name="control_layout_tooltip_expand_width">全幅を使用</string>
+    <string name="control_layout_tooltip_newline">新しい行に表示</string>
+    <string name="control_mouse_keyboard">マウス / キーボード</string>
+    <string name="control_multimedia">マルチメディア</string>
+    <string name="control_numpad">テンキー</string>
+    <string name="control_overview_backup">バックアップ</string>
+    <string name="control_overview_delete_title">%1$sを削除しますか？</string>
+    <string name="control_overview_duplicate">コピーを作成</string>
+    <string name="control_overview_new_control">新しいレイアウト</string>
+    <string name="control_overview_rename">名前を変更</string>
+    <string name="control_pc_keyboard">PCキーボード</string>
+    <string name="control_presenter">プレゼンター</string>
+    <string name="control_shortcuts">ショートカットのレイアウト</string>
+    <string name="default_error_message">入力値が無効です</string>
+    <string name="default_popup_window_title">ポップアップウィンドウ</string>
+    <string name="delete">削除</string>
+    <string name="device_button_connect">接続</string>
+    <string name="device_button_use">このデバイスを使用</string>
+    <string name="device_help_check">デバイスがオンになっていてBluetoothが有効であることを確認してください。</string>
+    <string name="device_list_enable_notifications">通知で現在のデバイス接続を表示</string>
+    <string name="device_list_section_active_device">アクティブなデバイス</string>
+    <string name="device_list_section_configured_devices">設定されたデバイス</string>
+    <string name="device_setup_connect_another_device">別のデバイスを接続</string>
+    <string name="device_setup_try_again">もう一度試す</string>
+    <string name="devices_button_add_device">リモートデバイスを設定</string>
+    <string name="devices_button_help">ヘルプ</string>
+    <string name="dialog_ble_not_supported">"このデバイスは、このAndroidバージョンでBluetoothキーボードをサポートしていないと報告しています。
+
+うまくいく可能性は少ないですが、それでもダメな場合は、別のデバイスや新しいAndroidバージョンを試してください。"</string>
+    <string name="dialog_ble_not_supported_title">警告</string>
+    <string name="dialog_ble_required">お使いのデバイスは標準接続モードをサポートしていないようです。デバイスを制御するためにBluetooth Low Energy接続モードに切り替える必要があるかもしれません。</string>
+    <string name="dialog_ble_required_title">標準接続モードの問題</string>
+    <string name="dialog_premium_upgrade_message">"Pro版では、多くの追加機能にアクセスできます：
+
+[icon:ic_tv_remote] テレビ、ビデオ、音楽アプリ、デバイスを操作するための**マルチメディアレイアウト**
+[icon:ic_outline_keyboard_alt_24] 全てのキーを備えた**フルPCキーボード**
+[icon:ic_outline_dashboard_customize_24] カスタムレイアウトのための**マクロ**と追加機能
+[icon:ic_baseline_color_lens_24] テーマの変更、**ダークモード**、または**全画面表示**の使用
+[icon:ic_outline_mouse_24] デバイスの動きでカーソルを操作する**エアーマウス**
+[icon:ic_outline_apps_24] **音量キーのサポート**、**バーコードスキャナー**、**テンキー**、**ペンモード**など
+
+Pro版の購入は、新機能の開発にも役立ちます。ありがとうございます！"</string>
+    <string name="dialog_premium_upgrade_title">デバイスの可能性を最大限に引き出す</string>
+    <string name="dialog_quit_button">切断して終了</string>
+    <string name="dialog_quit_message">ホームボタンを押してアプリを最小化し、デバイスを接続した状態に保ちます。</string>
+    <string name="dialog_quit_title">切断して終了しますか？</string>
+    <string name="dialog_rating_cancel">いいえ、ありがとう</string>
+    <string name="dialog_rating_later">後でかもしれません</string>
+    <string name="dialog_rating_title">このアプリを評価する</string>
+    <string name="dialog_select_keyboard_layout">キーボード言語のレイアウトを選択</string>
+    <string name="dialog_survey_start">調査を開始する</string>
+    <string name="dialog_survey_text">"Bluetoothキーボード＆マウスの使用体験に関する簡単な調査にご参加ください。
+
+あなたのフィードバックでアプリを改善します。数分で完了し、Serverless Bluetooth Gamepad Appを無料でダウンロードするためのコードを受け取ります。"</string>
+    <string name="dialog_survey_title">ユーザー体験調査</string>
+    <string name="disable_direct_mouse_input">直接マウス入力を無効にする</string>
+    <string name="disable_new_device_connections">新しいデバイスの接続を無効にする</string>
+    <string name="disconnected">切断されました</string>
+    <string name="disconnecting">切断中</string>
+    <string name="dropdown_menu">プルダウン メニュー</string>
+    <string name="empty" />
+    <string name="empty_message">以下のボタンをクリックして、制御したいデバイスを設定してください</string>
+    <string name="empty_title">リモートデバイスを設定する</string>
+    <string name="enable_connection_mode_to_add_new_devices">新しいデバイスを追加するために接続モードを有効にする</string>
+    <string name="enable_new_device_connections">新しいデバイスの接続を有効にする</string>
+    <string name="error_a11y_label">エラー: 無効</string>
+    <string name="error_bluetooth_not_enabled">Bluetoothが有効ではありません</string>
+    <string name="error_bluetooth_server">Bluetoothサーバーを初期化できませんでした</string>
+    <string name="error_button_switch">切り替え</string>
+    <string name="error_icon_content_description">エラー</string>
+    <string name="error_text_input">現在のキーボード言語ではこの文字はサポートされていません。</string>
+    <string name="exit_dialog_continue">編集を続ける</string>
+    <string name="exit_dialog_discard">破棄</string>
+    <string name="exit_dialog_title">変更を破棄しますか？</string>
+    <string name="exposed_dropdown_menu_content_description">プルダウン メニューを表示</string>
+    <string name="help_change_language">&lt;h3>設定が必要です！&lt;/h3>&lt;p>特定の言語のキーボードを全ての特殊文字と共に使用するには、まずその言語を&lt;b>受信デバイス&lt;/b>に設定する必要があります。&lt;/p>&lt;h5>Android&lt;/h5>&lt;p>これは、受信デバイスの設定で&lt;b>システム&lt;/b>をクリックし、その後に&lt;b>言語と入力&lt;/b>を選択することで行えます。&lt;b>仮想キーボード&lt;/b>の下で、Bluetoothキーボードを使用して受信デバイス上で書きたい言語を選択できます。&lt;/p></string>
+    <string name="help_text">" &lt;h3 id=how-it-works>動作原理&lt;/h3>&lt;p>このアプリはBluetoothを使用して、Bluetooth対応デバイスを制御します。&lt;/p>&lt;h3 id=how-to-connect>接続方法&lt;/h3>&lt;p>制御したいデバイスでBluetooth設定に進み、Androidデバイスに接続しようとしてください。Androidデバイス上でダイアログまたは通知が表示され、そこでリモートデバイスに表示されているPINを入力または確認する必要があります。&lt;/p>&lt;h3 id=what-is-the-difference-between-the-normal-and-the-compatibility-connection-mode->通常の接続モードと互換性接続モードの違いは何ですか？&lt;/h3>&lt;p>&lt;strong>通常の接続モード&lt;/strong>は、Android 9以上のほとんどのデバイスでサポートされています。このモードは、通常のBluetoothキーボードまたはマウスをサポートするほとんどのBluetoothデバイスで機能します。&lt;/p>&lt;p>&lt;strong>互換性接続モード&lt;/strong>は、通常の接続モードをサポートしていないAndroidバージョンで使用されます。このモードはBluetooth 4.0（Low Energy）を使用し、これは新しいデバイスでのみサポートされています。このモードでは、デバイスが切断された後に接続が機能しない場合があり、デバイスを再びペアリングする必要があります。&lt;/p>&lt;h3 id=the-letters-sent-to-my-devices-are-not-correct>私のデバイスに送られる文字が正しくありません&lt;/h3>&lt;p>間違った文字が表示される場合、それは接続されたデバイスのキーボード言語が正しく設定されていないことを意味します。これを修正するには、接続されたデバイスのキーボード設定をアプリで設定されているレイアウトと同じに変更してください。接続されたAndroidデバイスの場合、設定でハードウェアキーボードの言語も変更する必要があります。&lt;/p>&lt;h3 id=how-do-i-connect-to-my-windows-pc->Windows PCにどのように接続しますか？&lt;/h3>&lt;p>WindowsデバイスがAndroidデバイスを見つけられない場合、すでに接続されている可能性があります。これを修正するには、Windowsデバイス上の接続を削除する必要があります。Windowsの「Your Phone」Phone Linkアプリを使用している場合は、電話とPC上のWindows Phone Linkアプリを無効にする必要があります。その後、電話とのBluetoothペアリングを削除し、アプリの接続画面を通じて再度接続する必要があります。&lt;/p>&lt;h3 id=why-does-the-android-app-on-the-connected-device-restart-after-connecting-or-disconnecting->接続または切断後に接続されたデバイスのAndroidアプリが再起動するのはなぜですか？&lt;/h3>&lt;p>いくつかのAndroidアプリは、Bluetoothキーボードやメディアリモコンが接続されたり切断されたりすると問題が発生します。&lt;/p>&lt;p>このための解決策は、アプリを使用する前に接続し、アプリをバックボタンではなくホームボタンで閉じることで、アプリをデバイスに接続した状態に保つことです。&lt;/p>&lt;p>アプリの名前を教えていただければ、この問題を修正するために開発者に連絡を試みることができます。&lt;/p>&lt;h3 id=can-i-use-the-premium-version-on-another-device->プレミアムバージョンを別のデバイスで使用できますか？&lt;/h3>&lt;p>はい、それは可能です。購入はGoogleアカウントに紐付けられています。購入に使用したのと同じアカウントを使用していることを確認してください。また、デバイスを再起動すると支払いに関する問題が解決されることがあります。&lt;/p>&lt;h3 id=how-can-i-get-a-refund->どうやって返金を受け取れますか？&lt;/h3>&lt;p>Googleから直接返金をリクエストできます：&lt;a href=https://support.google.com/googleplay/answer/2479637?hl=ja>https://support.google.com/googleplay/answer/2479637?hl=ja&lt;/a>またはメールを送ってください。&lt;/p> "</string>
+    <string name="icon_content_description">ダイアログ アイコン</string>
+    <string name="in_progress">処理しています</string>
+    <string name="indeterminate">一部 ON</string>
+    <string name="info_device_not_connecting">デバイスに接続できませんでした、もう一度試してください。</string>
+    <string name="info_message_full_screen_exit_button">上にスワイプし戻るを押してフルスクリーンモードを終了します</string>
+    <string name="info_message_full_screen_exit_gesture">フルスクリーンモードを終了するには、戻るを2回押してください</string>
+    <string name="info_searching_action">高度な検索</string>
+    <string name="info_searching_devices">接続可能なBluetoothデバイスを検索中</string>
+    <string name="info_searching_not_found">接続可能なBluetoothデバイスが見つかりませんでした</string>
+    <string name="info_searching_not_found_message">&lt;p>リモートデバイスでBluetoothが有効であり、デバイスが検出可能であることを確認してください。&lt;/p>&lt;p>接続したいデバイスのBluetooth設定に進んでデバイスを検出可能にすることができます。&lt;/p>&lt;p>&lt;strong>高度な検索&lt;/strong>&lt;/p>&lt;p>一部のデバイス、例えばChromecast with Google TVは、その名前を広告しておらず、見つけるために高度な検索が必要です。&lt;/p></string>
+    <string name="info_shortcut_edit">長押しで編集</string>
+    <string name="info_turn_device_off">接続を改善するためにBluetoothヘッドセットまたはスピーカーを切断してください。</string>
+    <string name="info_turn_device_off_lag">マウスカーソルが遅れる場合は、Bluetoothヘッドセットまたはスピーカーを切断してください。</string>
+    <string name="info_turn_hotspot_off">Bluetooth接続を改善するためにホットスポットとWiFiを無効にしてください。</string>
+    <string name="info_turn_hotspot_off_lag">マウスカーソルが遅れる場合は、ホットスポットとWiFiをオフにしてみてください。</string>
+    <string name="info_turn_wifi_off">Bluetooth接続を改善するためにWiFiを無効にしてください。</string>
+    <string name="info_turn_wifi_off_lag">マウスカーソルが遅れる場合は、WiFiを無効にしてみてください。</string>
+    <string name="item_view_role_description">タブ</string>
+    <string name="keyboard_banner_not_working">いいえ、問題があります</string>
+    <string name="keyboard_banner_text">キーボードは機能していますか？@などの文字が正しいか確認してください。</string>
+    <string name="keyboard_banner_working">はい、機能しています</string>
+    <string name="keyboard_layout_all_language_layouts">すべての言語のレイアウト</string>
+    <string name="keyboard_layout_info">"接続されたデバイスに設定されているキーボードレイアウトに合わせて選択してください。
+誤った文字が表示された場合は、異なるレイアウトを選択してください。"</string>
+    <string name="keyboard_layout_previous_layouts">使用済みのキーボードレイアウト</string>
+    <string name="keyboard_layout_system_language_layouts">システム言語のレイアウト</string>
+    <string name="keyboard_section_alphanumeric_modifier_keys">英数字キーと修飾キー</string>
+    <string name="keyboard_section_browser_keys">ブラウザキー</string>
+    <string name="keyboard_section_function_keys">ファンクションキー</string>
+    <string name="keyboard_section_navigation_system_keys">ナビゲーションキーとシステムキー</string>
+    <string name="keyboard_section_numpad">テンキー</string>
+    <string name="layout_share">共有</string>
+    <string name="layout_share_description">レイアウトを共有すると、他のユーザーが閲覧してダウンロードできるようになります。</string>
+    <string name="layout_share_title">レイアウトを共有</string>
+    <string name="m3_loading_indicator_content_description">読み込んでいます</string>
+    <string name="m3c_bottom_sheet_collapse_description">ボトムシートを折りたたみます</string>
+    <string name="m3c_bottom_sheet_dismiss_description">ボトムシートを閉じます</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">ドラッグ ハンドル</string>
+    <string name="m3c_bottom_sheet_expand_description">ボトムシートを開きます</string>
+    <string name="m3c_bottom_sheet_pane_title">ボトムシート</string>
+    <string name="m3c_date_input_headline">入力された日付</string>
+    <string name="m3c_date_input_headline_description">入力された日付: %1$s</string>
+    <string name="m3c_date_input_invalid_for_pattern">想定パターンと一致しない日付: %1$s</string>
+    <string name="m3c_date_input_invalid_not_allowed">許可されない日付: %1$s</string>
+    <string name="m3c_date_input_invalid_year_range">想定される年の範囲（%1$s～%2$s）から日付が外れています</string>
+    <string name="m3c_date_input_label">日付</string>
+    <string name="m3c_date_input_no_input_description">なし</string>
+    <string name="m3c_date_input_title">日付の選択</string>
+    <string name="m3c_date_picker_headline">選択した日付</string>
+    <string name="m3c_date_picker_headline_description">現在の選択: %1$s</string>
+    <string name="m3c_date_picker_navigate_to_year_description">年に移動 %1$s</string>
+    <string name="m3c_date_picker_no_selection_description">なし</string>
+    <string name="m3c_date_picker_scroll_to_earlier_years">これより前の年を表示するにはスクロールしてください</string>
+    <string name="m3c_date_picker_scroll_to_later_years">これより後の年を表示するにはスクロールしてください</string>
+    <string name="m3c_date_picker_switch_to_calendar_mode">カレンダー入力モードに切り替え</string>
+    <string name="m3c_date_picker_switch_to_day_selection">スワイプして年を選択するか、タップして日付の選択に戻ります</string>
+    <string name="m3c_date_picker_switch_to_input_mode">テキスト入力モードに切り替え</string>
+    <string name="m3c_date_picker_switch_to_next_month">翌月に変更</string>
+    <string name="m3c_date_picker_switch_to_previous_month">前月に変更</string>
+    <string name="m3c_date_picker_switch_to_year_selection">年の選択に切り替え</string>
+    <string name="m3c_date_picker_title">日付の選択</string>
+    <string name="m3c_date_picker_today_description">今日</string>
+    <string name="m3c_date_picker_year_picker_pane_title">年の選択ツールの表示</string>
+    <string name="m3c_date_range_input_invalid_range_input">入力された期間は無効です</string>
+    <string name="m3c_date_range_input_title">日付の入力</string>
+    <string name="m3c_date_range_picker_day_in_range">範囲内</string>
+    <string name="m3c_date_range_picker_end_headline">終了日</string>
+    <string name="m3c_date_range_picker_scroll_to_next_month">翌月を表示するにはスクロールしてください</string>
+    <string name="m3c_date_range_picker_scroll_to_previous_month">前月を表示するにはスクロールしてください</string>
+    <string name="m3c_date_range_picker_start_headline">開始日</string>
+    <string name="m3c_date_range_picker_title">日付の選択</string>
+    <string name="m3c_dialog">ダイアログ</string>
+    <string name="m3c_dropdown_menu_collapsed">閉じています</string>
+    <string name="m3c_dropdown_menu_expanded">開いています</string>
+    <string name="m3c_dropdown_menu_toggle">プルダウン メニューを切り替えます</string>
+    <string name="m3c_floating_toolbar_collapse">ツールバーを閉じます</string>
+    <string name="m3c_floating_toolbar_expand">ツールバーを開きます</string>
+    <string name="m3c_search_bar_search">検索</string>
+    <string name="m3c_snackbar_dismiss">閉じる</string>
+    <string name="m3c_snackbar_pane_title">アラート</string>
+    <string name="m3c_suggestions_available">検索候補は次のとおりです</string>
+    <string name="m3c_time_input_dialog_title">時刻の入力</string>
+    <string name="m3c_time_picker_am">AM</string>
+    <string name="m3c_time_picker_dialog_title">時刻の選択</string>
+    <string name="m3c_time_picker_hour">時間</string>
+    <string name="m3c_time_picker_hour_24h_suffix">%1$d 時間</string>
+    <string name="m3c_time_picker_hour_selection">時刻を選択</string>
+    <string name="m3c_time_picker_hour_suffix">%1$d 時</string>
+    <string name="m3c_time_picker_hour_text_field">（時間単位）</string>
+    <string name="m3c_time_picker_minute">分</string>
+    <string name="m3c_time_picker_minute_selection">分を選択</string>
+    <string name="m3c_time_picker_minute_suffix">%1$d 分</string>
+    <string name="m3c_time_picker_minute_text_field">（分単位）</string>
+    <string name="m3c_time_picker_period_toggle_description">午前または午後を選択</string>
+    <string name="m3c_time_picker_pm">PM</string>
+    <string name="m3c_time_picker_toggle_keyboard">時刻をテキストで入力するモードに切り替えます</string>
+    <string name="m3c_time_picker_toggle_touch">時刻を時計で入力するモードに切り替えます</string>
+    <string name="m3c_tooltip_long_press_label">ツールチップを表示</string>
+    <string name="m3c_tooltip_pane_description">ツールチップ</string>
+    <string name="m3c_wide_navigation_rail_close_rail">レールを閉じる</string>
+    <string name="m3c_wide_navigation_rail_pane_title">ナビゲーション レール</string>
+    <string name="material_clock_toggle_content_description">午前または午後を選択</string>
+    <string name="material_hour_24h_suffix">%1$s時</string>
+    <string name="material_hour_selection">時を選択</string>
+    <string name="material_hour_suffix">%1$s時</string>
+    <string name="material_minute_selection">分を選択</string>
+    <string name="material_minute_suffix">%1$s分</string>
+    <string name="material_slider_range_end">範囲の末尾</string>
+    <string name="material_slider_range_start">範囲の先頭</string>
+    <string name="material_slider_value">値</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">時刻を時計で入力するモードに切り替えます。</string>
+    <string name="material_timepicker_hour">時</string>
+    <string name="material_timepicker_minute">分</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">時刻を選択</string>
+    <string name="material_timepicker_text_input_mode_description">時刻をテキストで入力するモードに切り替えます。</string>
+    <string name="md_message_connection_failed">"**接続に失敗しました**
+
+Bluetooth接続を確立できませんでした。
+
+{{ConnectionCard}}
+
+**対処法:**
+1. **Bluetoothの確認:** 両方のデバイスでBluetoothがオンになっていることを確認してください。
+2. **近づける:** デバイスが接続できる範囲内にあることを確認してください。
+3. **再起動:** 両方のデバイスをオフにしてからオンにしてください。
+4. **更新:** デバイスが更新されていることを確認してください。
+
+さらにサポートが必要ですか？ 私たちのDiscordサポートチャンネルに参加してください。"</string>
+    <string name="md_message_pairing_failed">"**ペアリングに失敗しました**
+
+Bluetooth接続を確立できませんでした。
+
+{{ConnectionCard}}
+
+**対処法:**
+1. **ペアリングの確認:** 各デバイスでペアリングを求めるプロンプトが表示されたら、それを受け入れてください。
+2. **再試行:** プロンプトが表示されなかった場合は、再接続してください。
+3. **再起動:** 両方のデバイスをオフにしてからオンにしてください。
+4. **更新:** すべてのデバイスが最新の状態であることを確認してください。
+
+さらにサポートが必要ですか？ 私たちのDiscordサポートチャンネルに参加してください。"</string>
+    <string name="menu_air_mouse_sensitivity">エアマウスの感度</string>
+    <string name="menu_analog_stick">アナログスティック</string>
+    <string name="menu_ble_mode">互換モード</string>
+    <string name="menu_bluetooth_devices">Bluetoothデバイス</string>
+    <string name="menu_category_air_mouse">エアマウス</string>
+    <string name="menu_category_touchpad">タッチパッド</string>
+    <string name="menu_community_layouts">コミュニティレイアウト</string>
+    <string name="menu_custom_controls">カスタムレイアウト</string>
+    <string name="menu_design_option">デザイン</string>
+    <string name="menu_done">完了</string>
+    <string name="menu_edit">編集</string>
+    <string name="menu_feedback">Develop and design by \"@Tiw@ri\"</string>
+    <string name="menu_full_screen">フルスクリーンタッチパッドモードで開始</string>
+    <string name="menu_help">ヘルプ</string>
+    <string name="menu_keyboard_language">キーボード言語</string>
+    <string name="menu_manage_layouts">レイアウトを管理</string>
+    <string name="menu_mouse_jiggle_mode">定期的にマウスを動かす (マウスジグラー)</string>
+    <string name="menu_mouse_settings">マウス設定</string>
+    <string name="menu_paste">クリップボードのテキストを貼り付け</string>
+    <string name="menu_restore">復元</string>
+    <string name="menu_save_changes">保存</string>
+    <string name="menu_screen_settings">画面設定</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_show_android_navigation_buttons">Androidナビゲーションボタンを表示</string>
+    <string name="menu_show_media_control_buttons">メディア制御ボタンを表示</string>
+    <string name="menu_show_shortcuts_buttons">ショートカットを表示</string>
+    <string name="menu_theme_color">テーマカラー</string>
+    <string name="menu_upgrade_to_premium">Proバージョンにアップグレード</string>
+    <string name="menu_use_air_mouse">エアマウスを使用</string>
+    <string name="menu_use_dark_theme">ダークモード</string>
+    <string name="menu_use_outline_theme">トロンスタイル</string>
+    <string name="mesage_layout_restore_failed">レイアウトを復元できませんでした</string>
+    <string name="message_char_not_found">"'%1$s' は、選択したキーボードの言語では使用できません"</string>
+    <string name="message_connection_timeout">テキストの送信に失敗しました</string>
+    <string name="message_error">エラーが発生しました、もう一度試してください</string>
+    <string name="message_error_no_file_manager_found">ファイルマネージャーが見つかりません</string>
+    <string name="message_error_speech_audio">音声エラー。音声アプリでマイクへのアクセスを許可してください。</string>
+    <string name="message_error_speech_client">音声アプリのエラー。権限と設定を確認してください。</string>
+    <string name="message_error_speech_device_lock">音声入力を使用するにはデバイスのロックを解除してください。</string>
+    <string name="message_error_speech_network">音声アプリでネットワークエラーが発生しました。接続を確認するか、アプリを切り替えてください。</string>
+    <string name="message_error_speech_not_matched">音声を認識できませんでした。もう一度試すか、音声アプリを切り替えてください。</string>
+    <string name="message_error_speech_server">音声サービスが停止しています。後でもう一度試すか、別のアプリを使用してください。</string>
+    <string name="message_layout_restored">レイアウトが復元されました</string>
+    <string name="message_pen_detected">ペンが検出されました。マウス設定で挙動を変更してください。</string>
+    <string name="message_premium_required">この機能はProバージョンで利用可能です</string>
+    <string name="message_purchase_completed">Proバージョンを購入いただきありがとうございます！ すべての機能を使用できるようになりました。</string>
+    <string name="message_purchase_pending">購入を完了してPro機能をアンロックしてください</string>
+    <string name="message_purchase_pending_action">完了してProをアンロック</string>
+    <string name="message_restore_failed">レイアウトを復元できませんでした</string>
+    <string name="message_return_back">戻るボタンを押して切断</string>
+    <string name="message_rotate_device">デバイスを回転させてください</string>
+    <string name="message_waiting_for_device">テキストを送信するためにデバイス接続を待っています</string>
+    <string name="mouse_settings_close">閉じる</string>
+    <string name="mouse_settings_invert_scroll_direction">スクロール方向を反転</string>
+    <string name="mouse_settings_mouse_buttons">マウスボタン</string>
+    <string name="mouse_settings_mouse_buttons_display">マウスボタンの表示</string>
+    <string name="mouse_settings_pen_mode_description">画面上でペンをホバーさせてカーソルを移動します</string>
+    <string name="mouse_settings_pen_mode_title">ペン描画モード</string>
+    <string name="mouse_settings_pointer_speed">ポインターの速度</string>
+    <string name="mouse_settings_scroll_bar">スクロールバー</string>
+    <string name="mouse_settings_scroll_speed">スクロール速度</string>
+    <string name="mouse_settings_show_buttons_above">タッチパッドの上にボタンを表示する</string>
+    <string name="mouse_settings_title">マウス設定</string>
+    <string name="mouse_settings_touch_pad_clicks">タッチパッドのマウスクリック</string>
+    <string name="mtrl_badge_numberless_content_description">新しい通知</string>
+    <string name="mtrl_checkbox_state_description_checked">オン</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">一部オン</string>
+    <string name="mtrl_checkbox_state_description_unchecked">オフ</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s を削除します</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d 件以上の新しい通知</string>
+    <string name="mtrl_picker_a11y_next_month">翌月に変更</string>
+    <string name="mtrl_picker_a11y_prev_month">前月に変更</string>
+    <string name="mtrl_picker_announce_current_range_selection">開始日を選択: %1$s – 終了日を選択: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">現在の選択: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">なし</string>
+    <string name="mtrl_picker_cancel">キャンセル</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">日付を選択してください</string>
+    <string name="mtrl_picker_date_header_unselected">選択した日付</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">終了日 %1$s</string>
+    <string name="mtrl_picker_invalid_format">形式が無効です。</string>
+    <string name="mtrl_picker_invalid_format_example">例: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用: %1$s</string>
+    <string name="mtrl_picker_invalid_range">範囲が無効です。</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">現在の年（%1$d）に移動</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d 年に移動</string>
+    <string name="mtrl_picker_out_of_range">範囲外: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日～%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s～終了日</string>
+    <string name="mtrl_picker_range_header_selected">%1$s～%2$s</string>
+    <string name="mtrl_picker_range_header_title">期間を選択してください</string>
+    <string name="mtrl_picker_range_header_unselected">開始日～終了日</string>
+    <string name="mtrl_picker_save">保存</string>
+    <string name="mtrl_picker_start_date_description">開始日 %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">日付</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">終了日</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">今日（%1$s）</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">カレンダー入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_day_selection">カレンダー表示に切り替え</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">テキスト入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_year_selection">年表示に切り替え</string>
+    <string name="mtrl_timepicker_cancel">キャンセル</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="nav_app_bar_navigate_up_description">上へ移動</string>
+    <string name="nav_app_bar_open_drawer_description">ナビゲーション ドロワーを開く</string>
+    <string name="navigation_menu">ナビゲーションメニュー</string>
+    <string name="new_connections_disabled">新しい接続は無効です</string>
+    <string name="not_paired">ペアリングされていません</string>
+    <string name="not_selected">未選択</string>
+    <string name="not_supported">"接続が機能しない場合は、デバイスを再度ペアリングする必要があります！
+
+1. この画面を開いたままにする
+2. 他のデバイスでBluetooth設定に進む
+3. 現在のBluetooth接続を削除してから、再度接続する。"</string>
+    <string name="notification_text">ここをクリックしてデバイスを制御します。</string>
+    <string name="notification_title">%1$sが接続されました</string>
+    <string name="onboarding_get_started">始める</string>
+    <string name="onboarding_message_1">これで、追加のソフトウェアやハードウェアなしで、あなたの手にはBluetoothキーボード、マウス、マルチメディアリモコンがあります。</string>
+    <string name="onboarding_message_2">"Bluetoothマウスまたはキーボードをサポートするデバイスであれば、アプリで動作するはずです。
+
+しかし、ハードウェアの問題により、特定のデバイスの組み合わせが動作しない可能性もあります。"</string>
+    <string name="onboarding_message_3">"マウスとキーボードのコントロールは無料であり、広告はありません。
+
+Proバージョンにアップグレードすることで、マルチメディアコントロール、エアマウス、多くのカスタマイズオプションなどの追加機能にアクセスできます。"</string>
+    <string name="onboarding_next">次へ</string>
+    <string name="onboarding_title_1">ようこそ！</string>
+    <string name="option_android">Android</string>
+    <string name="option_computer">コンピュータ</string>
+    <string name="option_connects_but_doesnt_work">接続はされますが、動作しません</string>
+    <string name="option_error">エラーが発生します</string>
+    <string name="option_ios">iOS</string>
+    <string name="option_macos">macOS</string>
+    <string name="option_no">いいえ</string>
+    <string name="option_nothing">何も起こりません</string>
+    <string name="option_other">その他</string>
+    <string name="option_phone">電話</string>
+    <string name="option_something_else">何か他のことが起こります</string>
+    <string name="option_tablet">タブレット</string>
+    <string name="option_tv">テレビ</string>
+    <string name="option_unsure">不明</string>
+    <string name="option_windows">Windows</string>
+    <string name="option_yes">はい</string>
+    <string name="outcome_connection_error">エラーが発生しているようです。デバイスのBluetooth設定を確認して、もう一度お試しください。</string>
+    <string name="outcome_device_not_visible">アプリでデバイスが表示されない場合は、デバイスがペアリングモードで、範囲内にあることを確認してください。両方のデバイスを再起動してみてください。</string>
+    <string name="outcome_enable_bluetooth">制御しようとしているデバイスでBluetoothを有効にして、もう一度お試しください。</string>
+    <string name="outcome_ensure_screen_unlocked">制御しようとしているデバイスの画面のロックが解除されていることを確認して、もう一度お試しください。</string>
+    <string name="outcome_find_bluetooth_setting">デバイスの設定またはクイックアクセス パネルで、Bluetoothを見つけて有効にしてください。ヘルプが必要な場合は、デバイスのマニュアルまたはサポート Web サイトを参照してください。</string>
+    <string name="outcome_restart_devices">両方のデバイスの電源をオフにしてからオンにして、トラブルシューティングプロセスを再開してください。</string>
+    <string name="outcome_restart_devices_if_unlocked">画面のロックが解除されているにもかかわらず問題が解決しない場合は、両方のデバイスを再起動してみてください。</string>
+    <string name="outcome_unexpected_issue">予期しない問題が発生しています。サポートチームにご連絡ください。</string>
+    <string name="outcome_unlock_screen">制御しようとしているデバイスの画面のロックを解除して、もう一度お試しください。</string>
+    <string name="pairing_successful">ペアリング成功</string>
+    <string name="pairing_unknown">現在のペアリングは使用できない可能性があります</string>
+    <string name="password_toggle_content_description">パスワードを表示</string>
+    <string name="permgrouplab_nearby_devices">付近のデバイス</string>
+    <string name="pin_required">PIN入力を待っています</string>
+    <string name="premium_feature_fullscreen_mode">全画面モードはPro版で利用できます</string>
+    <string name="premium_feature_password_mode">パスワードモードはProバージョンで利用可能です</string>
+    <string name="premium_feature_text_field">テキストの事前入力と貼り付けはProバージョンで利用可能です</string>
+    <string name="premium_feature_volume_buttons">リモートデバイスの音量を変更する機能はProバージョンでサポートされています</string>
+    <string name="premium_message_external_mouse_support">Proバージョンでは直接マウス入力がサポートされています</string>
+    <string name="proposed_solution">提案された解決策</string>
+    <string name="question_bluetooth_enabled">制御したいデバイスでBluetoothは有効になっていますか？</string>
+    <string name="question_connection_issue">接続しようとするとどうなりますか？</string>
+    <string name="question_device_type">どのデバイスを制御しようとしていますか？</string>
+    <string name="question_device_visible">アプリで制御したいデバイスが表示されますか？</string>
+    <string name="question_devices_restarted">両方のデバイスの電源をオフにしてからオンにすることを試しましたか？</string>
+    <string name="question_operating_system">デバイスはどのオペレーティングシステムを実行していますか？</string>
+    <string name="question_screen_locked">制御しようとしているデバイスの画面はロックされていますか？</string>
+    <string name="question_used_before">このアプリをそのデバイスで以前に使用したことがありますか？</string>
+    <string name="range_end">範囲の末尾</string>
+    <string name="range_start">範囲の先頭</string>
+    <string name="scanner_continuous_scanning">連続スキャン</string>
+    <string name="scanner_reject_duplicate">重複をスキップ</string>
+    <string name="scanner_scan_code">QR / バーコードをスキャン</string>
+    <string name="scanner_send_enter">スキャン後にENTERを送信</string>
+    <string name="screen_settings_brightness">明るさ</string>
+    <string name="screen_settings_haptic_feedback">タッチバイブレーション</string>
+    <string name="screen_settings_keep_screen_on">画面を常にオンにする</string>
+    <string name="screen_settings_show_keyboard_on_start">起動時にキーボードを表示</string>
+    <string name="screen_settings_show_over_lock_screen">ロック画面上にアプリを表示</string>
+    <string name="screen_settings_show_text_input_bar">テキスト入力バーを表示</string>
+    <string name="screen_settings_start_in_full_screen_mode">フルスクリーンモードで起動</string>
+    <string name="screen_settings_title">画面設定</string>
+    <string name="screen_settings_vol_down_button">音量ダウンボタン</string>
+    <string name="screen_settings_vol_up_button">音量アップボタン</string>
+    <string name="search_menu_title">検索</string>
+    <string name="searchview_clear_text_content_description">テキストを消去</string>
+    <string name="searchview_navigation_content_description">戻る</string>
+    <string name="selected">選択済み</string>
+    <string name="settings_controls">コントロール</string>
+    <string name="settings_display">ディスプレイ</string>
+    <string name="settings_gamepad">ゲームパッド</string>
+    <string name="settings_keyboard">キーボード</string>
+    <string name="settings_mouse">マウス</string>
+    <string name="share_dialog_author">著者名</string>
+    <string name="share_dialog_device_target">デバイスターゲット</string>
+    <string name="share_dialog_language">レイアウトで使用される言語</string>
+    <string name="share_dialog_layout_name">レイアウト名</string>
+    <string name="share_dialog_only_symbols">記号のみ</string>
+    <string name="share_dialog_public_sharing">コミュニティと共有</string>
+    <string name="shortcut_name">ショートカット名</string>
+    <string name="shortcuts_edit_help">編集するにはボタンを押してください。ボタンを長押ししてドラッグし、移動させます。</string>
+    <string name="side_sheet_accessibility_pane_title">サイドシート</string>
+    <string name="snackbar_pane_title">アラート</string>
+    <string name="speech_input_not_supported">このデバイスでは音声入力がサポートされていません</string>
+    <string name="state_empty">なし</string>
+    <string name="state_off">OFF</string>
+    <string name="state_on">ON</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_mode_button">モードを切り替える</string>
+    <string name="switch_mode_message">"接続モードを切り替えた後、接続を機能させるためにデバイスを再びペアリングする必要があります。
+
+今、接続モードを切り替えますか？"</string>
+    <string name="switch_mode_title">接続モードを切り替え</string>
+    <string name="switch_role">切り替える</string>
+    <string name="tab">タブ</string>
+    <string name="template_percent">%1$dパーセント。</string>
+    <string name="text_input_help_focused">テキストを入力して送信を押してください</string>
+    <string name="text_input_help_unfocused">テキスト入力</string>
+    <string name="text_visibility_hidden">パスワードモードに切り替えました</string>
+    <string name="text_visibility_visible">オートコンプリートモードに切り替えました</string>
+    <string name="title_activity_key_config">新しいショートカット</string>
+    <string name="title_bluetooth_devices">Bluetoothデバイス</string>
+    <string name="title_button_color">ボタンの色</string>
+    <string name="title_connection">新しい接続</string>
+    <string name="title_edit_layout">レイアウトを編集</string>
+    <string name="title_name">名前</string>
+    <string name="title_required_for_android_tv">Android TV に必要</string>
+    <string name="title_shortcut_edit">ショートカットを編集</string>
+    <string name="title_shortcut_list">ショートカットを管理</string>
+    <string name="tooltip_description">ツールチップ</string>
+    <string name="tooltip_label">ツールチップを表示</string>
+    <string name="upgrade_buy_one_time">Proを永久にアンロック - %s</string>
+    <string name="upgrade_free_trial">%s日間の無料トライアルを開始</string>
+    <string name="upgrade_start_subscription">その後%1$s/年</string>
+</resources>

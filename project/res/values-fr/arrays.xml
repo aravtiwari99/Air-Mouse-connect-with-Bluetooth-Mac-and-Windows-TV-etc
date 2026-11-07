@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_position_options">
+        <item>Gauche</item>
+        <item>Droite</item>
+    </string-array>
+    <string-array name="input_bar_options">
+        <item>Lorsque le clavier est actif</item>
+        <item>Toujours</item>
+        <item>Jamais</item>
+    </string-array>
+    <string-array name="mouse_buttons_options">
+        <item>Gauche</item>
+        <item>Centre</item>
+        <item>Droite</item>
+    </string-array>
+    <string-array name="mouse_jiggle_mode_options">
+        <item>Désactivé</item>
+        <item>"Uniquement lorsque l'écran est allumé"</item>
+        <item>"Toujours, même en arrière-plan (vérifiez l'optimisation de la batterie si ça ne fonctionne pas)"</item>
+    </string-array>
+    <string-array name="theme_option_names">
+        <item>Clair</item>
+        <item>Sombre</item>
+        <item>Noir</item>
+        <item>Défaut du système</item>
+    </string-array>
+    <string-array name="vertical_position_options">
+        <item>Haut</item>
+        <item>Bas</item>
+    </string-array>
+    <string-array name="volume_button_keys">
+        <item>Aucune (volume système)</item>
+        <item>Volume haut</item>
+        <item>Volume bas</item>
+        <item>Bouton gauche de la souris</item>
+        <item>Bouton droit de la souris</item>
+        <item>Page haute</item>
+        <item>Page en bas</item>
+    </string-array>
+</resources>

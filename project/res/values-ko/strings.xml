@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">홈으로 이동</string>
+    <string name="abc_action_bar_up_description">위로 이동</string>
+    <string name="abc_action_menu_overflow_description">추가 옵션</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_capital_off">사용 중지</string>
+    <string name="abc_capital_on">사용</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">스페이스바</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_query">검색어</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유 대상:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s과(와) 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="action_disconnect">연결 해제</string>
+    <string name="action_edit_mode">편집 모드</string>
+    <string name="action_keyboard">키보드</string>
+    <string name="action_macro_recorder">매크로</string>
+    <string name="action_settings">설정</string>
+    <string name="actionbar_bluetooth_required">블루투스 비활성화</string>
+    <string name="actionbar_connected">%1$s 연결됨</string>
+    <string name="actionbar_connecting">%1$s 연결 중</string>
+    <string name="actionbar_disconnected">%1$s 연결 끊김</string>
+    <string name="actionbar_disconnecting">%1$s 연결 해제</string>
+    <string name="actionbar_not_connected">연결되지 않음</string>
+    <string name="actionbar_not_paired">%1$s 페어링 되지 않음</string>
+    <string name="actionbar_pairing">%1$s 페어링 중</string>
+    <string name="add_component">구성 요소 추가</string>
+    <string name="add_shortcut">단축키 추가</string>
+    <string name="androidx_compose_foundation_autofill">자동 완성</string>
+    <string name="androidx_compose_ui_autofill">자동 완성</string>
+    <string name="app_name">Mouse</string>
+    <string name="bottomsheet_action_collapse">하단 시트 접기</string>
+    <string name="bottomsheet_action_expand">하단 시트 펼치기</string>
+    <string name="bottomsheet_action_expand_halfway">반만 펼치기</string>
+    <string name="bottomsheet_drag_handle_content_description">드래그 핸들</string>
+    <string name="button_allow_access">액세스 허용</string>
+    <string name="button_cancel">취소</string>
+    <string name="button_edit_add_step_after">뒤에 단계 추가</string>
+    <string name="button_edit_add_step_before">앞에 단계 추가</string>
+    <string name="button_edit_delete_step">단계 삭제</string>
+    <string name="button_enable_bluetooth">블루투스 활성화</string>
+    <string name="button_large">크게</string>
+    <string name="button_medium">보통</string>
+    <string name="button_ok">확인</string>
+    <string name="button_open_settings">설정 열기</string>
+    <string name="button_purchase_pending_restart">다시 구매 시도</string>
+    <string name="button_report">오류 보고</string>
+    <string name="button_restart_bluetooth">블루투스 재시작</string>
+    <string name="button_retry">다시 시도</string>
+    <string name="button_small">작게</string>
+    <string name="button_stop_mouse_jiggle">마우스 지글 중지</string>
+    <string name="button_upgrade">업그레이드</string>
+    <string name="call_notification_answer_action">통화</string>
+    <string name="call_notification_answer_video_action">동영상</string>
+    <string name="call_notification_decline_action">거절</string>
+    <string name="call_notification_hang_up_action">전화 끊기</string>
+    <string name="call_notification_incoming_text">수신 전화</string>
+    <string name="call_notification_ongoing_text">진행 중인 통화</string>
+    <string name="call_notification_screening_text">수신 전화 검사 중</string>
+    <string name="category_configuration">구성</string>
+    <string name="category_controls">통제 수단</string>
+    <string name="character_counter_content_description">입력된 글자 %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">글자 수 제한이 초과되었습니다(%1$d/%2$d).</string>
+    <string name="checking_device_capabilities">기기 기능 확인 중</string>
+    <string name="clear_text_end_icon_content_description">텍스트 삭제</string>
+    <string name="close_drawer">탐색 메뉴 닫기</string>
+    <string name="close_sheet">시트 닫기</string>
+    <string name="common_google_play_services_enable_button">사용 설정</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
+    <string name="common_google_play_services_install_button">설치</string>
+    <string name="common_google_play_services_install_text">기기에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_title">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 서비스 사용 가능 여부</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 서비스 오류</string>
+    <string name="common_google_play_services_unknown_issue">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다.</string>
+    <string name="common_google_play_services_update_button">업데이트</string>
+    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_wear_update_text">새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다.</string>
+    <string name="common_open_on_phone">스마트폰에서 열기</string>
+    <string name="common_signin_button_text">로그인</string>
+    <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
+    <string name="community_layouts_created_by">작성자: %1$s</string>
+    <string name="community_layouts_error">커뮤니티 레이아웃은 현재 사용할 수 없습니다. 나중에 다시 시도하십시오.</string>
+    <string name="compatibility_learn_more">더 알아보기</string>
+    <string name="compatibility_mode_connection_fix">연결 개선을 활성화합니다. 기기의 연결이 작동하지 않을 경우, 이 옵션을 비활성화하십시오.</string>
+    <string name="compatibility_mode_text">"기기가 표준 연결 모드를 지원하지 않으므로 대신 호환 모드를 사용합니다.
+
+필요한 Bluetooth 연결을 만드는 데 여러 번 실패하거나, 작동하지 않을 수 있습니다.
+
+연결되지 않을 경우 다른 기기에서 앱을 이용해 주십시오.
+표준 모드는 Android 9 이상이 설치된 대부분의 기기에서 지원되며, 훨씬 더 좋은 품질을 보장합니다."</string>
+    <string name="compatibility_mode_text_developer_option">기기에서 \"개발자 옵션\"을 활성화한 다음 \"Bluetooth HID 장치 프로필 비활성화\"옵션을 비활성하여 일반 연결 모드를 활성화합니다.</string>
+    <string name="compatibility_mode_text_short">Bluetooth 연결 설정이 이 기기에서 작동하지 않을 수 있습니다!</string>
+    <string name="compatibility_mode_text_software_update">일반 연결 모드를 사용하려면 기기를 Android 11로 업데이트하세요.</string>
+    <string name="compatibility_mode_title">호환성 모드 사용</string>
+    <string name="component_button">버튼</string>
+    <string name="component_fullscreen_toggle">전체 화면 전환</string>
+    <string name="component_keyboard_toggle">키보드 전환</string>
+    <string name="component_speech_input">음성 입력</string>
+    <string name="component_touch_pad">터치 패드</string>
+    <string name="connect_from_button">검색 가능성 켜기</string>
+    <string name="connect_from_progress">원격 기기에서 연결 대기</string>
+    <string name="connect_from_subtitle">제어하려는 기기에서 연결을 시작하려면 이 기기에서 검색 기능을 켜십시오.</string>
+    <string name="connect_hidden_edit_text">블루투스 MAC 주소</string>
+    <string name="connect_hidden_helper_text">xx:xx:xx:xx:xx:xx의 형식입니다.</string>
+    <string name="connect_hidden_subtitle">일부 기기(예 : Chromecast with Google TV)는 검색 할 수 없지만 블루투스 MAC 주소를 통해 연결할 수 있습니다.</string>
+    <string name="connect_hidden_title">숨겨진 기기에 연결</string>
+    <string name="connect_info">다른 스마트폰, 태블릿 PC 또는 PC의 Bluetooth 설정에서 이 기기를 페어링하여 키보드와 마우스로 사용하실 수 있습니다.</string>
+    <string name="connect_info_title">새로운 기기 연결</string>
+    <string name="connect_to_button">기기 검색</string>
+    <string name="connect_to_subtitle">원격 기기에서 Bluetooth를 켜고 검색을 시작하기 전에 검색 가능한지 확인하십시오.</string>
+    <string name="connect_to_title">다른 기기에 연결</string>
+    <string name="connected">연결됨</string>
+    <string name="connecting">연결 중</string>
+    <string name="connection_bluetooth_disabled">&lt;b>Bluetooth 비활성화됨&lt;/b>&lt;br/>장치에 연결하려면 Bluetooth를 활성화하십시오.</string>
+    <string name="connection_button_connect">연결</string>
+    <string name="connection_connected_device">%1$s 연결 완료</string>
+    <string name="connection_connecting_message">기다리세요. 연결되지 않으면 \"%1$s\"에 Bluetooth가 켜져 있는지 확인하세요.</string>
+    <string name="connection_connecting_title">%1$s에 연결 중</string>
+    <string name="connection_device_paired">기기가 성공적으로 페어링되었습니다.</string>
+    <string name="connection_device_removed">%1$s와의 페어링이 제거되었습니다.</string>
+    <string name="connection_device_setup">블루투스 기기 설정</string>
+    <string name="connection_device_setup_connect_button">새로운 기기</string>
+    <string name="connection_device_setup_info_message">기기를 조종하려면 기존의 블루투스 기기를 선택하거나 새로운 걸 추가해.</string>
+    <string name="connection_device_setup_text">이 앱은 블루투스를 사용하여 다른 기기에 연결합니다. 제어하려는 기기를 선택하거나 새 기기를 연결하십시오.</string>
+    <string name="connection_disconnected_device">%1$s 연결 끊김</string>
+    <string name="connection_help_bluetooth_restart">연결 문제를 해결하기 위해 Bluetooth가 다시 시작됩니다.</string>
+    <string name="connection_help_connected">제어하려는 기기에서 마우스 커서를 움직이려면 아래의 터치 영역에서 손가락을 움직입니다.</string>
+    <string name="connection_help_discord_button">Discord 커뮤니티</string>
+    <string name="connection_help_discord_text">여전히 문제가 있나요? Discord 커뮤니티에서 기기 문제에 대한 도움을 받으세요.</string>
+    <string name="connection_help_fix_connection">연결 문제 수정</string>
+    <string name="connection_help_not_moving">연결 문제를 해결하려면 원격 기기에서 Bluetooth를 비활성화하고 활성화하십시오.</string>
+    <string name="connection_help_not_moving_close">닫기</string>
+    <string name="connection_help_not_moving_report">오류 보고</string>
+    <string name="connection_help_troubleshooting">문제 해결</string>
+    <string name="connection_help_use_touchpad">커서가 제어하려는 기기에서 잘 움직이나요?</string>
+    <string name="connection_help_use_touchpad_moving">움직임</string>
+    <string name="connection_help_use_touchpad_not_moving">움직이지 않음</string>
+    <string name="connection_info_disconnected">장치가 연결 해제되었습니다. 다른 장치와의 간섭, 장치의 Bluetooth 비활성화 또는 범위를 벗어남 때문일 수 있습니다.</string>
+    <string name="connection_info_never_connected">&lt;b>Bluetooth 연결 실패&lt;/b>&lt;br/> 원격 장치에서 Bluetooth가 활성화되어 있는지 확인하십시오.</string>
+    <string name="connection_info_profile_not_connected">"&lt;b>Bluetooth 연결을 업데이트해야 합니다&lt;/b>&lt;br/> %1$s이(가) 장치와 페어링되어 있지만 제어하려면 '입력 장치' 설정을 켜야 합니다.&lt;br/>&lt;br/> 1. &lt;b>%1$s&lt;/b> Bluetooth 설정에서 장치 &lt;b>%2$s&lt;/b>을(를) 찾으십시오.&lt;br/> 2. &lt;b>입력 장치&lt;/b>(또는 &lt;b>HID&lt;/b>)를 켜십시오. 없으면 장치를 다시 페어링하십시오. 다시 페어링하면 이 설정이 활성화되는 경우가 있습니다."</string>
+    <string name="connection_new_device_message">"1. 제어하려는 기기의 Bluetooth 설정으로 이동합니다.
+
+ 2. 새 기기를 추가하는 설정에 들어갑니다.
+
+ 3. '%1$s'라는 기기가 표시되어야합니다. 해당 기기가 없거나, 이미 페어링 된 경우 Bluetooth 설정을 확인하십시오. 이 경우 다시 연결하기 전, 기존의 페어링을 제거해야합니다.
+
+ 4. '%1$s'항목을 클릭하여 페어링을 시작하십시오. 페어링이 시작된 후 작업이 계속됩니다."</string>
+    <string name="connection_new_device_title">다른 기기에서 연결</string>
+    <string name="connection_not_paired">페어링되지 않았습니다! 마우스와 키보드를 사용하려면 원격 기기의 Bluetooth 설정에서 다시 페어링하십시오.</string>
+    <string name="connection_not_possible">지원되지 않을 수 있음</string>
+    <string name="connection_ongoing_message">"%1$s에 표시된 PIN을 확인하거나 입력하세요.
+
+블루투스 페어링 대화 상자가 나타나지 않으면 알림에서 블루투스 페어링 요청 메시지를 확인하세요."</string>
+    <string name="connection_ongoing_title">%1$s 페어링</string>
+    <string name="connection_option_a">연결 옵션 A</string>
+    <string name="connection_option_b">연결 옵션 B</string>
+    <string name="connection_option_c">연결 옵션 C</string>
+    <string name="connection_permission_required">장치를 원격으로 제어하려면 먼저 „%1$s“에게 „%2$s“ 권한을 부여해야 해</string>
+    <string name="connection_possible">연결 가능</string>
+    <string name="connection_remove_pairing">%1$s에 대한 페어링 제거</string>
+    <string name="connection_select_device">선택된 기기 %1$s</string>
+    <string name="connection_show_notifications">알림 표시</string>
+    <string name="connection_upgrade_required">연결 갱신 필요</string>
+    <string name="connection_upgrade_required_text">이 기기를 제어하려면 Bluetooth 연결을 갱신해야합니다. 계속하려면 페어링을 제거하세요.</string>
+    <string name="control_code_scanner">코드 스캐너</string>
+    <string name="control_custom">사용자 정의 레이아웃</string>
+    <string name="control_layout_custom_name">이름 지정</string>
+    <string name="control_layout_empty_text">작업 선택</string>
+    <string name="control_layout_key_edit">키 수정</string>
+    <string name="control_layout_no_delay">지체없이</string>
+    <string name="control_layout_rename_key">이름 바꾸기 버튼</string>
+    <string name="control_layout_send_text">보낼 문자</string>
+    <string name="control_layout_tab_functions">기능</string>
+    <string name="control_layout_tab_keyboard">키보드 단축키</string>
+    <string name="control_layout_tab_text">문자</string>
+    <string name="control_layout_test_on_device">„%1$s“로 조합 보내기</string>
+    <string name="control_layout_tooltip_expand_width">전체 폭 사용</string>
+    <string name="control_layout_tooltip_newline">새 줄에 표시</string>
+    <string name="control_mouse_keyboard">마우스 / 키보드</string>
+    <string name="control_multimedia">멀티미디어</string>
+    <string name="control_numpad">숫자 패드</string>
+    <string name="control_overview_backup">지원</string>
+    <string name="control_overview_delete_title">%1$s를 삭제하시겠습니까?</string>
+    <string name="control_overview_duplicate">사본 만들기</string>
+    <string name="control_overview_new_control">새로운 레이아웃</string>
+    <string name="control_overview_rename">이름 바꾸기</string>
+    <string name="control_pc_keyboard">PC 키보드</string>
+    <string name="control_presenter">발표</string>
+    <string name="control_shortcuts">단축키 레이아웃</string>
+    <string name="default_error_message">입력이 잘못됨</string>
+    <string name="default_popup_window_title">팝업 창</string>
+    <string name="delete">삭제</string>
+    <string name="device_button_connect">연결</string>
+    <string name="device_button_use">이 기기 사용</string>
+    <string name="device_help_check">기기가 켜져 있고 블루투스가 활성화되어 있는지 확인하세요.</string>
+    <string name="device_list_enable_notifications">알림에 현재 장치 연결 표시</string>
+    <string name="device_list_section_active_device">활성 장치</string>
+    <string name="device_list_section_configured_devices">구성된 장치</string>
+    <string name="device_setup_connect_another_device">다른 기기를 연결하세요.</string>
+    <string name="device_setup_try_again">다시 시도하세요.</string>
+    <string name="devices_button_add_device">새로운 기기 추가</string>
+    <string name="devices_button_help">도움말</string>
+    <string name="dialog_ble_not_supported">"이 기기는 이 Android 버전에서 블루투스 키보드를 지원하지 않는다고 합니다. 
+
+작동 할 가능성이 적으며, 작동하지 않는 경우 다른 기기나 최신 Android 버전을 이용해주십시오."</string>
+    <string name="dialog_ble_not_supported_title">경고</string>
+    <string name="dialog_ble_required">기기가 표준 연결 모드를 지원하지 않는 것 같습니다. 기기를 제어하려면 Bluetooth Low Energy (Bluetooth 저전력, BLE) 연결 모드로의 전환이 필요할 수 있습니다.</string>
+    <string name="dialog_ble_required_title">표준 연결 모드 문제</string>
+    <string name="dialog_premium_upgrade_message">"Pro 버전을 사용하면 다음과 같은 다양한 추가 기능에 액세스할 수 있습니다.
+
+[icon:ic_tv_remote] TV, 비디오, 음악 앱 및 장치를 제어하기 위한 **멀티미디어 레이아웃**
+[icon:ic_outline_keyboard_alt_24] 모든 키가 있는 **전체 PC 키보드**
+[icon:ic_outline_dashboard_customize_24] 사용자 지정 레이아웃을 위한 **매크로** 및 추가 기능
+[icon:ic_baseline_color_lens_24] 테마 변경, **다크 모드** 또는 **전체 화면** 사용
+[icon:ic_outline_mouse_24] 기기 움직임으로 커서를 제어하는 **에어 마우스**
+[icon:ic_outline_apps_24] **볼륨 키 지원**, **바코드 스캐너**, **숫자 패드**, **펜 모드** 등
+
+Pro 버전을 구매하면 새로운 기능 개발에도 도움이 됩니다. 감사합니다!"</string>
+    <string name="dialog_premium_upgrade_title">기기의 모든 잠재력을 잠금 해제하세요</string>
+    <string name="dialog_quit_button">연결 해제 및 종료</string>
+    <string name="dialog_quit_message">계속하려면 홈 버튼을 눌러 앱을 최소화하고 기기의 연결 상태를 유지하십시오.</string>
+    <string name="dialog_quit_title">연결을 끊고 종료하시겠습니까?</string>
+    <string name="dialog_rating_cancel">괜찮아요</string>
+    <string name="dialog_rating_later">나중에</string>
+    <string name="dialog_rating_title">이 애플리케이션 평가</string>
+    <string name="dialog_select_keyboard_layout">키보드 언어 레이아웃 선택</string>
+    <string name="dialog_survey_start">설문조사 시작</string>
+    <string name="dialog_survey_text">"블루투스 키보드 및 마우스 경험에 대한 간단한 설문 조사에 참여하세요.
+
+귀하의 피드백은 저희 앱을 개선하는 데 도움이 됩니다. 몇 분만 소요되며 서버리스 블루투스 게임패드 앱을 무료로 다운로드할 수 있는 코드를 받게 됩니다."</string>
+    <string name="dialog_survey_title">사용자 경험 설문조사</string>
+    <string name="disable_direct_mouse_input">직접 마우스 입력 비활성화</string>
+    <string name="disable_new_device_connections">새로운 기기 연결 비활성화</string>
+    <string name="disconnected">연결 끊김</string>
+    <string name="disconnecting">연결 끊기</string>
+    <string name="dropdown_menu">드롭다운 메뉴</string>
+    <string name="empty" />
+    <string name="empty_message">제어하려는 기기를 설정하려면 아래 버튼을 누르십시오.</string>
+    <string name="empty_title">제어하려는 기기 설정</string>
+    <string name="enable_connection_mode_to_add_new_devices">연결 모드를 활성화하여 새 기기 추가</string>
+    <string name="enable_new_device_connections">새로운 기기 연결 활성화</string>
+    <string name="error_a11y_label">오류: 잘못됨</string>
+    <string name="error_bluetooth_not_enabled">Bluetooth가 꺼져있음</string>
+    <string name="error_bluetooth_server">블루투스 서버를 초기화 할 수 없습니다.</string>
+    <string name="error_button_switch">전환</string>
+    <string name="error_icon_content_description">오류</string>
+    <string name="error_text_input">현재 키보드 언어에서 지원되지 않는 문자입니다.</string>
+    <string name="exit_dialog_continue">계속 편집</string>
+    <string name="exit_dialog_discard">버리기</string>
+    <string name="exit_dialog_title">변경 사항을 버릴까요?</string>
+    <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 표시</string>
+    <string name="help_change_language">&lt;h3>설정이 필요합니다!&lt;/h3>&lt;p> 특정 언어의 모든 특수 문자를 사용하기 위해서는 먼저 &lt;b>수신 기기&lt;/b>에서 해당 언어를 설정해야합니다.&lt;/p>&lt;h5>안드로이드&lt;/h5>&lt;p>수신 장치의 설정에서&lt;b>시스템&lt;/b> &lt;b>을 누른 다음, 언어 및 입력&lt;/b>에서 추가하시면 됩니다. &lt;b>키보드&lt;/b>에서 Bluetooth 키보드를 선택하여 수신 장치에서 이용할 언어를 선택할 수 있습니다.&lt;/p></string>
+    <string name="help_text">&lt;h3 id=how-it-works>작동 방식&lt;/h3>&lt;p> 앱은 Bluetooth를 사용하여 Bluetooth 호환 장치를 제어합니다.&lt;/p>&lt;h3 id=how-to-connect> 연결 방법&lt;/h3>&lt;p> 제어하려는 장치에서 블루투스 설정으로 이동하여 Android 장치에 연결을 시도합니다. 원격 장치에 표시된 PIN을 입력하거나 확인해야 하는 Android 장치에 대화 상자 또는 알림이 표시되어야 합니다.&lt;/p>&lt;h3 id=what-is-the-difference-between-the-normal-and-the-compatibility-connection-mode-> 일반 연결 모드와 호환 연결 모드의 차이점은 무엇입니까?&lt;/h3>&lt;p> &lt;strong>일반 연결 모드&lt;/strong> 는 Android 9 이상이 설치된 대부분의 장치에서 지원됩니다. 이 모드는 일반 Bluetooth 키보드 또는 마우스를 지원하는 대부분의 Bluetooth 장치에서 작동합니다.&lt;/p>&lt;p> &lt;strong>호환 연결 모드&lt;/strong> 는 일반 연결 모드를 지원하지 않는 Android 버전에서 사용됩니다. 이 모드는 최신 장치에서만 지원되는 Bluetooth 4.0(저에너지)을 사용합니다. 이 모드에서는 장치 연결이 끊긴 후 연결이 작동하지 않을 수 있으며 장치를 다시 페어링해야 합니다.&lt;/p>&lt;h3 id=the-letters-sent-to-my-devices-are-not-correct> 내 장치에서 수신한 문자가 잘못되었습니다.&lt;/h3>&lt;p> 잘못된 문자가 나타나면 연결된 장치에서 키보드 언어가 올바르게 설정되지 않았음을 의미합니다. 이 문제를 해결하려면 연결된 장치의 키보드 설정을 앱에 구성된 것과 동일한 레이아웃으로 변경하세요. 연결된 Android 기기의 경우 설정에서 하드웨어 키보드 언어도 변경해야 합니다.&lt;/p>&lt;h3 id=how-do-i-connect-to-my-windows-pc-> 내 Windows PC에 어떻게 연결합니까?&lt;/h3>&lt;p> Windows 장치가 Android 장치를 찾을 수 없으면 이미 연결되어 있을 수 있습니다. 이 문제를 해결하려면 Windows 장치에서 연결을 제거해야 합니다. Windows &amp;quot;Your Phone&amp;quot; Phone Link 앱을 사용하는 경우 휴대폰과 PC에서 Windows Phone Link 앱을 비활성화해야 합니다. 그런 다음 휴대폰과의 블루투스 페어링을 제거하고 앱 연결 화면을 통해 다시 연결해야 합니다. &lt;/p>&lt;h3 id=why-does-the-android-app-on-the-connected-device-restart-after-connecting-or-disconnecting-> 연결 또는 연결 해제 후 연결된 장치의 Android 앱이 다시 시작되는 이유는 무엇입니까?&lt;/h3>&lt;p> 일부 Android 앱은 블루투스 키보드 또는 미디어 리모컨이 연결되거나 연결 해제될 때 문제가 있습니다.&lt;/p>&lt;p> 이에 대한 해결책은 앱을 사용하기 전에 연결하고 뒤로 버튼 대신 홈 버튼으로 앱을 닫아 앱을 기기에 연결된 상태로 유지하는 것입니다.&lt;/p>&lt;p> 앱 이름을 알려 주시면 개발자에게 연락하여 앱에서 이 문제를 해결할 수 있습니다.&lt;/p>&lt;h3 id=can-i-use-the-premium-version-on-another-device-> 다른 기기에서 프리미엄 버전을 사용할 수 있나요?&lt;/h3>&lt;p> 예, 가능합니다. 구매는 Google 계정과 연결되어 있습니다. 구매에 사용한 것과 동일한 계정을 사용하고 있는지 확인하십시오. 또한 장치를 다시 시작하면 결제 문제를 해결할 수 있습니다.&lt;/p>&lt;h3 id=how-can-i-get-a-refund-> 환불을 받으려면 어떻게 해야 하나요?&lt;/h3>&lt;p> Google에서 직접 환불을 요청할 수 있습니다. &lt;a href=https://support.google.com/googleplay/answer/2479637?hl=en>https://support.google.com/googleplay/answer/2479637?hl=ko&lt;/a> 또는 저에게 메일을 보내주세요.&lt;/p></string>
+    <string name="icon_content_description">대화상자 아이콘</string>
+    <string name="in_progress">진행 중</string>
+    <string name="indeterminate">일부 선택됨</string>
+    <string name="info_device_not_connecting">기기에 연결할 수 없습니다. 다시 시도하십시오.</string>
+    <string name="info_message_full_screen_exit_button">위로 스와이프하고 뒤로 버튼을 눌러 전체 화면 모드를 종료하세요</string>
+    <string name="info_message_full_screen_exit_gesture">전체 화면 모드를 종료하려면 뒤로 버튼을 두 번 누르세요</string>
+    <string name="info_searching_action">고급 검색</string>
+    <string name="info_searching_devices">연결 가능한 Bluetooth 기기 검색</string>
+    <string name="info_searching_not_found">연결 가능한 Bluetooth 기기가 없습니다.</string>
+    <string name="info_searching_not_found_message">&lt;p>제어하려는 기기의 Bluetooth가 켜져있고 있고 다른 기기를 검색하는지 확인하십시오.&lt;/p>&lt;p> 연결하려는 기기의 Bluetooth 설정에서 기기를 검색 할 수 있습니다.&lt;/p>&lt;p> &lt;strong>고급 검색&lt;/strong>&lt;/p>&lt;p> Chromecast with Google TV와 같은 일부 기기는 이름이 표시되지 않으며, 이를 검색하려면 고급 검색을 이용해야합니다.&lt;/p></string>
+    <string name="info_shortcut_edit">편집하려면 길게 누르십시오.</string>
+    <string name="info_turn_device_off">연결을 개선하려면 블루투스 헤드셋이나 스피커를 연결 해제하세요.</string>
+    <string name="info_turn_device_off_lag">마우스 커서가 지연되면 블루투스 헤드셋이나 스피커를 연결 해제하세요.</string>
+    <string name="info_turn_hotspot_off">블루투스 연결을 개선하려면 핫스팟과 WiFi를 비활성화하세요.</string>
+    <string name="info_turn_hotspot_off_lag">마우스 커서가 지연되면 핫스팟과 WiFi를 끄세요.</string>
+    <string name="info_turn_wifi_off">블루투스 연결을 개선하려면 WiFi를 비활성화하세요.</string>
+    <string name="info_turn_wifi_off_lag">마우스 커서가 지연되면 WiFi를 비활성화해 보세요.</string>
+    <string name="item_view_role_description">탭</string>
+    <string name="keyboard_banner_not_working">아니요, 문제가 있어요</string>
+    <string name="keyboard_banner_text">키보드가 작동하나요? @와 같은 문자가 올바른지 확인하세요.</string>
+    <string name="keyboard_banner_working">네, 작동해요</string>
+    <string name="keyboard_layout_all_language_layouts">모든 언어 레이아웃</string>
+    <string name="keyboard_layout_info">"연결된 기기에 설정된 것과 일치하는 키보드 레이아웃을 선택하세요.
+잘못된 문자가 나타나면 다른 레이아웃을 선택하세요."</string>
+    <string name="keyboard_layout_previous_layouts">사용된 키보드 레이아웃</string>
+    <string name="keyboard_layout_system_language_layouts">시스템 언어 레이아웃</string>
+    <string name="keyboard_section_alphanumeric_modifier_keys">영숫자 및 보조 키</string>
+    <string name="keyboard_section_browser_keys">브라우저 키</string>
+    <string name="keyboard_section_function_keys">기능 키</string>
+    <string name="keyboard_section_navigation_system_keys">탐색 및 시스템 키</string>
+    <string name="keyboard_section_numpad">숫자 키패드</string>
+    <string name="layout_share">공유하다</string>
+    <string name="layout_share_description">레이아웃을 공유하면 다른 사용자가 보고 다운로드할 수 있습니다.</string>
+    <string name="layout_share_title">레이아웃 공유</string>
+    <string name="m3_loading_indicator_content_description">로드 중</string>
+    <string name="m3c_bottom_sheet_collapse_description">하단 시트 접기</string>
+    <string name="m3c_bottom_sheet_dismiss_description">하단 시트 닫기</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">드래그 핸들</string>
+    <string name="m3c_bottom_sheet_expand_description">하단 시트 펼치기</string>
+    <string name="m3c_bottom_sheet_pane_title">하단 시트</string>
+    <string name="m3c_date_input_headline">입력한 날짜</string>
+    <string name="m3c_date_input_headline_description">입력한 날짜: %1$s</string>
+    <string name="m3c_date_input_invalid_for_pattern">데이터가 예상 패턴과 일치하지 않음: %1$s</string>
+    <string name="m3c_date_input_invalid_not_allowed">데이터 허용 안 됨: %1$s</string>
+    <string name="m3c_date_input_invalid_year_range">데이터가 예상 연도 범위(%1$s~%2$s)를 벗어남</string>
+    <string name="m3c_date_input_label">날짜</string>
+    <string name="m3c_date_input_no_input_description">없음</string>
+    <string name="m3c_date_input_title">날짜 선택</string>
+    <string name="m3c_date_picker_headline">선택한 날짜</string>
+    <string name="m3c_date_picker_headline_description">현재 선택사항: %1$s</string>
+    <string name="m3c_date_picker_navigate_to_year_description">%1$s년으로 이동</string>
+    <string name="m3c_date_picker_no_selection_description">없음</string>
+    <string name="m3c_date_picker_scroll_to_earlier_years">스크롤하여 이전 연도 보기</string>
+    <string name="m3c_date_picker_scroll_to_later_years">스크롤하여 이후 연도 보기</string>
+    <string name="m3c_date_picker_switch_to_calendar_mode">캘린더 입력 모드로 전환</string>
+    <string name="m3c_date_picker_switch_to_day_selection">스와이프하여 연도를 선택하거나 탭하여 날짜 선택으로 돌아가세요.</string>
+    <string name="m3c_date_picker_switch_to_input_mode">텍스트 입력 모드로 전환</string>
+    <string name="m3c_date_picker_switch_to_next_month">다음 달로 변경</string>
+    <string name="m3c_date_picker_switch_to_previous_month">이전 달로 변경</string>
+    <string name="m3c_date_picker_switch_to_year_selection">연도 선택으로 전환</string>
+    <string name="m3c_date_picker_title">날짜 선택</string>
+    <string name="m3c_date_picker_today_description">오늘</string>
+    <string name="m3c_date_picker_year_picker_pane_title">연도 선택 도구 표시</string>
+    <string name="m3c_date_range_input_invalid_range_input">잘못된 기간 입력</string>
+    <string name="m3c_date_range_input_title">날짜 입력</string>
+    <string name="m3c_date_range_picker_day_in_range">범위 내</string>
+    <string name="m3c_date_range_picker_end_headline">종료일</string>
+    <string name="m3c_date_range_picker_scroll_to_next_month">스크롤하여 다음 달 보기</string>
+    <string name="m3c_date_range_picker_scroll_to_previous_month">스크롤하여 이전 달 보기</string>
+    <string name="m3c_date_range_picker_start_headline">시작일</string>
+    <string name="m3c_date_range_picker_title">날짜 선택</string>
+    <string name="m3c_dialog">대화상자</string>
+    <string name="m3c_dropdown_menu_collapsed">접힘</string>
+    <string name="m3c_dropdown_menu_expanded">펼침</string>
+    <string name="m3c_dropdown_menu_toggle">전환 드롭다운 메뉴</string>
+    <string name="m3c_floating_toolbar_collapse">툴바 접기</string>
+    <string name="m3c_floating_toolbar_expand">툴바 펼치기</string>
+    <string name="m3c_search_bar_search">검색</string>
+    <string name="m3c_snackbar_dismiss">닫기</string>
+    <string name="m3c_snackbar_pane_title">주의</string>
+    <string name="m3c_suggestions_available">아래의 추천 검색어</string>
+    <string name="m3c_time_input_dialog_title">시간 입력</string>
+    <string name="m3c_time_picker_am">오전</string>
+    <string name="m3c_time_picker_dialog_title">시간 선택</string>
+    <string name="m3c_time_picker_hour">시간</string>
+    <string name="m3c_time_picker_hour_24h_suffix">%1$d시간</string>
+    <string name="m3c_time_picker_hour_selection">시간 선택</string>
+    <string name="m3c_time_picker_hour_suffix">%1$d시 정각</string>
+    <string name="m3c_time_picker_hour_text_field">기간(시간)</string>
+    <string name="m3c_time_picker_minute">분</string>
+    <string name="m3c_time_picker_minute_selection">분 선택</string>
+    <string name="m3c_time_picker_minute_suffix">%1$d분</string>
+    <string name="m3c_time_picker_minute_text_field">기간(분)</string>
+    <string name="m3c_time_picker_period_toggle_description">오전 또는 오후를 선택하세요.</string>
+    <string name="m3c_time_picker_pm">오후</string>
+    <string name="m3c_time_picker_toggle_keyboard">시간 입력을 위해 텍스트 입력 모드로 전환합니다.</string>
+    <string name="m3c_time_picker_toggle_touch">시간 입력을 위해 시계 모드로 전환합니다.</string>
+    <string name="m3c_tooltip_long_press_label">도움말 표시</string>
+    <string name="m3c_tooltip_pane_description">도움말</string>
+    <string name="m3c_wide_navigation_rail_close_rail">레일 닫기</string>
+    <string name="m3c_wide_navigation_rail_pane_title">탐색 레일</string>
+    <string name="material_clock_toggle_content_description">오전 또는 오후를 선택하세요.</string>
+    <string name="material_hour_24h_suffix">%1$s시간</string>
+    <string name="material_hour_selection">시간 선택</string>
+    <string name="material_hour_suffix">%1$s시 정각</string>
+    <string name="material_minute_selection">분 선택</string>
+    <string name="material_minute_suffix">%1$s분</string>
+    <string name="material_slider_range_end">범위 끝</string>
+    <string name="material_slider_range_start">범위 시작</string>
+    <string name="material_slider_value">값</string>
+    <string name="material_timepicker_am">오전</string>
+    <string name="material_timepicker_clock_mode_description">시간 입력을 위해 시계 모드로 전환합니다.</string>
+    <string name="material_timepicker_hour">시간</string>
+    <string name="material_timepicker_minute">분</string>
+    <string name="material_timepicker_pm">오후</string>
+    <string name="material_timepicker_select_time">시간 선택</string>
+    <string name="material_timepicker_text_input_mode_description">시간 입력을 위해 텍스트 입력 모드로 전환합니다.</string>
+    <string name="md_message_connection_failed">"**연결 실패**
+
+Bluetooth 연결을 설정할 수 없습니다.
+
+{{ConnectionCard}}
+
+**해야 할 일:**
+1. **Bluetooth 확인:** 두 장치 모두 켜져 있는지 확인하세요.
+2. **더 가까이:** 장치가 연결될 수 있을 만큼 가까운지 확인하세요.
+3. **재시작:** 두 장치 모두 끄고 다시 켜세요.
+4. **업데이트:** 장치가 최신 상태인지 확인하세요.
+
+더 많은 도움이 필요하신가요? 저희 Discord 지원 채널에 가입하세요."</string>
+    <string name="md_message_pairing_failed">"**페어링 실패**
+
+Bluetooth 연결을 설정할 수 없습니다.
+
+{{ConnectionCard}}
+
+**해야 할 일:**
+1. **페어링 확인:** 각 장치에서 페어링 요청을 수락하세요.
+2. **다시 시도:** 요청을 보지 못했다면 재연결하세요.
+3. **재시작:** 두 장치 모두 끄고 다시 켜세요.
+4. **업데이트:** 모든 장치가 최신 상태인지 확인하세요.
+
+더 많은 도움이 필요하신가요? 저희 Discord 지원 채널에 가입하세요."</string>
+    <string name="menu_air_mouse_sensitivity">에어 마우스 감도</string>
+    <string name="menu_analog_stick">아날로그 스틱</string>
+    <string name="menu_ble_mode">호환 모드</string>
+    <string name="menu_bluetooth_devices">블루투스 기기</string>
+    <string name="menu_category_air_mouse">에어 마우스</string>
+    <string name="menu_category_touchpad">터치 패드</string>
+    <string name="menu_community_layouts">커뮤니티 레이아웃</string>
+    <string name="menu_custom_controls">사용자 정의 레이아웃</string>
+    <string name="menu_design_option">설계</string>
+    <string name="menu_done">완료</string>
+    <string name="menu_edit">편집</string>
+    <string name="menu_feedback">Develop and design by \"@Tiw@ri\"</string>
+    <string name="menu_full_screen">전체 화면 터치 패드 모드 시작</string>
+    <string name="menu_help">도움말</string>
+    <string name="menu_keyboard_language">키보드 언어</string>
+    <string name="menu_manage_layouts">레이아웃 관리</string>
+    <string name="menu_mouse_jiggle_mode">주기적으로 마우스 이동 (마우스 지글러)</string>
+    <string name="menu_mouse_settings">마우스 설정</string>
+    <string name="menu_paste">클립보드 텍스트 붙여 넣기</string>
+    <string name="menu_restore">복원</string>
+    <string name="menu_save_changes">저장</string>
+    <string name="menu_screen_settings">화면 설정</string>
+    <string name="menu_settings">설정</string>
+    <string name="menu_show_android_navigation_buttons">Android 탐색 버튼 표시</string>
+    <string name="menu_show_media_control_buttons">미디어 제어 버튼 표시</string>
+    <string name="menu_show_shortcuts_buttons">단축키 표시</string>
+    <string name="menu_theme_color">테마 색상</string>
+    <string name="menu_upgrade_to_premium">프로 버전으로 업그레이드</string>
+    <string name="menu_use_air_mouse">에어 마우스 사용</string>
+    <string name="menu_use_dark_theme">다크 모드</string>
+    <string name="menu_use_outline_theme">트론 스타일</string>
+    <string name="mesage_layout_restore_failed">레이아웃을 복원할 수 없습니다.</string>
+    <string name="message_char_not_found">"'%1$s'(은)는 선택한 키보드 언어에서 사용할 수 없습니다."</string>
+    <string name="message_connection_timeout">문자 보내기 실패</string>
+    <string name="message_error">문제가 발생했습니다. 다시 시도하여 주십시오.</string>
+    <string name="message_error_no_file_manager_found">파일 관리자를 찾을 수 없습니다</string>
+    <string name="message_error_speech_audio">오디오 오류. 음성 앱에서 마이크 액세스를 허용하세요.</string>
+    <string name="message_error_speech_client">음성 앱 오류. 권한 및 설정을 확인하세요.</string>
+    <string name="message_error_speech_device_lock">음성 입력을 사용하려면 기기를 잠금 해제하세요.</string>
+    <string name="message_error_speech_network">음성 앱 네트워크 오류. 연결을 확인하거나 앱을 전환하세요.</string>
+    <string name="message_error_speech_not_matched">음성을 인식하지 못했습니다. 다시 시도하거나 음성 앱을 전환하세요.</string>
+    <string name="message_error_speech_server">음성 서비스가 중단되었습니다. 나중에 다시 시도하거나 다른 앱을 사용하세요.</string>
+    <string name="message_layout_restored">레이아웃 복원됨</string>
+    <string name="message_pen_detected">펜이 감지되었습니다. 동작을 변경하려면 마우스 설정으로 이동하십시오.</string>
+    <string name="message_premium_required">이 기능은 Pro 버전에서 사용할 수 있습니다.</string>
+    <string name="message_purchase_completed">Pro 버전을 구매해주셔서 감사합니다! 이제 모든 기능을 사용할 수 있습니다.</string>
+    <string name="message_purchase_pending">구매를 완료하여 프로 기능을 잠금 해제하세요</string>
+    <string name="message_purchase_pending_action">완료 &amp; 프로 잠금 해제</string>
+    <string name="message_restore_failed">레이아웃을 복원할 수 없습니다.</string>
+    <string name="message_return_back">연결을 해제하려면 뒤로 버튼을 누르세요.</string>
+    <string name="message_rotate_device">기기를 돌려</string>
+    <string name="message_waiting_for_device">문자를 보내기 위해 기기 연결을 기다리는 중</string>
+    <string name="mouse_settings_close">닫기</string>
+    <string name="mouse_settings_invert_scroll_direction">스크롤 방향 반전</string>
+    <string name="mouse_settings_mouse_buttons">마우스 버튼</string>
+    <string name="mouse_settings_mouse_buttons_display">마우스 버튼 위치</string>
+    <string name="mouse_settings_pen_mode_description">펜이 화면 위에 있으면 커서가 움직입니다.</string>
+    <string name="mouse_settings_pen_mode_title">펜 그리기 모드</string>
+    <string name="mouse_settings_pointer_speed">포인터 속도</string>
+    <string name="mouse_settings_scroll_bar">스크롤 바</string>
+    <string name="mouse_settings_scroll_speed">스크롤 속도</string>
+    <string name="mouse_settings_show_buttons_above">터치패드 위에 버튼 표시</string>
+    <string name="mouse_settings_title">마우스 설정</string>
+    <string name="mouse_settings_touch_pad_clicks">터치 패드 마우스 클릭</string>
+    <string name="mtrl_badge_numberless_content_description">새 알림</string>
+    <string name="mtrl_checkbox_state_description_checked">선택됨</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">일부 선택됨</string>
+    <string name="mtrl_checkbox_state_description_unchecked">선택되지 않음</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">새 알림 %1$d개 초과</string>
+    <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
+    <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
+    <string name="mtrl_picker_announce_current_range_selection">시작일 선택: %1$s, 종료일 선택: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
+    <string name="mtrl_picker_announce_current_selection_none">없음</string>
+    <string name="mtrl_picker_cancel">취소</string>
+    <string name="mtrl_picker_confirm">확인</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">날짜 선택</string>
+    <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">종료일: %1$s</string>
+    <string name="mtrl_picker_invalid_format">형식이 잘못되었습니다.</string>
+    <string name="mtrl_picker_invalid_format_example">예: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">올바른 형식: %1$s</string>
+    <string name="mtrl_picker_invalid_range">날짜 범위가 잘못되었습니다.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">현재 연도(%1$d)로 이동</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d년으로 이동</string>
+    <string name="mtrl_picker_out_of_range">%1$s은 범위를 벗어난 날짜입니다.</string>
+    <string name="mtrl_picker_range_header_only_end_selected">시작일~%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s~종료일</string>
+    <string name="mtrl_picker_range_header_selected">%1$s~%2$s</string>
+    <string name="mtrl_picker_range_header_title">기간 선택</string>
+    <string name="mtrl_picker_range_header_unselected">시작일~종료일</string>
+    <string name="mtrl_picker_save">저장</string>
+    <string name="mtrl_picker_start_date_description">시작일: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">날짜</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">종료일</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">시작일</string>
+    <string name="mtrl_picker_text_input_day_abbr">일</string>
+    <string name="mtrl_picker_text_input_month_abbr">월</string>
+    <string name="mtrl_picker_text_input_year_abbr">년</string>
+    <string name="mtrl_picker_today_description">오늘(%1$s)</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">캘린더 입력 모드로 전환</string>
+    <string name="mtrl_picker_toggle_to_day_selection">캘린더 뷰로 전환</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">텍스트 입력 모드로 전환</string>
+    <string name="mtrl_picker_toggle_to_year_selection">연도별 뷰로 전환</string>
+    <string name="mtrl_timepicker_cancel">취소</string>
+    <string name="mtrl_timepicker_confirm">확인</string>
+    <string name="nav_app_bar_navigate_up_description">위로 이동</string>
+    <string name="nav_app_bar_open_drawer_description">탐색 창 열기</string>
+    <string name="navigation_menu">탐색 메뉴</string>
+    <string name="new_connections_disabled">새로운 연결 꺼짐</string>
+    <string name="not_paired">페어링되지 않음</string>
+    <string name="not_selected">선택되지 않음</string>
+    <string name="not_supported">"연결 후 작동하지 않는다면 기기를 다시 페어링해야합니다!
+
+1. 이 화면을 열어 두십시오. 
+2. 다른 기기에서 Bluetooth 설정으로 이동합니다. 
+3. 지금의 Bluetooth 연결을 제거한 후 다시 연결하십시오."</string>
+    <string name="notification_text">장치를 제어하려면 여기를 클릭하십시오.</string>
+    <string name="notification_title">%1$s 연결됨</string>
+    <string name="onboarding_get_started">자, 시작합시다!</string>
+    <string name="onboarding_message_1">이제 추가 소프트웨어나 하드웨어 없이 Bluetooth 키보드, 마우스, 멀티미디어 리모컨을 이용하실 수 있습니다.</string>
+    <string name="onboarding_message_2">"이 앱은 Bluetooth 키보드, 마우스를 지원하는 모든 장치를 지원합니다.
+
+하지만, 하드웨어의 문제로 일부 장치의 경우 작동하지 않을 수 있습니다."</string>
+    <string name="onboarding_message_3">"마우스 및 키보드 컨트롤은 광고 없이 무료로 사용할 수 있습니다.
+
+Pro 버전으로 업그레이드하면 멀티미디어 컨트롤, 에어 마우스 및 다양한 사용자 정의 옵션과 같은 추가 기능에 액세스할 수 있습니다."</string>
+    <string name="onboarding_next">다음</string>
+    <string name="onboarding_title_1">환영합니다!</string>
+    <string name="option_android">Android</string>
+    <string name="option_computer">컴퓨터</string>
+    <string name="option_connects_but_doesnt_work">연결은 되지만 작동하지 않음</string>
+    <string name="option_error">오류 발생</string>
+    <string name="option_ios">iOS</string>
+    <string name="option_macos">macOS</string>
+    <string name="option_no">아니요</string>
+    <string name="option_nothing">아무 일도 일어나지 않음</string>
+    <string name="option_other">기타</string>
+    <string name="option_phone">휴대전화</string>
+    <string name="option_something_else">다른 일이 발생함</string>
+    <string name="option_tablet">태블릿</string>
+    <string name="option_tv">TV</string>
+    <string name="option_unsure">잘 모르겠습니다</string>
+    <string name="option_windows">Windows</string>
+    <string name="option_yes">예</string>
+    <string name="outcome_connection_error">오류가 발생한 것 같습니다. 기기의 블루투스 설정을 확인하고 다시 시도하세요.</string>
+    <string name="outcome_device_not_visible">앱에서 기기가 보이지 않으면 페어링 모드이고 범위 내에 있는지 확인하세요. 두 기기를 모두 다시 시작해 보세요.</string>
+    <string name="outcome_enable_bluetooth">제어하려는 기기에서 블루투스를 활성화하고 다시 시도하세요.</string>
+    <string name="outcome_ensure_screen_unlocked">제어하려는 기기의 화면 잠금이 해제되어 있는지 확인하고 다시 시도하세요.</string>
+    <string name="outcome_find_bluetooth_setting">기기의 설정 또는 빠른 액세스 패널에서 블루투스를 찾아 활성화하세요. 도움이 필요하면 기기의 설명서 또는 지원 웹사이트를 참조하세요.</string>
+    <string name="outcome_restart_devices">두 기기의 전원을 껐다 켜고 문제 해결 프로세스를 다시 시작하세요.</string>
+    <string name="outcome_restart_devices_if_unlocked">화면 잠금이 해제되었는데도 문제가 계속 발생하면 두 기기를 모두 다시 시작해 보세요.</string>
+    <string name="outcome_unexpected_issue">예기치 않은 문제가 발생했습니다. 지원팀에 문의하여 도움을 받으세요.</string>
+    <string name="outcome_unlock_screen">제어하려는 기기의 화면 잠금을 해제하고 다시 시도하세요.</string>
+    <string name="pairing_successful">페어링 성공</string>
+    <string name="pairing_unknown">현재 페어링을 사용할 수 없습니다.</string>
+    <string name="password_toggle_content_description">비밀번호 표시</string>
+    <string name="permgrouplab_nearby_devices">근처 기기</string>
+    <string name="pin_required">PIN 입력을 기다리는 중</string>
+    <string name="premium_feature_fullscreen_mode">전체 화면 모드는 Pro 버전에서 사용할 수 있습니다</string>
+    <string name="premium_feature_password_mode">Pro 버전에서는 비밀번호 모드를 사용할 수 있습니다.</string>
+    <string name="premium_feature_text_field">Pro 버전에서는 텍스트 미리 작성 및 붙여넣기가 가능합니다.</string>
+    <string name="premium_feature_volume_buttons">원격 장치의 볼륨 변경은 Pro 버전에서 지원됩니다.</string>
+    <string name="premium_message_external_mouse_support">Pro 버전에서는 직접 마우스 입력이 지원됩니다.</string>
+    <string name="proposed_solution">제안된 해결 방법</string>
+    <string name="question_bluetooth_enabled">제어하려는 기기에서 블루투스가 활성화되어 있나요?</string>
+    <string name="question_connection_issue">연결을 시도할 때 어떤 일이 발생하나요?</string>
+    <string name="question_device_type">어떤 기기를 제어하려고 하시나요?</string>
+    <string name="question_device_visible">앱에서 제어하려는 기기가 보이나요?</string>
+    <string name="question_devices_restarted">두 기기의 전원을 껐다 켜 보셨나요?</string>
+    <string name="question_operating_system">기기에서 실행 중인 운영체제는 무엇인가요?</string>
+    <string name="question_screen_locked">제어하려는 기기의 화면이 잠겨 있나요?</string>
+    <string name="question_used_before">이전에 해당 기기에서 이 앱을 사용한 적이 있나요?</string>
+    <string name="range_end">범위 끝</string>
+    <string name="range_start">범위 시작</string>
+    <string name="scanner_continuous_scanning">연속 스캔</string>
+    <string name="scanner_reject_duplicate">중복 건너뛰기</string>
+    <string name="scanner_scan_code">QR/바코드 스캔</string>
+    <string name="scanner_send_enter">스캔 후 ENTER 보내기</string>
+    <string name="screen_settings_brightness">명도</string>
+    <string name="screen_settings_haptic_feedback">터치 진동</string>
+    <string name="screen_settings_keep_screen_on">화면 켜짐 유지</string>
+    <string name="screen_settings_show_keyboard_on_start">시작할 때 키보드 표시</string>
+    <string name="screen_settings_show_over_lock_screen">잠금 화면 위에 앱 표시</string>
+    <string name="screen_settings_show_text_input_bar">텍스트 입력줄 표시</string>
+    <string name="screen_settings_start_in_full_screen_mode">전체 화면 모드로 시작</string>
+    <string name="screen_settings_title">화면 설정</string>
+    <string name="screen_settings_vol_down_button">볼륨 낮추기 버튼</string>
+    <string name="screen_settings_vol_up_button">볼륨 업 버튼</string>
+    <string name="search_menu_title">검색</string>
+    <string name="searchview_clear_text_content_description">텍스트 삭제</string>
+    <string name="searchview_navigation_content_description">뒤로</string>
+    <string name="selected">선택됨</string>
+    <string name="settings_controls">컨트롤</string>
+    <string name="settings_display">디스플레이</string>
+    <string name="settings_gamepad">게임패드</string>
+    <string name="settings_keyboard">키보드</string>
+    <string name="settings_mouse">마우스</string>
+    <string name="share_dialog_author">저자 이름</string>
+    <string name="share_dialog_device_target">장치 대상</string>
+    <string name="share_dialog_language">레이아웃에 사용된 언어</string>
+    <string name="share_dialog_layout_name">레이아웃의 이름</string>
+    <string name="share_dialog_only_symbols">기호만</string>
+    <string name="share_dialog_public_sharing">커뮤니티와 공유</string>
+    <string name="shortcut_name">단축키 이름</string>
+    <string name="shortcuts_edit_help">편집하려면 버튼을 누르십시오. 버튼을 길게 누르고 끌어서 이동합니다.</string>
+    <string name="side_sheet_accessibility_pane_title">사이드 시트</string>
+    <string name="snackbar_pane_title">주의</string>
+    <string name="speech_input_not_supported">이 기기에서는 음성 입력이 지원되지 않습니다.</string>
+    <string name="state_empty">비어 있음</string>
+    <string name="state_off">사용 안함</string>
+    <string name="state_on">사용</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_mode_button">모드 전환</string>
+    <string name="switch_mode_message">"연결 모드를 바꾼 후 다시 페어링해야 정상적으로 연결됩니다.
+
+지금 연결 모드를 전환할까요?"</string>
+    <string name="switch_mode_title">연결 모드 전환</string>
+    <string name="switch_role">스위치</string>
+    <string name="tab">탭</string>
+    <string name="template_percent">%1$d퍼센트</string>
+    <string name="text_input_help_focused">문자를 입력 후 보내기를 누르십시오.</string>
+    <string name="text_input_help_unfocused">텍스트 입력</string>
+    <string name="text_visibility_hidden">비밀번호 모드로 전환됨</string>
+    <string name="text_visibility_visible">자동 완성 모드로 전환됨</string>
+    <string name="title_activity_key_config">새로운 단축키</string>
+    <string name="title_bluetooth_devices">블루투스 기기</string>
+    <string name="title_button_color">버튼 색상</string>
+    <string name="title_connection">새 기기 연결</string>
+    <string name="title_edit_layout">레이아웃 수정</string>
+    <string name="title_name">이름</string>
+    <string name="title_required_for_android_tv">Android TV에 필요함</string>
+    <string name="title_shortcut_edit">단축키 수정</string>
+    <string name="title_shortcut_list">단축키 관리</string>
+    <string name="tooltip_description">도움말</string>
+    <string name="tooltip_label">도움말 표시</string>
+    <string name="upgrade_buy_one_time">Pro 영구 잠금 해제 - %s</string>
+    <string name="upgrade_free_trial">%s일 무료 평가판 시작</string>
+    <string name="upgrade_start_subscription">그 다음 %1$s/년</string>
+</resources>

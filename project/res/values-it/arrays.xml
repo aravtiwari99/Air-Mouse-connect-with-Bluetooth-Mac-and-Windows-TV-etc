@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_position_options">
+        <item>Sinistra</item>
+        <item>Destra</item>
+    </string-array>
+    <string-array name="input_bar_options">
+        <item>Quando la tastiera è attiva</item>
+        <item>Sempre</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="mouse_buttons_options">
+        <item>Sinistra</item>
+        <item>Centro</item>
+        <item>Destra</item>
+    </string-array>
+    <string-array name="mouse_jiggle_mode_options">
+        <item>Spento</item>
+        <item>Solo quando lo schermo è acceso</item>
+        <item>"Sempre, anche in background (controlla l'ottimizzazione della batteria se non funziona)"</item>
+    </string-array>
+    <string-array name="theme_option_names">
+        <item>Chiaro</item>
+        <item>Scuro</item>
+        <item>Nero</item>
+        <item>Predefinito del sistema</item>
+    </string-array>
+    <string-array name="vertical_position_options">
+        <item>Sopra</item>
+        <item>Sotto</item>
+    </string-array>
+    <string-array name="volume_button_keys">
+        <item>Nessuna (volume di sistema)</item>
+        <item>Volume alto</item>
+        <item>Volume giù</item>
+        <item>Pulsante sinistro del mouse</item>
+        <item>Pulsante destro del mouse</item>
+        <item>Pagina su</item>
+        <item>Pagina giù</item>
+    </string-array>
+</resources>

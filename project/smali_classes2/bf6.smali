@@ -1,0 +1,111 @@
+.class public abstract Lbf6;
+.super Ljava/lang/Object;
+
+
+# direct methods
+.method public static final g(Lts3;Z[Li72;F)F
+    .locals 6
+
+    array-length v0, p2
+
+    const/high16 v1, 0x7fc00000    # Float.NaN
+
+    const/4 v2, 0x1
+
+    const/4 v2, 0x0
+
+    move v3, v2
+
+    :goto_0
+    if-ge v3, v0, :cond_3
+
+    aget-object v4, p2, v3
+
+    invoke-virtual {p0, v4}, Lts3;->g(Li72;)F
+
+    move-result v4
+
+    invoke-static {v1}, Ljava/lang/Float;->isNaN(F)Z
+
+    move-result v5
+
+    if-nez v5, :cond_1
+
+    cmpl-float v5, v4, v1
+
+    if-lez v5, :cond_0
+
+    const/4 v5, 0x1
+
+    goto :goto_1
+
+    :cond_0
+    move v5, v2
+
+    :goto_1
+    if-ne p1, v5, :cond_2
+
+    :cond_1
+    move v1, v4
+
+    :cond_2
+    add-int/lit8 v3, v3, 0x1
+
+    goto :goto_0
+
+    :cond_3
+    invoke-static {v1}, Ljava/lang/Float;->isNaN(F)Z
+
+    move-result p0
+
+    if-eqz p0, :cond_4
+
+    return p3
+
+    :cond_4
+    return v1
+.end method
+
+.method public static r(Landroid/widget/EdgeEffect;FF)F
+    .locals 2
+
+    sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    const/16 v1, 0x1f
+
+    if-lt v0, v1, :cond_0
+
+    invoke-static {p0, p1, p2}, Lgg1;->r(Landroid/widget/EdgeEffect;FF)F
+
+    move-result p0
+
+    return p0
+
+    :cond_0
+    invoke-virtual {p0, p1, p2}, Landroid/widget/EdgeEffect;->onPull(FF)V
+
+    return p1
+.end method
+
+.method public static y(Landroid/widget/EdgeEffect;)F
+    .locals 2
+
+    sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    const/16 v1, 0x1f
+
+    if-lt v0, v1, :cond_0
+
+    invoke-static {p0}, Lgg1;->y(Landroid/widget/EdgeEffect;)F
+
+    move-result p0
+
+    return p0
+
+    :cond_0
+    const/4 p0, 0x1
+
+    const/4 p0, 0x0
+
+    return p0
+.end method

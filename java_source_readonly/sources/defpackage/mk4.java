@@ -1,0 +1,5 @@
+package defpackage;
+
+/* loaded from: classes2.dex */
+public class mk4 extends IllegalArgumentException {
+}

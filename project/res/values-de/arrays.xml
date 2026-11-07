@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horizontal_position_options">
+        <item>Links</item>
+        <item>Rechts</item>
+    </string-array>
+    <string-array name="input_bar_options">
+        <item>Wenn die Tastatur aktiv ist</item>
+        <item>Immer</item>
+        <item>Niemals</item>
+    </string-array>
+    <string-array name="mouse_buttons_options">
+        <item>Links</item>
+        <item>Mitte</item>
+        <item>Rechts</item>
+    </string-array>
+    <string-array name="mouse_jiggle_mode_options">
+        <item>Aus</item>
+        <item>Nur wenn der Bildschirm eingeschaltet ist</item>
+        <item>Immer, auch im Hintergrund (Akku-Optimierung prüfen, wenn es nicht funktioniert)</item>
+    </string-array>
+    <string-array name="theme_option_names">
+        <item>Hell</item>
+        <item>Dunkel</item>
+        <item>Schwarz</item>
+        <item>Systemstandard</item>
+    </string-array>
+    <string-array name="vertical_position_options">
+        <item>Oben</item>
+        <item>Unten</item>
+    </string-array>
+    <string-array name="volume_button_keys">
+        <item>Keine (Systemlautstärke)</item>
+        <item>Lautstärke hoch</item>
+        <item>Lautstärke runter</item>
+        <item>Linke Maustaste</item>
+        <item>Rechte Maustaste</item>
+        <item>Seite hoch</item>
+        <item>Seite runter</item>
+    </string-array>
+</resources>

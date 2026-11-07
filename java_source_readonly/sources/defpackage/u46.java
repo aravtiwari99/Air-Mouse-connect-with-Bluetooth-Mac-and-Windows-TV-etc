@@ -1,0 +1,16 @@
+package defpackage;
+
+/* loaded from: classes2.dex */
+public final class u46 implements ji3 {
+    public static final u46 g = new Object();
+
+    /* JADX WARN: Type inference failed for: r0v0, types: [u46, java.lang.Object] */
+    static {
+        ei3.l(ei3.n(ax5.class, new nw5(1)));
+    }
+
+    @Override // defpackage.bj1
+    public final /* synthetic */ void g(Object obj, Object obj2) {
+        throw du4.a(obj);
+    }
+}

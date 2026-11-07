@@ -1,0 +1,5 @@
+.class public interface abstract Lvy1;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Ljz1;
